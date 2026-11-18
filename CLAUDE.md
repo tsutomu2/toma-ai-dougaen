@@ -41,7 +41,7 @@
    とーまくんの口調でのひとこと（その週の傾向を1〜2文）。`updatedAt` も更新
 7. GitHub Pages に反映する（ユーザーの希望でスマホから見るため）：
    `git add -A && git commit -m "動画と要約を更新（日付）" && git push`
-   - push の前に `git grep --cached -l AIza` で API キーが含まれていないことを必ず確認する
+   - push の前に `git grep --cached -nE "AIza[0-9A-Za-z_-]{30,}"` で API キーが含まれていないことを必ず確認する（何も出なければOK）
 8. 完了後、追加件数・残りの未要約件数・公開ページの URL を伝える
 
 ## 注意
