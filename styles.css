@@ -161,6 +161,54 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
 .pick img { width: 22px; height: 22px; flex: none; border-radius: 50%; background: var(--toma-blue); object-fit: cover; }
 .pick { white-space: nowrap; max-width: calc(100% - 70px); }
 
+/* 用語集 */
+.toolbar-inner[hidden], .status[hidden], .grid[hidden], .glossary[hidden] { display: none; }
+.tab[data-tab="glossary"] { margin-left: auto; }
+.glossary-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin: 12px 0 4px; }
+.glossary-head h2 {
+  margin: 0; font-size: 22px; font-weight: 900; color: var(--accent);
+  font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
+}
+.glossary-tools { display: flex; flex-direction: column; gap: 10px; margin: 10px 0 16px; }
+.glossary-search { max-width: 420px; flex: none; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  font: inherit; font-size: 13px; cursor: pointer; color: var(--accent);
+  background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 3px 12px;
+}
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 700; }
+.terms { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr)); gap: 14px; }
+.term {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px;
+  display: flex; flex-direction: column; gap: 8px; box-shadow: var(--shadow);
+}
+.term-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+.term-name {
+  margin: 0; font-size: 18px; color: var(--accent);
+  font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif; font-weight: 900;
+}
+.term-kana { font-size: 12px; color: var(--muted); }
+.term-toma {
+  margin: 0; display: flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 700;
+  background: var(--accent-soft); border-radius: 12px; padding: 6px 10px; color: var(--accent);
+  font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
+}
+.term-toma img { width: 28px; height: 28px; flex: none; border-radius: 50%; background: var(--toma-blue); }
+.term-body { margin: 0; font-size: 14px; }
+.term-jump {
+  align-self: flex-start; margin-top: auto; cursor: pointer; font: inherit; font-size: 13px; font-weight: 700;
+  color: var(--accent); background: none; border: 0; padding: 0; text-decoration: underline;
+}
+.term-nohit { margin-top: auto; font-size: 12px; color: var(--muted); }
+.term-chip {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin: 0 0 14px;
+  background: var(--accent-soft); color: var(--accent); border-radius: 12px; padding: 8px 12px; font-size: 14px; font-weight: 700;
+}
+.term-chip-x {
+  font: inherit; font-size: 13px; cursor: pointer; color: var(--accent);
+  background: var(--surface); border: 1px solid var(--accent); border-radius: 999px; padding: 2px 10px;
+}
+
 /* 「とーまくんおすすめだけ」切りかえ */
 .picks-toggle {
   display: inline-flex; align-items: center; gap: 6px; cursor: pointer;

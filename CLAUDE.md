@@ -14,7 +14,16 @@
 - `data/summaries.js` … 動画IDごとの要約（Claude が作る）
 - `data/pending.json` … まだ要約していない動画（ショート除く）
 - `data/guides.js` … タブごとの「まとめ」（例: Seedance の制作方法まとめ）。Claude が書く
-- `data/toma.js` … タブごとの「とーまくんのひとこと」と「イチオシ動画」。Claude が書く
+- `data/toma.js` … タブごとの「とーまくんのひとこと」。Claude が書く
+- `data/picks.js` … 「とーまくんおすすめ」の動画ID。**ユーザー（持ち主）が選ぶもの**。Claude は頼まれない限り変えない
+- `data/glossary.js` … 「📖 用語集」タブの用語。新しい動画によく出てくる言葉があれば足す（とーまくんの口調のひとこと＋やさしい説明）
+- `tools/serve.js` … 持ち主用ローカルサーバー（`npm start` → http://localhost:8765）。
+  このときだけ各動画に「おすすめ」ボタンと「公開ページに反映」ボタン（git push）が出る。公開ページには保存の仕組み自体がない
+
+## 公開ページ
+- GitHub: https://github.com/tsutomu2/toma-ai-dougaen （公開リポジトリ）
+- GitHub Pages: https://tsutomu2.github.io/toma-ai-dougaen/ （main ブランチのルートから配信。スマホ用）
+- `config.js`（APIキー）と `data/pending.json` は .gitignore 済み。絶対に公開しない
 
 ## タブ（AI別）
 - タブの定義は `js/youtube.js` の `CATEGORIES`（すべて／最新機能／Claude／Codex／Seedance／ChatGPT／Gemini）。

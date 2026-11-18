@@ -12,6 +12,9 @@
     loading: false,
     error: '',
     tab: 'all',
+    term: null, // 用語集から「この言葉が出てくる動画」を選んだとき { term, match[] }
+    gCat: 'all', // 用語集のカテゴリ
+    gQuery: '',
     sort: 'views',
     onlyPicks: false,
     owner: false, // 持ち主モード（ローカルサーバーで開いたとき）
@@ -86,7 +89,11 @@
   function alertOwner(msg) {
     state.ownerMsg = msg;
   }
-  const TABS = [{ id: 'all', label: 'すべて' }].concat(AITube.CATEGORIES);
+  const glossary = () => window.GLOSSARY || { cats: [], terms: [] };
+  const TABS = [{ id: 'all', label: 'すべて' }]
+    .concat(AITube.CATEGORIES)
+    .concat(glossary().terms.length ? [{ id: 'glossary', label: '📖 用語集' }] : []);
+  const isGlossary = () => state.tab === 'glossary';
   if (!TABS.some((t) => t.id === state.tab)) state.tab = 'all';
   const tabInfo = (id) => TABS.find((t) => t.id === id) || TABS[0];
   const tabDays = (id) => tabInfo(id).days || AITube.DEFAULT_DAYS;
@@ -132,8 +139,20 @@
   }
 
   // ---- データ ----
-  function visibleVideos(tab) {
+  /** 動画のタイトル・要約に、用語集の言葉が出てくるか */
+  function videoText(v) {
+    const s = summaries()[v.id];
+    return [v.title, s ? s.summary : '', s && s.points ? s.points.join(' ') : ''].join(' ').toLowerCase();
+  }
+  function mentions(v, match) {
+    const t = videoText(v);
+    return match.some((m) => t.includes(m.toLowerCase()));
+  }
+
+  function visibleVideos(tab, opts) {
     tab = tab || state.tab;
+    if (tab === 'glossary') return [];
+    const ignoreTerm = opts && opts.ignoreTerm;
     const q = state.query.trim().toLowerCase();
     const sums = summaries();
     const maxAge = tabDays(tab) * 86400000;
@@ -147,6 +166,7 @@
       if (state.hideShorts && v.durationSec <= AITube.SHORT_MAX_SEC) return false;
       if (state.onlySummarized && !sums[v.id]) return false;
       if (q && !(v.title + ' ' + v.channel).toLowerCase().includes(q)) return false;
+      if (state.term && !ignoreTerm && !mentions(v, state.term.match)) return false;
       return true;
     });
     return list.sort((a, b) =>
@@ -298,7 +318,13 @@
             'data-tab': t.id,
             'aria-selected': String(t.id === state.tab),
           },
-          [t.label, el('span', { class: 'count', text: String(visibleVideos(t.id).length) })]
+          [
+            t.label,
+            el('span', {
+              class: 'count',
+              text: String(t.id === 'glossary' ? glossary().terms.length : visibleVideos(t.id).length),
+            }),
+          ]
         )
       )
     );
@@ -363,13 +389,146 @@
     );
   }
 
+  /** 用語集タブ（data/glossary.js） */
+  function renderGlossary() {
+    const box = $('#glossary');
+    const g = glossary();
+    const base = visibleVideos('all', { ignoreTerm: true });
+
+    const search = el('input', {
+      type: 'search',
+      class: 'search glossary-search',
+      placeholder: '言葉をさがす（例：MCP、プロンプト）',
+      'aria-label': '用語をさがす',
+      value: state.gQuery,
+    });
+    search.addEventListener('input', (e) => {
+      state.gQuery = e.target.value;
+      renderGlossaryList();
+    });
+
+    const chips = el(
+      'div',
+      { class: 'chips', role: 'group', 'aria-label': 'カテゴリ' },
+      ['all'].concat(g.cats).map((c) => {
+        const b = el('button', {
+          type: 'button',
+          class: 'chip',
+          'aria-pressed': String(state.gCat === c),
+          text: c === 'all' ? 'ぜんぶ' : c,
+        });
+        b.addEventListener('click', () => {
+          state.gCat = c;
+          renderGlossary();
+        });
+        return b;
+      })
+    );
+
+    const listBox = el('div', { class: 'terms' });
+    function renderGlossaryList() {
+      const q2 = state.gQuery.trim().toLowerCase();
+      const shown = g.terms.filter((t) => {
+        if (state.gCat !== 'all' && t.cat !== state.gCat) return false;
+        if (q2 && ![t.term, t.kana, t.body, t.toma].join(' ').toLowerCase().includes(q2)) return false;
+        return true;
+      });
+      if (!shown.length) {
+        listBox.replaceChildren(
+          el('div', { class: 'empty' }, [
+            el('img', { src: 'images/toma-question.png', alt: '', width: '182', height: '196' }),
+            el('p', { text: 'その言葉は、まだ用語集にないみたい。' }),
+          ])
+        );
+        return;
+      }
+      listBox.replaceChildren(
+        ...shown.map((t) => {
+          const hits = base.filter((v) => mentions(v, t.match || [t.term]));
+          const jump = hits.length
+            ? el('button', { type: 'button', class: 'term-jump', text: `この言葉が出てくる動画 ${hits.length}本 →` })
+            : el('span', { class: 'term-nohit', text: '今週の動画にはまだ出てきてないよ' });
+          if (hits.length) {
+            jump.addEventListener('click', () => {
+              state.term = { term: t.term, match: t.match || [t.term] };
+              state.tab = 'all';
+              savePrefs();
+              render();
+              $('#list').scrollIntoView({ behavior: 'smooth', block: 'start' });
+            });
+          }
+          return el('article', { class: 'term' }, [
+            el('div', { class: 'term-head' }, [
+              el('h3', { class: 'term-name', text: t.term }),
+              t.kana ? el('span', { class: 'term-kana', text: t.kana }) : null,
+              el('span', { class: 'tag', text: t.cat }),
+            ]),
+            t.toma
+              ? el('p', { class: 'term-toma' }, [
+                  el('img', { src: 'images/toma-icon.png', alt: 'とーまくん', width: '28', height: '28' }),
+                  el('span', { text: t.toma }),
+                ])
+              : null,
+            el('p', { class: 'term-body', text: t.body }),
+            jump,
+          ]);
+        })
+      );
+    }
+    renderGlossaryList();
+
+    box.replaceChildren(
+      el('div', { class: 'glossary-head' }, [
+        el('h2', { text: 'とーまくんの AI 用語集' }),
+        g.updatedAt ? el('span', { class: 'guide-date', text: g.updatedAt + ' 更新' }) : null,
+      ]),
+      el('div', { class: 'glossary-tools' }, [search, chips]),
+      listBox
+    );
+  }
+
+  /** 用語集から来たときの「〇〇が出てくる動画」表示と解除ボタン */
+  function renderTermChip() {
+    const old = $('#term-chip');
+    if (old) old.remove();
+    if (!state.term || isGlossary()) return;
+    const chip = el('div', { id: 'term-chip', class: 'term-chip' }, [
+      el('span', { text: `📖「${state.term.term}」が出てくる動画だけ表示中` }),
+    ]);
+    const x = el('button', { type: 'button', class: 'term-chip-x', text: '× 解除' });
+    x.addEventListener('click', () => {
+      state.term = null;
+      render();
+    });
+    const back = el('button', { type: 'button', class: 'term-chip-x', text: '← 用語集にもどる' });
+    back.addEventListener('click', () => {
+      state.term = null;
+      state.tab = 'glossary';
+      savePrefs();
+      render();
+    });
+    chip.append(x, back);
+    $('#status').after(chip);
+  }
+
   function render() {
+    const glossaryMode = isGlossary();
     const list = visibleVideos();
     renderTabs();
     renderToma(list);
     renderGuide();
-    renderKpis(list);
+    renderKpis(glossaryMode ? visibleVideos('all', { ignoreTerm: true }) : list);
     renderStatus();
+    renderTermChip();
+    // 用語集タブでは、動画用の操作・一覧を隠して用語集を出す
+    $('.toolbar-inner').hidden = glossaryMode;
+    $('#status').hidden = glossaryMode;
+    $('#list').hidden = glossaryMode;
+    $('#glossary').hidden = !glossaryMode;
+    if (glossaryMode) {
+      renderGlossary();
+      return;
+    }
     document.querySelectorAll('.seg').forEach((g) => {
       g.querySelectorAll('button').forEach((b) =>
         b.setAttribute('aria-pressed', String(b.dataset.value === state[g.dataset.key]))
@@ -417,6 +576,7 @@
     const b = e.target.closest('[data-tab]');
     if (!b) return;
     state.tab = b.dataset.tab;
+    state.term = null;
     savePrefs();
     render();
   });
