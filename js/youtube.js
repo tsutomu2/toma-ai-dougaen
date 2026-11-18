@@ -19,9 +19,9 @@
   const CATEGORIES = [
     { id: 'new', label: '最新機能', q: ['AI 新機能'], re: /新機能|アップデート|新モデル|リリース|登場|搭載|発表|ついに|速報/ },
     { id: 'claude', label: 'Claude', q: ['Claude 使い方'], re: /Claude|クロード|Anthropic|アンソロピック/i },
-    { id: 'codex', label: 'Codex', q: ['Codex AI'], re: /Codex|コーデックス/i },
     { id: 'seedance', label: 'Seedance', q: ['Seedance', 'Seedance 使い方'], re: /Seedance|シーダンス|シードダンス/i, days: 30 },
-    { id: 'chatgpt', label: 'ChatGPT', q: ['ChatGPT 使い方'], re: /ChatGPT|チャットGPT|OpenAI|\bGPT-?\d/i },
+    // ChatGPT タブには、同じ OpenAI の Codex の動画もまとめて入れる
+    { id: 'chatgpt', label: 'ChatGPT', q: ['ChatGPT 使い方', 'Codex AI'], re: /ChatGPT|チャットGPT|OpenAI|\bGPT-?\d|Codex|コーデックス/i },
     { id: 'gemini', label: 'Gemini', q: ['Gemini 使い方'], re: /Gemini|ジェミニ|NotebookLM|\bVeo\b|Nano ?Banana/i },
   ];
   // タブに関係なく、AIの使い方全般を拾うための追加検索

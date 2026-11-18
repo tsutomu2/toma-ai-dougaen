@@ -101,7 +101,9 @@
   /** 動画のタブ。要約時に Claude が付けたもの（summary.cats）があればそちらを優先 */
   function catsOf(v) {
     const s = summaries()[v.id];
-    return (s && Array.isArray(s.cats) ? s.cats : v.cats) || [];
+    const cats = (s && Array.isArray(s.cats) ? s.cats : v.cats) || [];
+    // 以前の「codex」タブは ChatGPT タブにまとめた
+    return [...new Set(cats.map((c) => (c === 'codex' ? 'chatgpt' : c)))];
   }
 
   function el(tag, attrs, children) {

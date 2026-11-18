@@ -28,7 +28,8 @@
   リモートURLを `https://tsutomu2@github.com/...` にして tsutomu2 で push するよう固定済み（変えないこと）
 
 ## タブ（AI別）
-- タブの定義は `js/youtube.js` の `CATEGORIES`（すべて／最新機能／Claude／Codex／Seedance／ChatGPT／Gemini）。
+- タブの定義は `js/youtube.js` の `CATEGORIES`（すべて／最新機能／Claude／Seedance／ChatGPT／Gemini／📖用語集）。
+  Codex の動画は ChatGPT タブにまとめている（ユーザーの希望）
   タブごとに検索キーワード `q` と、タイトルで判定する `re`、対象期間 `days`（Seedance だけ30日）を持つ
 - タブを増やすときは `CATEGORIES` に1行足す（検索が1回増える＝1回の取得で+100ユニット）
 
