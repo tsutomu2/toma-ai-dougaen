@@ -158,7 +158,8 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
   padding: 1px 10px 1px 2px; font-size: 12px; font-weight: 700;
   font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
 }
-.pick img { width: 24px; height: 24px; border-radius: 50%; background: var(--toma-blue); }
+.pick img { width: 22px; height: 22px; flex: none; border-radius: 50%; background: var(--toma-blue); object-fit: cover; }
+.pick { white-space: nowrap; max-width: calc(100% - 70px); }
 
 /* 「とーまくんおすすめだけ」切りかえ */
 .picks-toggle {
@@ -188,7 +189,7 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
 .pick-btn[aria-pressed="true"] { border-style: solid; background: var(--accent-soft); }
 .pick-btn:disabled { opacity: 0.5; }
 .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: var(--line); }
-.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.thumb > img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .dur, .rank {
   position: absolute; font-size: 12px; font-weight: 600; color: #fff;
   background: rgba(0, 0, 0, 0.75); border-radius: 4px; padding: 1px 6px; font-variant-numeric: tabular-nums;
