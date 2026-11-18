@@ -24,6 +24,8 @@
 - GitHub: https://github.com/tsutomu2/toma-ai-dougaen （公開リポジトリ）
 - GitHub Pages: https://tsutomu2.github.io/toma-ai-dougaen/ （main ブランチのルートから配信。スマホ用）
 - `config.js`（APIキー）と `data/pending.json` は .gitignore 済み。絶対に公開しない
+- このPCの Git には GitHub アカウントが2つ（widespreder / tsutomu2）保存されている。
+  リモートURLを `https://tsutomu2@github.com/...` にして tsutomu2 で push するよう固定済み（変えないこと）
 
 ## タブ（AI別）
 - タブの定義は `js/youtube.js` の `CATEGORIES`（すべて／最新機能／Claude／Codex／Seedance／ChatGPT／Gemini）。

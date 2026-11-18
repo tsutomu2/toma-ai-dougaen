@@ -153,6 +153,7 @@
     tab = tab || state.tab;
     if (tab === 'glossary') return [];
     const ignoreTerm = opts && opts.ignoreTerm;
+    const ignorePicks = opts && opts.ignorePicks;
     const q = state.query.trim().toLowerCase();
     const sums = summaries();
     const maxAge = tabDays(tab) * 86400000;
@@ -161,7 +162,7 @@
       if (v.lang !== 'ja') return false;
       if (sums[v.id] && sums[v.id].topic === 'other') return false;
       if (tab !== 'all' && !catsOf(v).includes(tab)) return false;
-      if (state.onlyPicks && !isPicked(v.id)) return false;
+      if (state.onlyPicks && !ignorePicks && !isPicked(v.id)) return false;
       if (Date.now() - Date.parse(v.publishedAt) > maxAge) return false;
       if (state.hideShorts && v.durationSec <= AITube.SHORT_MAX_SEC) return false;
       if (state.onlySummarized && !sums[v.id]) return false;
@@ -393,7 +394,7 @@
   function renderGlossary() {
     const box = $('#glossary');
     const g = glossary();
-    const base = visibleVideos('all', { ignoreTerm: true });
+    const base = visibleVideos('all', { ignoreTerm: true, ignorePicks: true });
 
     const search = el('input', {
       type: 'search',
@@ -452,6 +453,7 @@
             jump.addEventListener('click', () => {
               state.term = { term: t.term, match: t.match || [t.term] };
               state.tab = 'all';
+              state.onlyPicks = false;
               savePrefs();
               render();
               $('#list').scrollIntoView({ behavior: 'smooth', block: 'start' });
