@@ -34,6 +34,8 @@
   const $ = (s) => document.querySelector(s);
   const summaries = () => window.SUMMARIES || {};
   const guides = () => window.GUIDES || {};
+  const toma = () => window.TOMA || { comments: {}, picks: {} };
+  const pickOf = (tab) => (toma().picks || {})[tab];
   const TABS = [{ id: 'all', label: 'すべて' }].concat(AITube.CATEGORIES);
   if (!TABS.some((t) => t.id === state.tab)) state.tab = 'all';
   const tabInfo = (id) => TABS.find((t) => t.id === id) || TABS[0];
@@ -161,10 +163,17 @@
 
   function card(v, rank) {
     const s = summaries()[v.id];
+    const isPick = pickOf(state.tab) === v.id;
     const thumb = el('a', { class: 'thumb', href: v.url, target: '_blank', rel: 'noopener' }, [
       v.thumbnail ? el('img', { src: v.thumbnail, alt: '', loading: 'lazy' }) : null,
       el('span', { class: 'dur', text: fmtDur(v.durationSec) }),
       state.sort === 'views' ? el('span', { class: 'rank', text: '#' + rank }) : null,
+      isPick
+        ? el('span', { class: 'pick' }, [
+            el('img', { src: 'images/toma-icon.png', alt: '', width: '28', height: '28' }),
+            'とーまくんイチオシ',
+          ])
+        : null,
     ]);
 
     let summaryBlock;
@@ -186,7 +195,7 @@
       ]);
     }
 
-    return el('article', { class: 'card' }, [
+    return el('article', { class: 'card' + (isPick ? ' is-pick' : '') }, [
       thumb,
       el('div', { class: 'body' }, [
         el('div', { class: 'meta' }, [
@@ -230,6 +239,34 @@
     );
   }
 
+  /** とーまくんのひとこと（data/toma.js）。無いタブは件数から作る */
+  function renderToma(list) {
+    const box = $('#toma-say');
+    const t = tabInfo(state.tab);
+    let text = (toma().comments || {})[state.tab];
+    if (!text) {
+      text = list.length
+        ? `${t.id === 'all' ? '' : t.label + ' の'}動画は ${list.length} 本あったよ。いちばん見られてるのは「${list[0].title}」だね〜。`
+        : 'うーん、ここはまだ動画がないみたい。';
+    }
+    const pickId = pickOf(state.tab);
+    const pick = pickId && list.find((v) => v.id === pickId);
+    box.replaceChildren(
+      el('img', { class: 'toma-say-img', src: 'images/toma-stand.png', alt: 'とーまくん', width: '275', height: '360' }),
+      el('div', { class: 'bubble' }, [
+        el('p', { class: 'bubble-name', text: 'とーまくん' }),
+        el('p', { text }),
+        pick
+          ? el('p', { class: 'bubble-pick' }, [
+              'イチオシは ',
+              el('a', { href: pick.url, target: '_blank', rel: 'noopener', text: '「' + pick.title + '」' }),
+              ' だよ。',
+            ])
+          : null,
+      ])
+    );
+  }
+
   /** タブごとの「まとめ」（data/guides.js。Claude が要約時に書く） */
   function renderGuide() {
     const box = $('#guide');
@@ -242,6 +279,7 @@
     box.hidden = false;
     box.replaceChildren(
       el('div', { class: 'guide-head' }, [
+        el('img', { class: 'guide-icon', src: 'images/toma-laugh.png', alt: '', width: '207', height: '194' }),
         el('h2', { text: g.title }),
         g.updatedAt ? el('span', { class: 'guide-date', text: g.updatedAt + ' 更新' }) : null,
       ]),
@@ -263,6 +301,7 @@
   function render() {
     const list = visibleVideos();
     renderTabs();
+    renderToma(list);
     renderGuide();
     renderKpis(list);
     renderStatus();
@@ -279,9 +318,16 @@
       const msg = state.loading
         ? ''
         : state.videos.length
-        ? '条件に合う動画がありません。絞り込みを変えてみてください。'
-        : '表示できる動画がまだありません。API キーを設定して「最新を取得」を押してください。';
-      box.replaceChildren(msg ? el('p', { class: 'empty', text: msg }) : '');
+        ? 'あれ？ 条件に合う動画が見つからないよ。絞り込みを変えてみてね。'
+        : 'まだ動画がないみたい。ぼくが集めてくるまで、ちょっと待っててね。';
+      box.replaceChildren(
+        msg
+          ? el('div', { class: 'empty' }, [
+              el('img', { src: 'images/toma-question.png', alt: '', width: '182', height: '196' }),
+              el('p', { text: msg }),
+            ])
+          : ''
+      );
       return;
     }
     box.replaceChildren(...list.map((v, i) => card(v, i + 1)));

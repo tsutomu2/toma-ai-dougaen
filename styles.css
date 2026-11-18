@@ -1,32 +1,41 @@
+/* とーまくんの色（紺・青・水色・ほっぺのピンク）に合わせた配色 */
 :root {
-  --bg: #f6f7f9;
+  --bg: #f1f6fc;
   --surface: #ffffff;
-  --text: #1b1f24;
-  --muted: #5f6b7a;
-  --line: #e3e6eb;
-  --accent: #4f46e5;
-  --accent-soft: #eef0ff;
-  --ja: #c2410c;
-  --ja-soft: #fff1e8;
-  --en: #0f766e;
-  --en-soft: #e6f6f4;
+  --text: #16244f;
+  --muted: #5a6a8c;
+  --line: #d9e5f3;
+  --accent: #1f3c9a;        /* とーまくんの線の紺 */
+  --accent-soft: #e2ecf9;
+  --toma-blue: #afcfee;     /* 体の水色 */
+  --toma-mid: #4a74bc;      /* たてがみの青 */
+  --toma-pink: #f3b6be;     /* ほっぺ */
+  --hero-bg: linear-gradient(180deg, #dcebfa 0%, #f1f6fc 100%);
+  --ja: #b3304a;
+  --ja-soft: #fde8ec;
+  --en: #1f5fa8;
+  --en-soft: #e2eefb;
   --err: #b42318;
-  --shadow: 0 1px 2px rgba(16, 24, 40, 0.06), 0 1px 3px rgba(16, 24, 40, 0.08);
+  --shadow: 0 1px 2px rgba(22, 36, 79, 0.06), 0 2px 6px rgba(22, 36, 79, 0.06);
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0f1216;
-    --surface: #181c22;
-    --text: #e8ebef;
-    --muted: #9aa4b1;
-    --line: #2a3039;
-    --accent: #8b85ff;
-    --accent-soft: #23234a;
-    --ja: #fb923c;
-    --ja-soft: #3a2416;
-    --en: #2dd4bf;
-    --en-soft: #13312e;
+    --bg: #0e1528;
+    --surface: #17213a;
+    --text: #e6edf9;
+    --muted: #9fb0cf;
+    --line: #2a3756;
+    --accent: #9cc0f0;
+    --accent-soft: #22325a;
+    --toma-blue: #5f86c4;
+    --toma-mid: #8fb2e6;
+    --toma-pink: #f3b6be;
+    --hero-bg: linear-gradient(180deg, #1a2a4d 0%, #0e1528 100%);
+    --ja: #f5a3b3;
+    --ja-soft: #3a1f2b;
+    --en: #9cc8f5;
+    --en-soft: #1b2d4d;
     --err: #f97066;
     --shadow: none;
     color-scheme: dark;
@@ -46,18 +55,57 @@ body {
 a { color: inherit; }
 .wrap { max-width: 1200px; margin: 0 auto; padding: 0 16px; }
 
-/* ヘッダー */
-.site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
-.site-header .wrap {
-  display: flex; flex-wrap: wrap; gap: 16px 32px;
-  align-items: center; justify-content: space-between;
-  padding-top: 20px; padding-bottom: 20px;
+.round { font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", "Hiragino Sans", sans-serif; }
+
+/* ヒーロー（とーまくんのあいさつ） */
+.hero { background: var(--hero-bg); border-bottom: 1px solid var(--line); overflow: hidden; }
+.hero-inner { display: flex; align-items: flex-end; gap: 8px 28px; padding-top: 24px; }
+.hero-toma { width: 190px; height: auto; flex: none; margin-bottom: -6px; }
+.hero-text { flex: 1; min-width: 0; padding-bottom: 22px; }
+.hero-kicker {
+  display: inline-block; margin: 0 0 6px; padding: 2px 12px; border-radius: 999px;
+  background: var(--accent); color: #fff; font-size: 13px; font-weight: 700; letter-spacing: 0.06em;
 }
-.brand h1 { margin: 0; font-size: 24px; letter-spacing: 0.02em; }
-.lead { margin: 2px 0 0; color: var(--muted); font-size: 14px; }
-.kpis { display: flex; gap: 28px; margin: 0; }
+.hero-title {
+  margin: 0; font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
+  font-weight: 900; font-size: clamp(30px, 5vw, 46px); line-height: 1.15; color: var(--accent); letter-spacing: 0.02em;
+}
+.hero-title span {
+  color: var(--toma-mid);
+  background: linear-gradient(transparent 62%, color-mix(in srgb, var(--toma-pink) 70%, transparent) 62%);
+}
+.hero-bubble { margin-top: 14px; max-width: 640px; }
+.kpis { display: flex; flex-wrap: wrap; gap: 8px 28px; margin: 14px 0 0; }
 .kpi dt { color: var(--muted); font-size: 12px; }
-.kpi dd { margin: 0; font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.kpi dd { margin: 0; font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums; color: var(--accent); }
+
+/* ふきだし */
+.bubble {
+  position: relative; background: var(--surface); border: 2px solid var(--accent);
+  border-radius: 18px; padding: 10px 16px; box-shadow: 3px 3px 0 var(--toma-blue);
+  font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif; font-weight: 500;
+}
+.bubble p { margin: 0; }
+.bubble p + p { margin-top: 6px; }
+.bubble strong { color: var(--toma-mid); }
+.hero-bubble::before {
+  content: ""; position: absolute; left: -12px; bottom: 18px; width: 18px; height: 18px;
+  background: var(--surface); border-left: 2px solid var(--accent); border-bottom: 2px solid var(--accent);
+  transform: rotate(45deg);
+}
+
+/* タブごとの、とーまくんのひとこと */
+.toma-say { display: flex; align-items: flex-end; gap: 12px; margin: 20px 0 4px; }
+.toma-say-img { width: 72px; height: auto; flex: none; }
+.toma-say .bubble { flex: 1; min-width: 0; }
+.toma-say .bubble::before {
+  content: ""; position: absolute; left: -11px; bottom: 16px; width: 16px; height: 16px;
+  background: var(--surface); border-left: 2px solid var(--accent); border-bottom: 2px solid var(--accent);
+  transform: rotate(45deg);
+}
+.bubble-name { font-size: 12px; font-weight: 700; color: var(--toma-mid); }
+.bubble-pick { font-size: 14px; }
+.bubble-pick a { color: var(--accent); font-weight: 700; }
 
 /* ツールバー */
 .toolbar {
@@ -100,9 +148,17 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
 /* カード一覧 */
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr)); gap: 16px; }
 .card {
-  background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px;
   overflow: hidden; display: flex; flex-direction: column; box-shadow: var(--shadow);
 }
+.card.is-pick { border: 2px solid var(--accent); box-shadow: 4px 4px 0 var(--toma-blue); }
+.pick {
+  position: absolute; left: 8px; bottom: 8px; display: inline-flex; align-items: center; gap: 4px;
+  background: var(--surface); color: var(--accent); border: 2px solid var(--accent); border-radius: 999px;
+  padding: 1px 10px 1px 2px; font-size: 12px; font-weight: 700;
+  font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
+}
+.pick img { width: 24px; height: 24px; border-radius: 50%; background: var(--toma-blue); }
 .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: var(--line); }
 .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .dur, .rank {
@@ -140,8 +196,9 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
   background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--accent);
   border-radius: 12px; padding: 16px 18px; margin-bottom: 18px; box-shadow: var(--shadow);
 }
-.guide-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; }
-.guide-head h2 { margin: 0; font-size: 19px; }
+.guide-head { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 12px; }
+.guide-icon { width: 52px; height: auto; }
+.guide-head h2 { margin: 0; font-size: 20px; font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif; font-weight: 900; color: var(--accent); }
 .guide-date { font-size: 12px; color: var(--muted); }
 .guide-intro { margin: 8px 0 0; }
 .guide-sections { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 8px 24px; margin-top: 8px; }
@@ -166,13 +223,29 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
 .summary details summary { cursor: pointer; }
 .summary .desc { white-space: pre-wrap; margin-top: 6px; overflow-wrap: anywhere; }
 
-.empty { color: var(--muted); text-align: center; padding: 60px 0; grid-column: 1 / -1; }
-.footer { color: var(--muted); font-size: 12px; padding-top: 32px; padding-bottom: 32px; }
+.empty { color: var(--muted); text-align: center; padding: 40px 0; grid-column: 1 / -1; font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif; }
+.empty img { width: 120px; height: auto; }
+.footer { margin-top: 40px; background: var(--accent-soft); color: var(--muted); font-size: 12px; }
+.footer-inner { display: flex; align-items: center; gap: 14px; padding-top: 18px; padding-bottom: 18px; }
+.footer-toma { width: 56px; height: auto; flex: none; }
+.footer p { margin: 0; }
 
 @media (max-width: 600px) {
   .toolbar { position: static; }
   .grid { grid-template-columns: 1fr; }
-  .kpis { gap: 18px; }
+  .hero-inner { gap: 4px 12px; padding-top: 16px; }
+  .hero-toma { width: 104px; align-self: flex-end; }
+  .hero-text { padding-bottom: 16px; }
+  .hero-bubble { font-size: 14px; }
+  .hero-bubble::before { display: none; }
+  .kpis { gap: 6px 18px; }
   .kpi dd { font-size: 17px; }
-  .brand h1 { font-size: 20px; }
+  .toma-say-img { width: 56px; }
+}
+@media (max-width: 420px) {
+  /* 狭い画面では、とーまくんを上に置いて文字を広く使う */
+  .hero-inner { flex-direction: column; align-items: flex-start; }
+  .hero-toma { position: absolute; right: 12px; top: 14px; width: 84px; }
+  .hero { position: relative; }
+  .hero-kicker, .hero-title { margin-right: 92px; }
 }

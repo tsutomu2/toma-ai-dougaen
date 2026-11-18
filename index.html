@@ -3,22 +3,32 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AI動画ウィークリー</title>
+  <title>とーまくんのウマいAI動画</title>
+  <meta name="description" content="とーまくんが選ぶ、AIの新機能・使い方がわかるYouTube動画集。">
+  <link rel="icon" type="image/png" href="images/toma-icon.png">
+  <link rel="apple-touch-icon" href="images/toma-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500;700;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header class="site-header">
-    <div class="wrap">
-      <div class="brand">
-        <h1>AI動画ウィークリー</h1>
-        <p class="lead">AI の新機能・使い方を紹介する日本語の YouTube 動画（直近7日間。Seedance は30日間）</p>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <img class="hero-toma" src="images/toma-wave.png" alt="手をふる、とーまくん" width="311" height="420">
+      <div class="hero-text">
+        <p class="hero-kicker">とーまくんが選ぶ AI動画集</p>
+        <h1 class="hero-title">とーまくんの<br><span>ウマい</span>AI動画</h1>
+        <div class="bubble hero-bubble">
+          <p>やぁ、とーまだよ。YouTube の AI 動画から、<strong>新しい機能</strong>と<strong>使い方</strong>がわかるやつだけ、ぼくがえらんで要約しといたよ。気になるタブから見てってね〜。</p>
+        </div>
+        <dl class="kpis" id="kpis"></dl>
       </div>
-      <dl class="kpis" id="kpis"></dl>
     </div>
   </header>
 
   <div class="toolbar">
-    <nav class="wrap tabs" id="tabs" role="tablist" aria-label="テーマ"></nav>
+    <nav class="wrap tabs" id="tabs" role="tablist" aria-label="AIの種類"></nav>
     <div class="wrap toolbar-inner">
       <div class="seg" role="group" aria-label="並び順" data-key="sort">
         <button type="button" data-value="views" aria-pressed="true">再生数順</button>
@@ -26,19 +36,26 @@
       </div>
       <label class="check"><input type="checkbox" id="hideShorts" checked> ショートを隠す</label>
       <label class="check"><input type="checkbox" id="onlySummarized"> 要約済みのみ</label>
-      <input type="search" id="query" class="search" placeholder="タイトル・チャンネルで絞り込み" aria-label="絞り込み">
+      <input type="search" id="query" class="search" placeholder="タイトル・チャンネルで探す" aria-label="タイトル・チャンネルで探す">
       <button type="button" id="refresh" class="refresh">最新を取得</button>
     </div>
   </div>
 
   <main class="wrap">
+    <section id="toma-say" class="toma-say" aria-live="polite"></section>
     <div id="status" class="status" role="status"></div>
     <section id="guide" class="guide" hidden></section>
     <div id="list" class="grid"></div>
   </main>
 
-  <footer class="wrap footer">
-    要約は動画のタイトル・説明文をもとに Claude が作成したものです。再生数は取得時点の値です。
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <img src="images/toma-stand.png" alt="" width="275" height="360" class="footer-toma">
+      <p>
+        要約は、動画のタイトル・説明文をもとに作っています。再生数は取得したときの数です。<br>
+        対象：AI の新機能・使い方を紹介する日本語の YouTube 動画（直近7日間。Seedance は30日間）
+      </p>
+    </div>
   </footer>
 
   <script>
@@ -49,6 +66,7 @@
   <script src="data/videos.js" onerror="void 0"></script>
   <script src="data/summaries.js" onerror="void 0"></script>
   <script src="data/guides.js" onerror="void 0"></script>
+  <script src="data/toma.js" onerror="void 0"></script>
   <script src="js/youtube.js"></script>
   <script src="app.js"></script>
 </body>
