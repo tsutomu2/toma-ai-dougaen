@@ -1,0 +1,9 @@
+{
+  "name": "ai-youtube-weekly",
+  "private": true,
+  "description": "直近1週間の YouTube AI 関連動画を一覧・要約するページ",
+  "scripts": {
+    "fetch": "node tools/fetch.js",
+    "merge": "node tools/merge-summaries.js"
+  }
+}

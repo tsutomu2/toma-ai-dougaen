@@ -1,0 +1,8 @@
+# API キー（絶対に公開しない）
+config.js
+.env
+
+# 作業用ファイル
+data/pending.json
+.claude/
+node_modules/
