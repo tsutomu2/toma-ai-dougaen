@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>とーまくんのウマいAI動画</title>
+  <title>とーまくんのAI動画園</title>
   <meta name="description" content="とーまくんが選ぶ、AIの新機能・使い方がわかるYouTube動画集。">
   <link rel="icon" type="image/png" href="images/toma-icon.png">
   <link rel="apple-touch-icon" href="images/toma-icon.png">
@@ -18,7 +18,7 @@
       <img class="hero-toma" src="images/toma-wave.png" alt="手をふる、とーまくん" width="311" height="420">
       <div class="hero-text">
         <p class="hero-kicker">とーまくんが選ぶ AI動画集</p>
-        <h1 class="hero-title">とーまくんの<br><span>ウマい</span>AI動画</h1>
+        <h1 class="hero-title">とーまくんの<br>AI<span>動画園</span></h1>
         <div class="bubble hero-bubble">
           <p>やぁ、とーまだよ。YouTube の AI 動画から、<strong>新しい機能</strong>と<strong>使い方</strong>がわかるやつだけ、ぼくがえらんで要約しといたよ。気になるタブから見てってね〜。</p>
         </div>
@@ -30,6 +30,9 @@
   <div class="toolbar">
     <nav class="wrap tabs" id="tabs" role="tablist" aria-label="AIの種類"></nav>
     <div class="wrap toolbar-inner">
+      <button type="button" id="onlyPicks" class="picks-toggle" aria-pressed="false">
+        <img src="images/toma-icon.png" alt="" width="24" height="24"> ★ とーまくんおすすめだけ
+      </button>
       <div class="seg" role="group" aria-label="並び順" data-key="sort">
         <button type="button" data-value="views" aria-pressed="true">再生数順</button>
         <button type="button" data-value="date" aria-pressed="false">新しい順</button>
@@ -38,6 +41,11 @@
       <label class="check"><input type="checkbox" id="onlySummarized"> 要約済みのみ</label>
       <input type="search" id="query" class="search" placeholder="タイトル・チャンネルで探す" aria-label="タイトル・チャンネルで探す">
       <button type="button" id="refresh" class="refresh">最新を取得</button>
+    </div>
+    <div class="wrap owner-bar" id="owner-bar" hidden>
+      <span class="owner-label">持ち主モード</span>
+      <span id="owner-msg" class="owner-msg"></span>
+      <button type="button" id="publish" class="refresh">公開ページに反映</button>
     </div>
   </div>
 
@@ -67,6 +75,7 @@
   <script src="data/summaries.js" onerror="void 0"></script>
   <script src="data/guides.js" onerror="void 0"></script>
   <script src="data/toma.js" onerror="void 0"></script>
+  <script src="data/picks.js" onerror="void 0"></script>
   <script src="js/youtube.js"></script>
   <script src="app.js"></script>
 </body>

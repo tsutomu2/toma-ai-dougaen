@@ -13,6 +13,10 @@
     error: '',
     tab: 'all',
     sort: 'views',
+    onlyPicks: false,
+    owner: false, // 持ち主モード（ローカルサーバーで開いたとき）
+    picksDirty: false,
+    ownerMsg: '',
     hideShorts: true,
     onlySummarized: false,
     query: '',
@@ -22,20 +26,66 @@
   const PREF = 'ai-weekly-prefs';
   try {
     const saved = JSON.parse(localStorage.getItem(PREF) || '{}');
-    ['tab', 'sort', 'hideShorts', 'onlySummarized'].forEach((k) => k in saved && (state[k] = saved[k]));
+    ['tab', 'sort', 'hideShorts', 'onlySummarized', 'onlyPicks'].forEach((k) => k in saved && (state[k] = saved[k]));
   } catch (_) {}
   function savePrefs() {
     try {
-      const { tab, sort, hideShorts, onlySummarized } = state;
-      localStorage.setItem(PREF, JSON.stringify({ tab, sort, hideShorts, onlySummarized }));
+      const { tab, sort, hideShorts, onlySummarized, onlyPicks } = state;
+      localStorage.setItem(PREF, JSON.stringify({ tab, sort, hideShorts, onlySummarized, onlyPicks }));
     } catch (_) {}
   }
 
   const $ = (s) => document.querySelector(s);
   const summaries = () => window.SUMMARIES || {};
   const guides = () => window.GUIDES || {};
-  const toma = () => window.TOMA || { comments: {}, picks: {} };
-  const pickOf = (tab) => (toma().picks || {})[tab];
+  const toma = () => window.TOMA || { comments: {} };
+
+  // とーまくんおすすめ（data/picks.js）。持ち主モード（npm start のローカルサーバー）のときだけ変更できる
+  const picks = new Set((window.PICKS && window.PICKS.ids) || []);
+  const isPicked = (id) => picks.has(id);
+
+  async function ownerApi(pathname, body) {
+    const res = await fetch(pathname, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'X-Toma-Owner': '1' },
+      body: JSON.stringify(body || {}),
+    });
+    const data = await res.json().catch(() => ({}));
+    if (!res.ok) throw new Error(data.error || 'HTTP ' + res.status);
+    return data;
+  }
+
+  async function togglePick(id, btn) {
+    const on = !isPicked(id);
+    btn.disabled = true;
+    try {
+      const r = await ownerApi('/api/picks', { id, on });
+      picks.clear();
+      r.ids.forEach((x) => picks.add(x));
+      state.picksDirty = true;
+    } catch (e) {
+      alertOwner('おすすめを保存できませんでした: ' + e.message);
+    }
+    render();
+  }
+
+  async function publish() {
+    const btn = $('#publish');
+    btn.disabled = true;
+    btn.textContent = '反映中…';
+    try {
+      await ownerApi('/api/publish');
+      state.picksDirty = false;
+      state.ownerMsg = '公開ページに反映しました。1〜2分で更新されます。';
+    } catch (e) {
+      state.ownerMsg = '反映できませんでした: ' + e.message;
+    }
+    render();
+  }
+
+  function alertOwner(msg) {
+    state.ownerMsg = msg;
+  }
   const TABS = [{ id: 'all', label: 'すべて' }].concat(AITube.CATEGORIES);
   if (!TABS.some((t) => t.id === state.tab)) state.tab = 'all';
   const tabInfo = (id) => TABS.find((t) => t.id === id) || TABS[0];
@@ -92,6 +142,7 @@
       if (v.lang !== 'ja') return false;
       if (sums[v.id] && sums[v.id].topic === 'other') return false;
       if (tab !== 'all' && !catsOf(v).includes(tab)) return false;
+      if (state.onlyPicks && !isPicked(v.id)) return false;
       if (Date.now() - Date.parse(v.publishedAt) > maxAge) return false;
       if (state.hideShorts && v.durationSec <= AITube.SHORT_MAX_SEC) return false;
       if (state.onlySummarized && !sums[v.id]) return false;
@@ -161,9 +212,21 @@
     $('#refresh').disabled = state.loading;
   }
 
+  function pickButton(id) {
+    const on = isPicked(id);
+    const btn = el('button', {
+      type: 'button',
+      class: 'pick-btn',
+      'aria-pressed': String(on),
+      text: on ? '★ とーまくんおすすめ中' : '☆ とーまくんおすすめにする',
+    });
+    btn.addEventListener('click', () => togglePick(id, btn));
+    return btn;
+  }
+
   function card(v, rank) {
     const s = summaries()[v.id];
-    const isPick = pickOf(state.tab) === v.id;
+    const isPick = isPicked(v.id);
     const thumb = el('a', { class: 'thumb', href: v.url, target: '_blank', rel: 'noopener' }, [
       v.thumbnail ? el('img', { src: v.thumbnail, alt: '', loading: 'lazy' }) : null,
       el('span', { class: 'dur', text: fmtDur(v.durationSec) }),
@@ -171,7 +234,7 @@
       isPick
         ? el('span', { class: 'pick' }, [
             el('img', { src: 'images/toma-icon.png', alt: '', width: '28', height: '28' }),
-            'とーまくんイチオシ',
+            'とーまくんおすすめ',
           ])
         : null,
     ]);
@@ -216,6 +279,8 @@
           v.comments != null ? el('span', { text: 'コメント ' + fmtCount(v.comments) }) : null,
         ]),
         summaryBlock,
+        // 持ち主モードのときだけ「おすすめ」ボタンを出す（公開ページには出ない）
+        state.owner ? pickButton(v.id) : null,
       ]),
     ]);
   }
@@ -249,8 +314,8 @@
         ? `${t.id === 'all' ? '' : t.label + ' の'}動画は ${list.length} 本あったよ。いちばん見られてるのは「${list[0].title}」だね〜。`
         : 'うーん、ここはまだ動画がないみたい。';
     }
-    const pickId = pickOf(state.tab);
-    const pick = pickId && list.find((v) => v.id === pickId);
+    const tabPicks = list.filter((v) => isPicked(v.id));
+    const pick = tabPicks[0];
     box.replaceChildren(
       el('img', { class: 'toma-say-img', src: 'images/toma-stand.png', alt: 'とーまくん', width: '275', height: '360' }),
       el('div', { class: 'bubble' }, [
@@ -258,9 +323,9 @@
         el('p', { text }),
         pick
           ? el('p', { class: 'bubble-pick' }, [
-              'イチオシは ',
+              `★ ぼくのおすすめは ${tabPicks.length} 本。たとえば `,
               el('a', { href: pick.url, target: '_blank', rel: 'noopener', text: '「' + pick.title + '」' }),
-              ' だよ。',
+              state.onlyPicks ? ' だよ。' : ' だよ。「★ とーまくんおすすめだけ」で絞りこめるよ。',
             ])
           : null,
       ])
@@ -312,6 +377,20 @@
     });
     $('#hideShorts').checked = state.hideShorts;
     $('#onlySummarized').checked = state.onlySummarized;
+    $('#onlyPicks').setAttribute('aria-pressed', String(state.onlyPicks));
+
+    const bar = $('#owner-bar');
+    bar.hidden = !state.owner;
+    if (state.owner) {
+      $('#owner-msg').textContent =
+        state.ownerMsg ||
+        (state.picksDirty
+          ? 'おすすめを変更しました。スマホの公開ページにも出すには「公開ページに反映」を押してください。'
+          : '★ボタンで、とーまくんおすすめを選べます（このパソコンだけ）。');
+      const pub = $('#publish');
+      pub.disabled = false;
+      pub.textContent = '公開ページに反映';
+    }
 
     const box = $('#list');
     if (!list.length) {
@@ -365,6 +444,25 @@
     render();
   });
   $('#refresh').addEventListener('click', loadLive);
+  $('#onlyPicks').addEventListener('click', () => {
+    state.onlyPicks = !state.onlyPicks;
+    savePrefs();
+    render();
+  });
+  $('#publish').addEventListener('click', publish);
+
+  // 持ち主モードの判定：npm start のローカルサーバーにだけある /api/owner が応答するか
+  // （GitHub Pages などの公開ページにはこの API がないので、ボタンは出ない）
+  async function detectOwner() {
+    if (!/^(localhost|127\.0\.0\.1)$/.test(location.hostname)) return;
+    try {
+      const r = await fetch('/api/owner', { cache: 'no-store' });
+      if (r.ok && (await r.json()).owner === true) {
+        state.owner = true;
+        render();
+      }
+    } catch (_) {}
+  }
 
   // ---- 起動: 保存済みデータを即表示 → 古ければ（6時間以上前）最新を取得 ----
   // 1回の取得で約800ユニット使うので、開くたびには取得しない
@@ -375,5 +473,6 @@
     state.source = 'snapshot';
   }
   render();
+  detectOwner();
   if (!state.fetchedAt || Date.now() - Date.parse(state.fetchedAt) > STALE_MS) loadLive();
 })();
