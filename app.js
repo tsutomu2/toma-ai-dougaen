@@ -28,6 +28,20 @@
   // 表示設定はブラウザに記憶（失敗しても動作に影響なし）
   const PREF = 'ai-weekly-prefs';
   const LIVE_CACHE = 'toma-live-cache'; // ブラウザで取得した最新データ
+  // 視聴記録 { 動画ID: { pct: 見た割合, t: 続きの位置(秒), at: 時刻 } }
+  const WATCH = 'toma-watched';
+  const WATCHED_PCT = 90; // ここまで見たら「視聴済み」
+  let watched = {};
+  try {
+    watched = JSON.parse(localStorage.getItem(WATCH) || '{}') || {};
+  } catch (_) {}
+  const saveWatched = () => {
+    try {
+      localStorage.setItem(WATCH, JSON.stringify(watched));
+    } catch (_) {}
+  };
+  const watchPct = (id) => (watched[id] && watched[id].pct) || 0;
+  const player = { id: null, yt: null, timer: null };
   try {
     const saved = JSON.parse(localStorage.getItem(PREF) || '{}');
     ['tab', 'sort', 'hideShorts', 'onlySummarized', 'onlyPicks'].forEach((k) => k in saved && (state[k] = saved[k]));
@@ -274,9 +288,15 @@
   function card(v, rank) {
     const s = summaries()[v.id];
     const isPick = isPicked(v.id);
-    const thumb = el('a', { class: 'thumb', href: v.url, target: '_blank', rel: 'noopener' }, [
+    const pct = watchPct(v.id);
+    const thumb = el('a', { class: 'thumb', href: v.url, target: '_blank', rel: 'noopener', 'data-play': v.id }, [
       v.thumbnail ? el('img', { src: v.thumbnail, alt: '', loading: 'lazy' }) : null,
       el('span', { class: 'dur', text: fmtDur(v.durationSec) }),
+      // 視聴済みマークと、どこまで見たかのバー（このブラウザで見た分だけ）
+      pct > 0
+        ? el('span', { class: 'watch-badge' + (pct >= WATCHED_PCT ? ' done' : ''), text: pct >= WATCHED_PCT ? '✓ 視聴済み' : pct + '% 視聴' })
+        : null,
+      pct > 0 ? el('span', { class: 'watch-bar' }, el('span', { style: 'width:' + Math.min(pct, 100) + '%' })) : null,
       state.sort === 'views' ? el('span', { class: 'rank', text: '#' + rank }) : null,
       isPick
         ? el('span', { class: 'pick' }, [
@@ -305,7 +325,7 @@
       ]);
     }
 
-    return el('article', { class: 'card' + (isPick ? ' is-pick' : '') }, [
+    return el('article', { class: 'card' + (isPick ? ' is-pick' : '') + (pct >= WATCHED_PCT ? ' is-watched' : '') }, [
       thumb,
       el('div', { class: 'body' }, [
         el('div', { class: 'meta' }, [
@@ -315,7 +335,7 @@
             .map((c) => el('span', { class: 'tag', text: tabInfo(c).label })),
           catsOf(v).includes('new') ? el('span', { class: 'tag tag-new', text: '新機能' }) : null,
         ]),
-        el('h2', { class: 'title' }, el('a', { href: v.url, target: '_blank', rel: 'noopener', text: v.title })),
+        el('h2', { class: 'title' }, el('a', { href: v.url, target: '_blank', rel: 'noopener', 'data-play': v.id, text: v.title })),
         el('div', { class: 'channel', text: v.channel }),
         el('div', { class: 'stats' }, [
           el('span', { class: 'views', title: v.views.toLocaleString('ja-JP') + ' 回' }, [
@@ -615,7 +635,121 @@
     box.replaceChildren(...list.map((v, i) => card(v, i + 1)));
   }
 
+  // ---- 視聴記録と、ページ内プレーヤー ----
+  // YouTube は他のサイトに視聴履歴を見せないので、このページの中で再生した分だけを記録する。
+  // 記録はこのブラウザ（localStorage）だけに残る。スマホとパソコンは別々。
+  function openPlayer(id) {
+    const v = state.videos.find((x) => x.id === id);
+    if (!v) return;
+    const dlg = $('#player');
+    player.id = id;
+    $('#player-title').textContent = v.title;
+    $('#player-yt').href = v.url;
+    $('#player-msg').hidden = true;
+    $('#player-frame').replaceWith(el('div', { id: 'player-frame' }));
+    renderPlayerFoot();
+    if (!dlg.open) dlg.showModal();
+    loadYTApi().then(
+      () => {
+        if (player.id !== id) return;
+        const rec = watched[id] || {};
+        // 前に途中まで見ていたら、その続きから
+        const start = rec.pct < WATCHED_PCT && rec.t > 5 ? Math.floor(rec.t) : 0;
+        player.yt = new YT.Player('player-frame', {
+          videoId: id,
+          playerVars: { autoplay: 1, rel: 0, playsinline: 1, start },
+          events: {
+            onStateChange: (e) => {
+              if (e.data === YT.PlayerState.ENDED) recordProgress(true);
+            },
+            onError: () => {
+              $('#player-msg').hidden = false;
+              $('#player-msg').textContent = 'この動画は、ここでは再生できないみたい。「YouTube で開く」から見てね。';
+            },
+          },
+        });
+        clearInterval(player.timer);
+        player.timer = setInterval(() => recordProgress(false), 2000);
+      },
+      () => {
+        $('#player-msg').hidden = false;
+        $('#player-msg').textContent = 'プレーヤーを読み込めませんでした。「YouTube で開く」から見てね。';
+      }
+    );
+  }
+
+  function recordProgress(ended) {
+    const p = player.yt;
+    if (!player.id || !p || typeof p.getCurrentTime !== 'function') return;
+    const dur = p.getDuration() || 0;
+    if (!dur) return;
+    const t = p.getCurrentTime() || 0;
+    if (!ended && t < 1) return; // まだ再生していない
+    const pct = ended ? 100 : Math.round((t / dur) * 100);
+    const rec = watched[player.id] || { pct: 0 };
+    // 見た割合は「いちばん先まで見たところ」を残す。t は続きから再生する位置
+    watched[player.id] = { pct: Math.max(rec.pct || 0, pct), t: ended ? 0 : t, at: Date.now() };
+    saveWatched();
+    renderPlayerFoot();
+  }
+
+  function renderPlayerFoot() {
+    const pct = watchPct(player.id);
+    $('#player-progress').textContent = pct >= WATCHED_PCT ? '✓ 視聴済み' : pct > 0 ? pct + '% 視聴' : 'まだ見ていない';
+    $('#player-mark').textContent = pct >= WATCHED_PCT ? '未視聴に戻す' : '視聴済みにする';
+  }
+
+  function closePlayer() {
+    recordProgress(false);
+    clearInterval(player.timer);
+    if (player.yt && player.yt.destroy) player.yt.destroy();
+    player.yt = null;
+    player.id = null;
+    render();
+  }
+
+  let ytApi = null;
+  function loadYTApi() {
+    if (window.YT && window.YT.Player) return Promise.resolve();
+    if (ytApi) return ytApi;
+    ytApi = new Promise((resolve, reject) => {
+      const prev = window.onYouTubeIframeAPIReady;
+      window.onYouTubeIframeAPIReady = () => {
+        if (prev) prev();
+        resolve();
+      };
+      const sc = document.createElement('script');
+      sc.src = 'https://www.youtube.com/iframe_api';
+      sc.onerror = () => {
+        ytApi = null;
+        reject(new Error('load'));
+      };
+      document.head.append(sc);
+    });
+    return ytApi;
+  }
+
   // ---- イベント ----
+  // サムネイル・タイトルを押したら、このページの中で再生する（Ctrl/⌘+クリックは今までどおり YouTube を新しいタブで）
+  $('#list').addEventListener('click', (e) => {
+    const a = e.target.closest('a[data-play]');
+    if (!a || e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return;
+    e.preventDefault();
+    openPlayer(a.dataset.play);
+  });
+  $('#player-close').addEventListener('click', () => $('#player').close());
+  $('#player').addEventListener('close', closePlayer);
+  $('#player').addEventListener('click', (e) => {
+    if (e.target === $('#player')) $('#player').close(); // 外側（暗いところ）を押したら閉じる
+  });
+  $('#player-mark').addEventListener('click', () => {
+    const id = player.id;
+    if (!id) return;
+    if (watchPct(id) >= WATCHED_PCT) delete watched[id];
+    else watched[id] = { pct: 100, t: 0, at: Date.now() };
+    saveWatched();
+    renderPlayerFoot();
+  });
   $('#tabs').addEventListener('click', (e) => {
     const b = e.target.closest('[data-tab]');
     if (!b) return;

@@ -67,6 +67,21 @@
     <div id="list" class="grid"></div>
   </main>
 
+  <!-- 動画をこのページの中で再生する（どこまで見たかを記録するため） -->
+  <dialog id="player" class="player" aria-labelledby="player-title">
+    <div class="player-head">
+      <h2 id="player-title" class="player-title"></h2>
+      <button type="button" class="player-close" id="player-close" aria-label="閉じる">×</button>
+    </div>
+    <div class="player-frame"><div id="player-frame"></div></div>
+    <p class="player-msg" id="player-msg" hidden></p>
+    <div class="player-foot">
+      <span class="player-progress" id="player-progress"></span>
+      <button type="button" class="player-mark" id="player-mark"></button>
+      <a class="player-yt" id="player-yt" target="_blank" rel="noopener">YouTube で開く ↗</a>
+    </div>
+  </dialog>
+
   <footer class="footer">
     <div class="wrap footer-inner">
       <img src="images/toma-stand.png" alt="" width="275" height="360" class="footer-toma">

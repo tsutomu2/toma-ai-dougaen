@@ -262,6 +262,40 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
   background: rgba(0, 0, 0, 0.75); border-radius: 4px; padding: 1px 6px; font-variant-numeric: tabular-nums;
 }
 .dur { right: 8px; bottom: 8px; }
+
+/* 視聴済みマーク・どこまで見たかのバー */
+.watch-badge {
+  position: absolute; right: 8px; top: 8px; font-size: 12px; font-weight: 700; color: #fff;
+  background: rgba(0, 0, 0, 0.75); border-radius: 999px; padding: 2px 9px;
+}
+.watch-badge.done { background: #2f8a4e; }
+.watch-bar { position: absolute; left: 0; right: 0; bottom: 0; height: 5px; background: rgba(255, 255, 255, 0.35); }
+.watch-bar > span { display: block; height: 100%; background: #e5484d; }
+.card.is-watched .thumb > img { opacity: 0.6; }
+
+/* ページ内プレーヤー */
+.player {
+  width: min(960px, calc(100vw - 24px)); max-height: calc(100vh - 24px); padding: 0; overflow: auto;
+  background: var(--surface); color: var(--text); border: 2px solid var(--accent); border-radius: 16px;
+}
+.player::backdrop { background: rgba(5, 10, 30, 0.75); }
+.player-head { display: flex; align-items: flex-start; gap: 10px; padding: 12px 14px; }
+.player-title { flex: 1; min-width: 0; margin: 0; font-size: 15px; line-height: 1.4; }
+.player-close {
+  flex: none; width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--line);
+  background: var(--bg); color: var(--text); font-size: 22px; line-height: 1; cursor: pointer;
+}
+.player-frame { aspect-ratio: 16 / 9; background: #000; }
+.player-frame > * { width: 100%; height: 100%; display: block; border: 0; }
+.player-msg { margin: 0; padding: 10px 14px; color: var(--muted); font-size: 14px; }
+.player-msg[hidden] { display: none; }
+.player-foot { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; padding: 12px 14px; }
+.player-progress { font-weight: 700; color: var(--accent); margin-right: auto; }
+.player-mark {
+  font: inherit; font-size: 13px; padding: 5px 12px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--accent); background: transparent; color: var(--accent);
+}
+.player-yt { font-size: 13px; color: var(--accent); }
 .rank { left: 8px; top: 8px; background: var(--accent); }
 .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
 .meta { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); }
