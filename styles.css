@@ -267,7 +267,7 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
 
 /* ハンバーガーメニュー（スマホだけ。PCではタブと絞り込みをそのまま並べる） */
 .menu-bar { display: none; }
-.hero-toma-sm { display: none; transform: scaleX(-1); }
+.hero-toma-sm { display: none; }
 .menu-panel { display: contents; }
 
 /* タブ */
@@ -388,9 +388,9 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
   .hero-inner { flex-direction: column; align-items: flex-start; }
   .hero-toma { display: none; }
   .hero-text { position: relative; width: 100%; }
-  .hero-toma-sm { display: block; position: absolute; right: 0; bottom: 0; width: 80px; height: auto; z-index: 0; }
-  .hero-bubble { position: relative; z-index: 1; } /* とーまくんは、ふきだしの後ろからのぞく */
-  .kpis { padding-right: 88px; }
+  /* とーまくんは左向きのまま、数字の行の右に全身が見えるように置く（ふきだしには重ねない） */
+  .hero-toma-sm { display: block; position: absolute; right: 4px; bottom: 16px; width: 72px; height: auto; }
+  .kpis { padding-right: 84px; min-height: 100px; align-content: flex-end; }
   .hero-title { margin-right: 56px; } /* 右上のメニューボタンの分 */
   /* タイトルは1行に収まる大きさにする（11文字） */
   .hero-title { font-size: min(26px, calc((100vw - 96px) / 11.2)); }
