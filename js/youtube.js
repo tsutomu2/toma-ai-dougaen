@@ -28,6 +28,14 @@
   // タブに関係なく、AIの使い方全般を拾うための追加検索
   const EXTRA_QUERIES = ['生成AI 活用術'];
 
+  /*
+   * 必ず入れるチャンネル（ユーザーの希望）。検索に出てこなくても、期間内の新しい動画をすべて入れる。
+   * uploads … そのチャンネルの「アップロード動画」の再生リストID（取得は1回1ユニットと安い）
+   */
+  const CHANNELS = [
+    { name: 'AI仙人', id: 'UCRxPq02pjQS_ax60gcTSDHQ', uploads: 'UURxPq02pjQS_ax60gcTSDHQ' },
+  ];
+
   const SEARCHES = CATEGORIES.flatMap((c) => c.q.map((q) => ({ q, days: c.days || DEFAULT_DAYS })))
     .concat(EXTRA_QUERIES.map((q) => ({ q, days: DEFAULT_DAYS })))
     .map((s) => Object.assign(s, { relevanceLanguage: 'ja', regionCode: 'JP' }));
@@ -188,6 +196,25 @@
       }
     }
 
+    // 必ず入れるチャンネルの新しい動画
+    const channelIds = new Set();
+    const maxDays = Math.max(DEFAULT_DAYS, ...CATEGORIES.map((c) => c.days || 0));
+    for (const ch of CHANNELS) {
+      const r = await call(fetchImpl, 'playlistItems', {
+        part: 'contentDetails',
+        playlistId: ch.uploads,
+        maxResults: 30,
+        key: apiKey,
+      });
+      (r.items || []).forEach((it) => {
+        const cd = it.contentDetails || {};
+        if (cd.videoId && now - Date.parse(cd.videoPublishedAt) <= maxDays * 86400000) {
+          ids.add(cd.videoId);
+          channelIds.add(cd.videoId);
+        }
+      });
+    }
+
     const all = [...ids];
     const videos = [];
     for (let i = 0; i < all.length; i += 50) {
@@ -202,8 +229,8 @@
 
     const result = videos
       .filter((v) => v.live === 'none')
-      .filter(isAIRelated)
-      .filter(isFeatureTopic)
+      // 必ず入れるチャンネルの動画は、キーワードでの絞り込みをしない
+      .filter((v) => channelIds.has(v.id) || (isAIRelated(v) && isFeatureTopic(v)))
       .map((v) => Object.assign(v, { lang: detectLang(v), cats: categorize(v) }))
       .filter((v) => v.lang === 'ja' && withinPeriod(v, now))
       .sort((a, b) => b.views - a.views);
@@ -213,6 +240,6 @@
 
   root.AITube = {
     fetchVideos, detectLang, isAIRelated, isFeatureTopic, categorize, parseDuration,
-    SHORT_MAX_SEC, SEARCHES, CATEGORIES, DEFAULT_DAYS,
+    SHORT_MAX_SEC, SEARCHES, CATEGORIES, CHANNELS, DEFAULT_DAYS,
   };
 })(typeof window !== 'undefined' ? window : globalThis);

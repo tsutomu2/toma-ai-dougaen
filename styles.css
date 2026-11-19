@@ -63,10 +63,6 @@ a { color: inherit; }
 /* とーまくんは右向き（ふきだしの方を向く）。足と影が切れないよう、下に少し余白を取る */
 .hero-toma { width: 190px; height: auto; flex: none; margin-bottom: 14px; transform: scaleX(-1); }
 .hero-text { flex: 1; min-width: 0; padding-bottom: 22px; }
-.hero-kicker {
-  display: inline-block; margin: 0 0 6px; padding: 2px 12px; border-radius: 999px;
-  background: var(--accent); color: #fff; font-size: 13px; font-weight: 700; letter-spacing: 0.06em;
-}
 .hero-title {
   margin: 0; font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
   font-weight: 900; font-size: clamp(24px, 4.2vw, 46px); line-height: 1.15; white-space: nowrap; color: var(--accent); letter-spacing: 0.02em;
@@ -395,7 +391,7 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
   .hero-toma-sm { display: block; position: absolute; right: 0; bottom: 0; width: 80px; height: auto; z-index: 0; }
   .hero-bubble { position: relative; z-index: 1; } /* とーまくんは、ふきだしの後ろからのぞく */
   .kpis { padding-right: 88px; }
-  .hero-kicker, .hero-title { margin-right: 56px; } /* 右上のメニューボタンの分 */
+  .hero-title { margin-right: 56px; } /* 右上のメニューボタンの分 */
   /* タイトルは1行に収まる大きさにする（11文字） */
   .hero-title { font-size: min(26px, calc((100vw - 96px) / 11.2)); }
 }
