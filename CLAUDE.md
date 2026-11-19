@@ -27,9 +27,9 @@
   リモートURLを `https://tsutomu2@github.com/...` にして tsutomu2 で push するよう固定済み（変えないこと）
 
 ## タブ（AI別）
-- タブの定義は `js/youtube.js` の `CATEGORIES`（すべて／最新機能／Claude／ChatGPT／Gemini／Seedance／📖用語集）。
+- タブの定義は `js/youtube.js` の `CATEGORIES`（すべて／最新機能／Claude／ChatGPT／Gemini／Grok／Muse／Seedance／キャラアニメ／📖用語集）。
   Codex の動画は ChatGPT タブにまとめている（ユーザーの希望）
-  タブごとに検索キーワード `q` と、タイトルで判定する `re`、対象期間 `days`（Seedance だけ30日）を持つ
+  タブごとに検索キーワード `q` と、タイトルで判定する `re`、対象期間 `days`（Seedance とキャラアニメは30日）を持つ
 - タブを増やすときは `CATEGORIES` に1行足す（検索が1回増える＝1回の取得で+100ユニット）
 - `js/youtube.js` の `CHANNELS` … 必ず入れるチャンネル（今は「AI仙人」）。キーワードの絞り込みをせず、期間内の動画をすべて入れる（1チャンネル1ユニット）
 
@@ -49,6 +49,8 @@
 4. 件数が多いとき（目安 40件超）は再生数の多い順に分けて処理し、残り件数を報告する
 5. Seedance の動画に新しいものがあれば、`data/guides.js` の `seedance` のまとめ（基本の流れ・プロンプトのコツ・
    工夫・料金と使い分け）を見直して `updatedAt` を更新する。動画に書かれていないことは足さない
+   - キャラアニメ（自分のキャラを AI でアニメにする方法。ユーザーが「とーまくん」を動かすのに役立てたい）の動画に新しいものがあれば、
+     `data/guides.js` の `charanime` のまとめも同じように見直す
 6. `data/toma.js` を更新する：各タブのイチオシ（使い方が具体的にわかる動画を1本）と、
    とーまくんの口調でのひとこと（その週の傾向を1〜2文）。`updatedAt` も更新
 7. GitHub Pages に反映する（ユーザーの希望でスマホから見るため）：

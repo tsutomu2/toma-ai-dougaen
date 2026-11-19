@@ -1347,5 +1347,520 @@ window.SUMMARIES = {
     ],
     "cats": [],
     "summarizedAt": "2026-11-19"
+  },
+  "VTah3ztnmrE": {
+    "topic": "other",
+    "summary": "ドラゴンクエスト5の物語を、絵・動画・声・曲をすべて AI で作ってアニメ調で再現したファンメイド作品の総集編。",
+    "points": [],
+    "summarizedAt": "2026-11-19"
+  },
+  "I1XFtTJtmIg": {
+    "topic": "feature",
+    "summary": "Artlist で、動画生成 AI の4モデル（Kling 4.0・Google Omni 1.1・MiniMax H3・Seedance 2.5）を10項目で比べる検証動画。品質・スピード・コストの総合比較と、Artlist の使い方を紹介している。",
+    "points": [
+      "ストーリーボードの動画化、複数素材の参照、アニメ、音声・リップシンクなどで比較",
+      "激しいアクション・物理演算・カメラワーク・モーション参照も試す",
+      "ChatGPT・Claude と MCP でつないで一括生成する方法"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "WtX1l7Sycx0": {
+    "topic": "feature",
+    "summary": "初心者でも AI アニメを作れるワークフローを、Higgsfield を使って解説する動画。画像モデル・動画モデルの比較から、5ステップの作り方、活用例8つ、料金や著作権の注意点まで紹介している。",
+    "points": [
+      "作り方の5ステップ：企画と台本 → 原型画像 → 動画化 → 音作り → 編集ソフトで仕上げ",
+      "画像モデル4つ・動画モデル4つを比べて役割分担を決める",
+      "自分の写真からアニメキャラを作る、画風を変えて世界観を作る、流行りの動画に自分のキャラを入れる（Genjutsu）",
+      "AI アニメ作りの自動化と、クレジット・著作権の注意点"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "hXmiLW_VaOc": {
+    "topic": "feature",
+    "summary": "Claude in Chrome で Claude にブラウザの DomoAI を操作させ、手を動かさずにコントアニメを作る方法を紹介する動画。使うツールは Claude・DomoAI・ElevenLabs の3つ。",
+    "points": [
+      "作り方の5ステップ：準備 → 脚本 → イラスト → 声 → 編集",
+      "イラストを作り、MiniMax H3 で動画にする",
+      "ElevenLabs で声を入れ、料金の目安も紹介"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "KebyaFyl-70": {
+    "topic": "feature",
+    "summary": "AI 動画の仕事を受けてから納品するまでの流れを、Seedance 2.5 と Lumina を使った30秒アニメ CM づくりで見せる動画。見積もり・すり合わせ・キャラシート・修正対応まで解説している。",
+    "points": [
+      "受ける前のすり合わせと、Seedance 2.5 のクレジットから出す見積もり",
+      "Seedream 5.0 Pro と Canvas でキャラシートと絵コンテを作る",
+      "10秒のラフから全体を動画にし、Seedance 2.5 と 2.0 を使い分ける"
+    ],
+    "cats": [
+      "seedance",
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "uPCuUsZv8-s": {
+    "topic": "feature",
+    "summary": "OpenAI の新しい画像生成モデル「ChatGPT Images 2.6」を解説する動画。生成速度が上がり、GIF アニメーションが作れるようになったことや、参照画像を保存して使い回す機能を紹介している。",
+    "points": [
+      "画像の生成速度が大きく上がり、GIF アニメーションに対応",
+      "参照画像を保存して、新しい画像づくりに再利用できる",
+      "ChatGPT と fal で GPT-Image-2.6（Flare・Sunburst）を使う方法"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "EBZl2S6tUEA": {
+    "topic": "feature",
+    "summary": "ChatGPT と Higgsfield をつないで、AI ショート動画の企画・生成・編集までを自動化する方法を10個紹介する動画。アニメ・ドラマ・解説・3D などのショートの作り方を実演している。",
+    "points": [
+      "ちびキャラのアニメショートや、AI 恋愛ドラマのショートを作る",
+      "ChatGPT で After Effects・Premiere Pro を操作する",
+      "dots で制作管理をさせる方法と、手作業・半自動・完全自動の料金感"
+    ],
+    "cats": [
+      "chatgpt",
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "V7a2Aw1-FF8": {
+    "topic": "feature",
+    "summary": "Higgsfield の、あまり知られていないけれど制作で役立つ機能5つを紹介する動画。キャラクターシートやプロンプトの書き方の制作資料も紹介している。",
+    "points": [
+      "Soul 2.0 でムードのある写真、Angles 2.0 で同じ背景を別の角度から作る",
+      "Relight で光だけ変える、Genjutsu で動きはそのままに人物や世界観を入れ替える",
+      "Mixed Media で動画をコミック風・スケッチ風にする"
+    ],
+    "cats": [
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "52k-jJWpKd0": {
+    "topic": "feature",
+    "summary": "DomoAI で、自分のキャラクター（推し）の画像と声から AI アニメを作る方法を、4ステップで紹介する初心者向けの動画。",
+    "points": [
+      "画像編集（GPT Image 2.5）でキャラクターシートと背景を作る",
+      "オムニリファレンス（Seedance 2.5）で、キャラの見た目をそろえたまま動画にする",
+      "音声読み上げで作った声を手本に2人を会話させ、アップスケールで高画質にする",
+      "Relax モードならクレジットを使わずに画像を何度も作り直せる"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "HXyIZpJ6Vtg": {
+    "topic": "feature",
+    "summary": "AI アニメが作れる AI エージェント「OiiOii」の MV 制作機能で、曲・あらすじ・歌詞から、アニメのオープニング風のストーリー MV を作る流れを紹介する動画。キャラ制作から字幕入れまでを扱っている。",
+    "points": [
+      "曲とあらすじ、歌詞を渡して MV を作る",
+      "キャラクター制作から字幕入れまでの流れ"
+    ],
+    "cats": [
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "OhGbA4JkF9Q": {
+    "topic": "feature",
+    "summary": "Claude デスクトップに DomoAI の MCP をつなぎ、チャットで頼むだけで AI アニメを作る方法を全部見せる動画。",
+    "points": [
+      "DomoAI の MCP を Claude デスクトップにつなぐ（Node.js・CLI のインストールとサインイン）",
+      "チャットでキャラクターシートと背景を作る（Nano Banana 2.1）",
+      "音声読み上げとオムニリファレンス（Seedance 2.5）で動画にし、1080P にアップスケール",
+      "作る前に出る「プランと予想クレジット」の見方"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "thO28Nri1ms": {
+    "topic": "feature",
+    "summary": "脚本を渡すだけでショートドラマが作れる自動アニメスタジオ「OiiOii」の使い方を、最初から最後まで見せる動画。脚本・キャラクター・背景・絵コンテ・映像を、担当ごとの AI スタッフが作る。",
+    "points": [
+      "キャラクターシートをアセットに登録して使う",
+      "背景は Nano Banana 2、絵コンテは Seedream 5.0 Pro で作り直せる",
+      "カードの動画プロンプトを自分で書き換えるのがいちばんのコツ",
+      "まず1カット作り、残りを Seedance 2.5 でまとめて生成"
+    ],
+    "cats": [
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "Rdju4-jGKUo": {
+    "topic": "feature",
+    "summary": "Renoise AI の MCP を Claude につなぎ、話しかけるだけで物語ショートの AI アニメを作る実演動画。相談・計画・見積もり・生成・修正までを見せている。",
+    "points": [
+      "Claude のコネクタに Renoise を追加してサインインするだけ（API キー不要）",
+      "ふつうの言葉で相談して、ショットの表と制作プランを作ってもらう",
+      "キャラクターシートと前の結果を参照にして、見た目をそろえやすくする"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "HLdXrPxp_rQ": {
+    "topic": "feature",
+    "summary": "Claude Code と無料ツールだけで、1枚のイラストが声に合わせてしゃべるアニメ動画を作る方法を紹介する動画。日本語で話しかけるだけで、Claude Code が7つの無料ツールを使って作る。",
+    "points": [
+      "HyperFrames で、動く Web ページを1秒30コマで撮影して動画にする",
+      "1枚絵の表情を1行ごとに差し替え、声の波形から自動で口パクさせる（Python・OpenCV）",
+      "GSAP・Lottie・Three.js・SVG で画面を動かし、場面転換やカメラ技法も入れる"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "gD1PxbhjEdY": {
+    "topic": "feature",
+    "summary": "Higgsfield の Shorts Studio を Claude につなぎ、好きなショートをお手本にして、撮影なしで自分のキャラや AI インフルエンサーのショート動画を作る方法を紹介する動画。",
+    "points": [
+      "作る前に決める4つ：お手本・キャラ・声・台本",
+      "Claude に頼むだけで、お手本の分析から台本・声・字幕の編集まで",
+      "始まり方を3パターン試して、確かめてから投稿する"
+    ],
+    "cats": [
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "bUqh-f-O67g": {
+    "topic": "feature",
+    "summary": "AI アニメ『Galaxy☆ポンコツヒロインちゃん』第8話の作り方を、脚本から完成まで5分で見せるメイキング動画。",
+    "points": [
+      "キャラクターの正本・9コマの絵コンテ・Depth Map を GPT Image 2 で作る",
+      "Flova（Seedance 2.0）で動画を生成し、48本を1日で作る",
+      "声は ElevenLabs・Irodori-TTS、音楽は Lyria 3.5・Minimax Music"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "VVmoOqpbUaA": {
+    "topic": "feature",
+    "summary": "Meta の AI「Muse」の動画生成で、実写風ドラマ・アニメ・リール・切り抜き・商品 PR の5本を作ってみる実演動画。日本語のセリフが崩れたときの直し方も紹介している。",
+    "points": [
+      "Muse の動画生成は1本約10秒・音声つきで、つなぐ編集もできる",
+      "日本語セリフの直し方（Muse の日本語・英語・ElevenLabs で入れ直して比較）",
+      "キャラをそろえるコツと、作り直しの頼み方"
+    ],
+    "cats": [
+      "new",
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "Ak4eEYWAM_w": {
+    "topic": "feature",
+    "summary": "Gemini の11月の更新をまとめて紹介する動画。日本でもアプリ操作ができるようになったことや、iPhone の CarPlay 対応などを解説している。",
+    "points": [
+      "アプリ操作が日本に拡大（対象の Android 端末・対応アプリ、無料プランは上限あり）",
+      "iPhone の CarPlay で Gemini と話せる",
+      "自分用ウィジェット、スマホの設定サポート、音声入力の更新（日本では使えないものもある）"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "NA2Oc5VHm5U": {
+    "topic": "feature",
+    "summary": "Meta の AI「Muse」の使い方を、視聴者のコメントと X の投稿から20個集めて紹介する動画。暮らし・仕事・お金や手続きまで、画面の再現つきで見せている。",
+    "points": [
+      "頭痛予報のウィジェットや、Muse が暮らすお部屋など暮らしの使い方",
+      "ネットスーパー、血圧の記録、スペース18個で仕事をする例",
+      "年末調整を任せた例と、メモを依頼と取り違えた失敗の防ぎ方"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "EBza5n0hKG8": {
+    "topic": "feature",
+    "summary": "無料で使える Meta の AI 秘書「Muse」の便利な機能を5つ紹介する動画。",
+    "points": [
+      "Muse の便利な機能5つを解説"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "guAXgQJ6Cvw": {
+    "topic": "feature",
+    "summary": "Muse の Chrome 拡張機能「Muse from Meta」を実演する動画。ChatGPT の有料プランでしか使えないようなブラウザ操作が、Muse なら無料プランでも使えると紹介している。",
+    "points": [
+      "YouTube 動画の要約、商品を探して比較表にする",
+      "アンケートフォームへの入力、YouTube から note 記事を作って書き込む",
+      "入れる前に知っておきたい権限と注意点"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "bwWQoa9Bduo": {
+    "topic": "feature",
+    "summary": "Muse を使い始めたら最初に見直したい設定7つを、iPhone とパソコンの画面で順番に紹介する動画。",
+    "points": [
+      "会話を AI 開発に使わせない（データコントロール）、操作の前に毎回確認する",
+      "Facebook・Instagram・Messenger とつながっているアプリの権限を見直す",
+      "Muse の記憶（MEMORY.md）の確認、頼んでいない定期作業がないか、パスキーと2段階認証"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "tRIjsuBzMq8": {
+    "topic": "feature",
+    "summary": "大型アップデートで進化した xAI の「Grok Bot 1.0」を、使い込んでいる人が解説する動画。進化した点や注目の新機能を紹介している。",
+    "points": [
+      "Grok Bot 1.0 で進化した点と、注目の新機能"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "_oK3FkLGMPc": {
+    "topic": "feature",
+    "summary": "Muse の動画のコメント欄から、視聴者20人の使い方を暮らしの話から順にまとめた動画。うまくいかなかった例も紹介している。",
+    "points": [
+      "献立の相談、乗り換えの電車の通知、靴の買い替えなど暮らしの使い方",
+      "自分だけのアプリや家電の操作パネルを作る、AI どうしの会議",
+      "足りない情報を聞き返す例と、原本と照らし合わせる大切さ"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "rNPOJBR-uSo": {
+    "topic": "feature",
+    "summary": "Muse でできることを40個集めて4つに分け、そのうち14個を iPhone で実演する動画。日本ではまだ動かないものも分けて紹介している。",
+    "points": [
+      "値下がりの見張り・毎朝の朝刊など、自動でやってくれる使い方",
+      "献立・底値・筋トレのアプリ、画像づくり、自分専用のスキル",
+      "記憶の出し入れと、学習に使わせない設定"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "YGEDE10M0LA": {
+    "topic": "feature",
+    "summary": "自分の Chrome をログインしたまま Muse に動かさせる公式の拡張機能「Muse from Meta」の、できること・入れ方・気をつける点を解説する動画。",
+    "points": [
+      "渡したタブだけを触るしくみ",
+      "比較・申し込み・X への投稿ができた例と、Amazon で止まった例",
+      "入れ方と偽物の見分け方、専用のプロファイルを分ける使い方"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "ZR2SYOth_HA": {
+    "topic": "feature",
+    "summary": "Meta の無料 AI エージェント「Muse」の使い方を、超初心者向けに基礎から解説する入門動画。",
+    "points": [
+      "Muse の始め方と基本の使い方"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "SUkaLTQ8Bvs": {
+    "topic": "feature",
+    "summary": "Meta の AI エージェント「Muse」がなぜ無料なのかを、稼ぐしくみ・利点・問題点から解説する動画。勝手に先走った事例と、上手に使う7つのコツも紹介している。",
+    "points": [
+      "答える AI から、動く AI へ",
+      "使ってわかる利点と、問題点・先走りの事例",
+      "上手に使う7つのコツ"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "WV2kE7fBFgE": {
+    "topic": "feature",
+    "summary": "AI 企業の社長が、仕事を任せるための Grok Bot の使い方を紹介する動画。",
+    "points": [
+      "仕事を任せるときの Grok Bot の使い方"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "tG-h-aybjRY": {
+    "topic": "feature",
+    "summary": "Muse に Android スマホと家の Windows パソコンを丸ごと操作させてみた実験の動画。11回やらせて10勝1敗で、お金のアプリだけ画面が真っ黒になった。",
+    "points": [
+      "外出先から家のパソコンでメモ帳入力・Blender のインストール・Amazon の管理画面を操作",
+      "ChatGPT と Gemini を画面を見て押すだけで動かせるか",
+      "使った道具（Tailscale・ADB・Shizuku・SSH）と、AI に任せてはいけないこと"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "ifaWLkBTvxg": {
+    "topic": "feature",
+    "summary": "Muse に、次の仕事で必要になりそうなことを頼む前に調べておいてもらう「先回り学習」のやり方を解説する動画。",
+    "points": [
+      "学習用のサイドチャットを作り、方針を渡して学習の時間をスケジュールする",
+      "例：アバターの口パクを声に合わせる方法を学ばせ、うまくいった手順をスキルに残す",
+      "学んだことを報告させ、試して確認した手順だけを使う"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "wC4VN20h39s": {
+    "topic": "feature",
+    "summary": "Muse の使い方と実力を、Power プランで試した結果から紹介する動画。専用クラウド PC と記憶のしくみ、画像・動画の生成、Windows PC との連携を見せている。",
+    "points": [
+      "買い物の手続き・定期作業・サイドチャットの実演",
+      "画像生成（実写・アニメ）と動画生成",
+      "Tailscale で Windows PC とつなぎ、制作ルールを読ませてスライドを編集する"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "rtPJYB7s_ZM": {
+    "topic": "feature",
+    "summary": "Muse を制作の中心にして、AI 作曲・音声合成・動画制作を組み合わせる方法を実演する動画。",
+    "points": [
+      "Muse に頼んで Python で BGM を作る",
+      "MCP で Suno につないで編曲する",
+      "VOICEVOX のナレーションを重ねて短い動画に仕上げる"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "b2Er2SXWqKA": {
+    "topic": "feature",
+    "summary": "Claude の新機能「Claude Whiteboards」を iPhone Duo で使ってみる動画。音声入力で話しかけるだけで、相談内容が図・表・付箋のホワイトボードに整理される。",
+    "points": [
+      "「ホワイトボードに整理して」と話しかけるだけで作れる",
+      "チャットで直す、共有（Team プラン）・PNG で書き出し",
+      "ステッカー・図形・手書き、付箋を動かして複数人で議論"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "Bh-LGBOkmHA": {
+    "topic": "feature",
+    "summary": "いつものメールから Muse に仕事を頼める「Museメール」の始め方・使い方・注意点を、実際に使って解説する動画。",
+    "points": [
+      "Museメールの始め方と使い方",
+      "メールで仕事を頼むときの注意点"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "fj-N5BgTqP8": {
+    "topic": "feature",
+    "summary": "Muse と電話のように声で話せる「Muse Phone」を解説する動画。アバターが表情や身ぶりで反応する。小型デバイス「Muse Charm」も紹介している。",
+    "points": [
+      "電話アイコンからの始め方と、声・アバターのカスタマイズ",
+      "話しながら調査などの作業も進められる",
+      "代理電話との違い、料金・利用条件・プライバシーの注意点"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "69-LoffnUZw": {
+    "topic": "other",
+    "summary": "Amazon 広告の新しい AI ソリューション「P+・B+」を、EC 事業者向けに解説する動画。",
+    "points": [],
+    "summarizedAt": "2026-11-19"
+  },
+  "rS37YOG8myU": {
+    "topic": "feature",
+    "summary": "無料の AI エージェント「Muse」の仕事での活用例6つを、頼み方の実演つきで紹介する動画。ChatGPT との違いや、使う前の安全な初期設定も解説している。",
+    "points": [
+      "ChatGPT と Muse の違い、無料プランで使える範囲",
+      "学習オフ・アクセス許可など、仕事で使う前に変える設定",
+      "Gmail・カレンダー連携で返信の下書きや予定の抜き出し"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "qpKbDvdh3w8": {
+    "topic": "feature",
+    "summary": "ChatGPT の新しい画像生成「Images 2.6」で作った画像を使って、Instagram と楽天 ROOM でアフィリエイトをする方法を4ステップで紹介する動画。",
+    "points": [
+      "ChatGPT Images 2.6 で投稿用の画像を作る",
+      "Instagram と楽天 ROOM を組み合わせる4ステップ"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "eeyEqkmbSNY": {
+    "topic": "feature",
+    "summary": "Muse を使い始めたら最初に変える設定3か所を、公式ヘルプをもとに解説する動画。",
+    "points": [
+      "データコントロールで学習をオフにするか決める",
+      "アクセス許可は慣れるまで「常に確認」にする",
+      "Gmail は読み取り専用でつなぎ、外したら「忘れて」まで頼む"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "LEaUqeVO_98": {
+    "topic": "feature",
+    "summary": "動画編集ソフト DaVinci Resolve 21.1 の新機能を解説する動画。AI アシスタントや、インスペクタの設定をプリセットとして保存する機能などを紹介している。",
+    "points": [
+      "インスペクタの調整をプリセットとして保存できる",
+      "テキストのフォント変更や、オーディオ波形の表示の改善"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "r8BpgjaKvQc": {
+    "topic": "feature",
+    "summary": "Muse の新機能「スペース」で、現役の先生が自分専用の時短アプリを3つ作るところを見せる動画。",
+    "points": [
+      "行事予定表と時間割の画像から「明日の授業準備ボード」を作る",
+      "退勤ボタンで記録する「定時退勤チャレンジボード」（Google カレンダー連携）",
+      "毎日1問自動で入る「朝の会の1分クイズ」"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "UeGhBIE-P4A": {
+    "topic": "feature",
+    "summary": "Muse のしくみを図で解説し、点数では首位ではないのに評判がいい理由を説明する動画。任せる前の注意点も紹介している。",
+    "points": [
+      "自分専用のクラウド PC、作業の部屋と見張り役、覚えたことを残す記憶ファイル",
+      "「私について覚えていることを見せて」で記憶の中身を確かめる",
+      "担当者のアクセス・学習の初期設定・共有機能の注意点"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "QfLqj9AbXe4": {
+    "topic": "feature",
+    "summary": "ChatGPT の dot が、承認をもらってから買い物の支払いまで済ませる新機能「ChatGPT Wallet」を解説する動画。今はアメリカの Pro プランだけで使える。",
+    "points": [
+      "カード登録は最初の1回だけ。買う前に Face ID や指紋で承認する",
+      "本物のカード番号はお店にもエージェントにも渡らない（トークンのしくみ）",
+      "Visa・Mastercard・American Express と一緒に作られた"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "uwYJ8OPHJZA": {
+    "topic": "other",
+    "summary": "Apple Watch Series 12 を2か月使った感想のレビュー動画。日本語で使えるようになった Siri の AI 機能にも触れている。",
+    "points": [],
+    "summarizedAt": "2026-11-19"
+  },
+  "3wPvznk4cdw": {
+    "topic": "other",
+    "summary": "GPT-6 Cyber、Claude の新機能、Google Antigravity など、その週の AI ニュースをまとめて話す動画。",
+    "points": [],
+    "summarizedAt": "2026-11-19"
+  },
+  "2XrWswXaIt8": {
+    "topic": "feature",
+    "summary": "24時間動く AI エージェント「Grok Bot」で架空の会社を作り、部長ボットやタスク担当のボットに仕事を回している運用を紹介する動画。",
+    "points": [
+      "Grok Bot → Claude Code → ChatGPT Codex で企画を作って事実確認する流れ",
+      "メインボットと音声で相談して、ボットの体制を見直す",
+      "毎晩の日報と週1の週報のしくみを対話で作る"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "EykqVZ5r_5g": {
+    "topic": "feature",
+    "summary": "パソコンを閉じても仕事を進めてくれる Grok Bot の使い方を5つ紹介する動画。Claude Code との違いや、イマイチだった点も話している。",
+    "points": [
+      "アプリを入れてログインするだけで使える（Mac mini や VPS が要らない）",
+      "出費の見張り、freee の明細から無駄な引き落としを探す、請求書づくり",
+      "Claude Code や Codex を動かす指示役にもなる"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "h-6WEGOkxSk": {
+    "topic": "feature",
+    "summary": "Grok Bot の使い方を、最初の1体を作るところから順に解説する入門動画。",
+    "points": [
+      "使えるプラン、アプリの入れ方とサインイン",
+      "仕事の頼み方の型と、承認カードの3つのボタンの意味",
+      "スキル・ルーティン・記憶で仕事を型にして自動で回す"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "eRP10t88oKI": {
+    "topic": "feature",
+    "summary": "AI エージェントの Muse・dots・Grok Bot を3つとも使っている人が、違い・料金・選び方を比べる初心者向けの動画。",
+    "points": [
+      "自分用の画面を作りたい、まず無料で試したいなら Muse",
+      "X で発信していて仕事を分けて任せたいなら Grok Bot",
+      "料金：Muse は基本無料、Grok Bot は X Premium から、dots は ChatGPT Pro から"
+    ],
+    "cats": [
+      "grok",
+      "muse",
+      "chatgpt"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "EZIj4QCKA70": {
+    "topic": "feature",
+    "summary": "Grok Bot の買い物機能で、備品を探して条件を足し、表で比べて購入の手前まで確かめる流れを、アプリの画面で見せる動画。",
+    "points": [
+      "サイズ・予算・到着日などの条件をまとめて頼む",
+      "同じ項目の表で候補を比べ、送料や付属品も確かめる",
+      "「注文確定・決済はしない」と書いて、購入前の確認で止める"
+    ],
+    "summarizedAt": "2026-11-19"
   }
 };

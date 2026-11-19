@@ -23,7 +23,18 @@
     // ChatGPT タブには、同じ OpenAI の Codex の動画もまとめて入れる
     { id: 'chatgpt', label: 'ChatGPT', q: ['ChatGPT 使い方', 'Codex AI'], re: /ChatGPT|チャットGPT|OpenAI|\bGPT-?\d|Codex|コーデックス/i },
     { id: 'gemini', label: 'Gemini', q: ['Gemini 使い方'], re: /Gemini|ジェミニ|NotebookLM|\bVeo\b|Nano ?Banana/i },
+    { id: 'grok', label: 'Grok', q: ['Grok 使い方'], re: /Grok|グロック/i },
+    // Meta の AI「Muse」
+    { id: 'muse', label: 'Muse', q: ['Meta Muse AI 使い方'], re: /\bMuse\b|ミューズ|Meta AI/i },
     { id: 'seedance', label: 'Seedance', q: ['Seedance', 'Seedance 使い方'], re: /Seedance|シーダンス|シードダンス/i, days: 30 },
+    // 自分のキャラクター（とーまくんなど）を AI でアニメーションにする方法の動画
+    {
+      id: 'charanime',
+      label: 'キャラアニメ',
+      q: ['AI キャラクター アニメーション 作り方', 'AIアニメ 作り方'],
+      re: /キャラ(クター)?.{0,25}(アニメ|動か|動く|動画化|動画に)|(アニメ|動か).{0,15}キャラ|AI ?アニメ|アニメ(ーション)?.{0,10}(作|生成|制作)|アニメ化|Live2D|Viggle|Hedra|DomoAI|リップシンク|口パク/i,
+      days: 30,
+    },
   ];
   // タブに関係なく、AIの使い方全般を拾うための追加検索
   const EXTRA_QUERIES = ['生成AI 活用術'];
@@ -78,7 +89,7 @@
       '\\bA\\.?I\\b', '人工知能', '生成\\s*AI', 'ChatGPT', '\\bGPT', 'Claude', 'Gemini',
       '\\bLLMs?\\b', 'OpenAI', 'Anthropic', 'DeepSeek', 'Copilot', 'Midjourney', '\\bSora\\b',
       '\\bGrok\\b', '\\bLlama\\b', '\\bAGI\\b', '機械学習', 'ディープラーニング', '深層学習',
-      'Seedance', 'シーダンス', 'Codex', 'コーデックス', 'クロード', 'NotebookLM', 'Higgsfield', '\\bVeo\\b',
+      'Seedance', 'シーダンス', 'Codex', 'コーデックス', 'Meta AI', '\\bMuse\\b', 'グロック', 'クロード', 'NotebookLM', 'Higgsfield', '\\bVeo\\b',
       'machine learning', 'deep learning', 'neural net', 'ニューラル',
     ].join('|'),
     'i'

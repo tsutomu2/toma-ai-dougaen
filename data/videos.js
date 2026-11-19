@@ -1,6 +1,6 @@
 // tools/fetch.js が自動生成。直接編集しないこと。
 window.SNAPSHOT = {
-  "fetchedAt": "2026-11-19T08:17:04.262Z",
+  "fetchedAt": "2026-11-19T08:29:59.980Z",
   "days": 7,
   "videos": [
     {
@@ -27,12 +27,14 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/TYpRnue8sKc/mqdefault.jpg",
       "durationSec": 1631,
-      "views": 234316,
-      "likes": 1233,
+      "views": 234672,
+      "likes": 1234,
       "comments": 83,
       "live": "none",
       "lang": "ja",
-      "cats": []
+      "cats": [
+        "muse"
+      ]
     },
     {
       "id": "cx8lHb0LfXo",
@@ -59,7 +61,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/cx8lHb0LfXo/mqdefault.jpg",
       "durationSec": 2229,
-      "views": 196905,
+      "views": 197008,
       "likes": 1107,
       "comments": 42,
       "live": "none",
@@ -81,13 +83,35 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/DJUh4mmr75M/mqdefault.jpg",
       "durationSec": 1245,
-      "views": 113270,
+      "views": 113300,
       "likes": 595,
       "comments": 61,
       "live": "none",
       "lang": "ja",
       "cats": [
         "gemini"
+      ]
+    },
+    {
+      "id": "NA2Oc5VHm5U",
+      "url": "https://www.youtube.com/watch?v=NA2Oc5VHm5U",
+      "title": "【保存版】Muse、みんなの使い方がすごい｜頭痛予報のウィジェット、Muse が暮らすお部屋、年末調整まで事例20選",
+      "channel": "SHISHIGAMI TECH CH",
+      "channelId": "UCMSv40OpwQj92ousAD-aiSQ",
+      "publishedAt": "2026-11-13T11:00:10Z",
+      "description": "Muse の動画に届いたコメント431件から、まだ紹介していない使い方を15個、X から5個選んだ事例20選です。頭痛予報のウィジェット、ネットスーパー、年末調整まで、画面の再現つきで紹介します。\n\n▼ チャプター（編集後の見込み。書き出し後に章扉の実測で直す）\n0:00 今回の20選は、どこから集めたの？\n2:26 Muse は、暮らしの中でどこまで相棒になるの？\n4:53 家族の思い出や遊びにも、使えるの？\n6:43 ホーム画面や毎日の記録には、どう置けるの？\n9:15 買い物や趣味は、どこまで任せられるの？\n10:55 仕事や副業では、どう使われているの？\n13:24 お金や手続きまで、任せていいの？\n14:48 うまくいかなかった話も、あるの？\n15:36 まとめ\n\n▼ この動画でわかること\n・頭痛予報のウィジェットや Muse のお部屋など、暮らしの中の使い方\n・ネットスーパー、血圧の記録、スペース18個の仕事など視聴者の事例\n・年末調整を任せた例と、メモを依頼と取り違えた失敗の防ぎ方\n\n▼ AIと作るWebアプリの教科書（無料・講義200本）\n▶ https://learn.aibuilderjp.com/\n\n▼ お問い合わせ（AI 顧問・動画編集の代行）\n▶ https://digitalshift-inc.co.jp/contact\n\n▼ 引用・参考\n視聴者のコメントと X の投稿を引用して紹介しています。著作権は投稿者に帰属します。どれも投稿者本人の体験談・申告で、こちらで再現して確かめたものではありません。Muse の画面のアニメは、コメントの言葉に沿って作った再現イメージです。魚・ハムスター・腕時計などの実写風の映像は生成したイメージです。税金や年末調整は、送る前にご自身で数字を確かめてください。\n・@ai_aoi_ia（X 11/12・頭痛予報のウィジェット）https://x.com/ai_aoi_ia/status/2120688185663725818\n・@kisaragi_sakura（X 11/11・Muse のお部屋）https://x.com/kisaragi_sakura/status/2120528761691214312\n・@kisaragi_sakura（X 11/11・お部屋の手順書）https://x.com/kisaragi_sakura/status/2120475233211777522\n・@FalkRabbit（X 11/9・ストリートビューの散歩）https://x.com/FalkRabbit/status/2119602821524025767\n・@ai_300（X 11/11・予定アプリをホーム画面に）https://x.com/ai_300/status/2120290410471829965\n・Muse（X 11/12・Museic Crate）https://x.com/Muse/status/2120562619086221555\n・視聴者コメント：シシガミ「Museみんなの事例を大公開」（@yohei6211・@liminaldreams3・@RavI.ラビ・@sps73xp9・@Tonpachi3・@kingbrunhild・@yusuke0413・@yuhki721・@hirucan）https://www.youtube.com/watch?v=c77u-mMqDbU\n・視聴者コメント：シシガミ「新機能Muse Mailを解説！」（@瀬川◯◯-y8u・@tanboshin・@ia2916・@正樹Ymas）https://www.youtube.com/watch?v=CXVOO0Ryny0\n・視聴者コメント：シシガミ「Muse「スペース」、みんなの使い方がすごい」（@hiroyuki721117）https://www.youtube.com/watch?v=ZBIdfZbs730\n・視聴者コメント：シシガミ「Muse Mail を試してみた」（@Kazuzuzuzoo3）https://www.youtube.com/watch?v=5x9nXnS2Afk\n・視聴者コメント：シシガミ「Meta は、あなたの Muse の中身を見られるのか」（@Akibobobo）https://www.youtube.com/watch?v=49APs_DYu6k\n\n#Muse #Meta #パーソナルAI #生成AI #AIエージェント",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/NA2Oc5VHm5U/mqdefault.jpg",
+      "durationSec": 998,
+      "views": 90460,
+      "likes": 751,
+      "comments": 89,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
       ]
     },
     {
@@ -108,7 +132,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/8X9llevswTY/mqdefault.jpg",
       "durationSec": 2400,
-      "views": 90312,
+      "views": 90327,
       "likes": 1420,
       "comments": 139,
       "live": "none",
@@ -139,7 +163,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/FZpVkM_ulb8/mqdefault.jpg",
       "durationSec": 1386,
-      "views": 84893,
+      "views": 84928,
       "likes": 520,
       "comments": 19,
       "live": "none",
@@ -164,7 +188,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/1OPh7jT6nw8/mqdefault.jpg",
       "durationSec": 1666,
-      "views": 70783,
+      "views": 70803,
       "likes": 563,
       "comments": 27,
       "live": "none",
@@ -186,8 +210,8 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/zamThsO4VRg/mqdefault.jpg",
       "durationSec": 53,
-      "views": 65981,
-      "likes": 1212,
+      "views": 66054,
+      "likes": 1213,
       "comments": 222,
       "live": "none",
       "lang": "ja",
@@ -259,12 +283,68 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/koleqL__jys/mqdefault.jpg",
       "durationSec": 56,
-      "views": 61319,
-      "likes": 3445,
+      "views": 61405,
+      "likes": 3449,
       "comments": 63,
       "live": "none",
       "lang": "ja",
       "cats": []
+    },
+    {
+      "id": "Dp1QCg_OpAY",
+      "url": "https://www.youtube.com/watch?v=Dp1QCg_OpAY",
+      "title": "🚨【AIが社員になる時代！？Grok Botの新しい可能性がすごい！】😳🤖🔥#GrokBot #AIエージェント #AI活用術 #ChatGPT活用 #SNS効率化",
+      "channel": "やまと_AI_SNS",
+      "channelId": "UC5grEZdq4Kz5gtjlHBf-P_A",
+      "publishedAt": "2026-11-18T06:25:57Z",
+      "description": "🚨【AIがついに社員になる時代へ！？】😳🤖\n\nちょっと待って！！\nAIって、質問に答えるだけだと思ってない？👀\n\n実は今、AIの使い方が大きく進化しているんです！🔥\n\nその注目のツールが「Grok Bot（グロックボット）」！\n\nこれ、ただのチャットAIじゃないんです！\n\nなんと、AIに役割を与えて、チームのように仕事を進められるんです！😳\n\n🔴【① リサーチAI】\n必要な情報を調べて整理！🔍\n\n🔴【② コンテンツ制作AI】\n投稿の企画や文章づくりをサポート！🎬\n\n🔴【③ 管理AI】\n複数のタスクや進行状況を整理！📊\n\n🔴【④ AI同士の連携】\nそれぞれのAIが情報を共有し、役割を分担！🤖\n\n🔥【ここからが本当にすごい！】\n\nこれまで一つずつ指示していた作業を、AIチームにまとめて任せるという新しい選択肢が生まれているんです！\n\nもちろん、実際にできる作業は接続するサービスや設定によって異なります。\n\n💡 大切なのは、AIを使うことではなく、どう活用するか！\n\n📌 あとで見返せるように保存！\n💬 あなたならAIにどんな仕事を任せたい？\n\n🚀 Grok Botの使い方を詳しく知りたい人は、今すぐプロフからチェックしてみて👇\n\n#GrokBot #AI活用術 #ChatGPT活用 #SNS運用 #AIツール",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/Dp1QCg_OpAY/mqdefault.jpg",
+      "durationSec": 71,
+      "views": 56987,
+      "likes": 906,
+      "comments": 49,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "chatgpt",
+        "grok"
+      ]
+    },
+    {
+      "id": "EBza5n0hKG8",
+      "url": "https://www.youtube.com/watch?v=EBza5n0hKG8",
+      "title": "【無料でOK‼️】AI秘書「Muse」㊙️神機能5選！めちゃくちゃ便利なので徹底解説",
+      "channel": "mikimiki web スクール",
+      "channelId": "UChxtIA33ty53Hh4MmkXNASg",
+      "publishedAt": "2026-11-16T10:18:00Z",
+      "description": "動画をご覧いただきありがとうございます。\n本日は「Meta Muse」の神機能を5選徹底解説します！\n参考になったらいいね！とチャンネル登録お願いします♪\n\n✅フォロワーを増やす！Instagram・最強AI秘書Museマスター講座〜AIで差をつけるインスタ戦略・運用からAIエージェント活用まで完全網羅〜\nhttps://www.ririanschool.com/courses/instagram\n\n✅Muse神機能10選資料（公式Line)\n以下のキーワードを公式LINEにお送りください。（キーワードのみをお送りください）\nキーワード：「ロケ」\nhttps://liff.line.me/2002090331-7n8Wl5d4/landing?follow=%40540dlsgo&lp=EhB1HE&liff_id=2002090331-7n8Wl5d4\n\n✅勉強会参加、おすすめGPTs、プロンプト集等の受け取りはこちら！\nhttps://liff.line.me/2002090331-7n8Wl5d4/landing?follow=%40540dlsgo&lp=EhB1HE&liff_id=2002090331-7n8Wl5d4\n\n✅タイアップ、Canva、AI（ChatGPT等）、SNS等に関するセミナー講師等お仕事のご依頼はこちら▼\nhttps://form.run/@ririan-design\n📩 ririan.design01@ririanco.com（English OK）\n\n✅0から始めるChatGPT・プロンプトエンジニアリング&画像生成AIマスター講座〜GPTを活用してビジネスの業務効率を最大化する〜（プロンプト集付）\nhttps://www.ririanschool.com/courses/0-chatgpt\n\n\n✅Line公式アカウントリニューアル！━━━━━━━━━━━━━━\n\n🔻登録はこちら🔻\nhttps://liff.line.me/2002090331-7n8Wl5d4/landing?follow=%40540dlsgo&lp=EhB1HE&liff_id=2002090331-7n8Wl5d4\n\nリニューアルに伴って\n9つプレゼントを用意しました🎁\n\nLINE限定の勉強会やセミナーも行います！\n\n━━🏆プレゼント1️⃣🏆━━━\n【知っておきたい】Google AIツールおすすめまとめ\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント2️⃣🏆━━━\n【これだけでOK】Gemini絶対すべき設定3選\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント3️⃣🏆━━━\n【保存版】初心者向けClaude全機能完全ガイド\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント4️⃣🏆━━━\n【保存版】Canvaおすすめフォント集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント5️⃣🏆━━━\n【最新版】Canvaおすすめ数字フォント集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント6️⃣🏆━━━\n【完全保存版】クリック率があるインスタグラムバズワード集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント7️⃣🏆━━━\n【保存版】Midjourneyおすすめプロンプト集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント8️⃣🏆━━━\n【完全攻略】GPT-image 2.0おすすめプロンプト集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント9️⃣🏆━━━\n本当に役立つ厳選GPTs 20選\n━━━━━━━━━━━━━━\n\n🔻プレゼントを受け取る🔻\nhttps://liff.line.me/2002090331-7n8Wl5d4/landing?follow=%40540dlsgo&lp=EhB1HE&liff_id=2002090331-7n8Wl5d4\n\n✅無料ニュースレター ━━━━━━━━━━━━━━\n\n生成AI、Canva、最新Webサービスの情報を伝える無料ニュースレター💌\n\n　【無料登録はこちら】\n　➡️　https://form.run/@ririannewsletter\n\n\n▼お問い合わせ/お仕事の依頼はこちら▼\nhttps://form.run/@ririan-design-0ffice\n\n●目次\n00:00 Muse神機能5選\n01:29 ① Muse神機能1\n04:11 ② Muse神機能2\n08:45 ③ Muse神機能3\n12:43 ④ Muse神機能4\n14:03  ⑤ Muse神機能5\n\n■関連動画━━━━━━━━━━━━━━\n\n最新/最強モデル「Gemini4 Argon」爆誕！実力を徹底解説（vsGPT-6 Astra vs Claude Opus 5.5）\nhttps://youtu.be/Nz9aZK64V_A\n\n【アプデ‼️】「Gemini」に「スキル」が爆誕！Gemsが廃止されて「スキル」に統合されるので徹底解説！\nhttps://youtu.be/jXXGJZXT0kA\n\n【今さら聞けない】超初心者OK！Geminiの使い方・基礎をわかりやすく徹底解説(P80超資料付き)\nhttps://youtu.be/ITk19pUJ8GU\n\n【更に進化‼️】「Gemini Notebook」最新アプデまとめ！（ウォーターマーク削除/レポート・クイズ進化/ショート日本語対応 etc）\nhttps://youtu.be/4-dlxaDxzw0\n\n【大型アプデ‼️】「Googleスライド」に「Gemini」が完全統合！AIエージェント化！徹底解説\nhttps://youtu.be/yAJcj2mVqSw\n\n\n■オンラインスクールRirian School.━━━━━━━━━━━━━━\nhttps://www.ririanschool.com/\n\n○0から学べるCanvaデザイン講座\nhttps://www.ririanschool.com/courses/0-canva-web\n\n○フォロワーを増やす！Instagram講座\nhttps://www.ririanschool.com/courses/instagram\n\n\n■mikimiki 発信メディア一覧━━━━━━━━━━━━━━\n\n○Instagram\nhttps://www.instagram.com/mikimiki1021/\n\n○Twitter\nhttps://twitter.com/Mikimiki10211\n\n○mikimiki webスクールブログ版\nhttps://mikimiki1021.com/\n\n■デザインオフィスRirian 発信メディア一覧━━━━━━━\n\n○Ririan Instagram\nhttps://www.instagram.com/mikimikiwebschool/\n\n○デザインオフィス Ririan HP\nhttps://ririan-dsn.com/\n\n■mikimiki プロフィール━━━━━━━━━━━━━━\n\n株式会社Ririan&Co, 扇田 美紀（mikimiki）\n2児のママ👶🏻\nWebデザイナー/ コンテンツクリエイター 。\nクリエイティブツールCanvaの日本人初のCanva Experts。\nhttps://mikimiki1021.com/about/\n\n著書\nフォロワーが増える！　Instagramコンテンツ制作・運用の教科書\nhttps://amzn.asia/d/6qgfdn8\n\nCanva使い方入門\nhttps://amzn.asia/d/4Qmqkek\n\nはじめてのCanva マネするだけでプロっぽくなるデザインのルール\nhttps://amzn.asia/d/dSxFS7J\n\n新世代Illustrator 超入門\nhttps://amzn.asia/d/8oQyEHO\n\n画像生成AI Midjourney本\nhttps://amzn.to/46YOafl\n\nCanvaお悩み解決Book \nhttps://amzn.asia/d/8f4jyH9\n\nはじめての Adobe Firefly 入門\nhttps://amzn.asia/d/9Qpkdx8\n\n\n #mikimikiwebスクール   #meta     #instagram",
+      "tags": [
+        "フリーランス",
+        "webデザイン",
+        "webデザイナー",
+        "mikimiki",
+        "ミキミキ",
+        "Illustrator",
+        "Canva",
+        "イラレ",
+        "マーケティング",
+        "wordpress"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/EBza5n0hKG8/mqdefault.jpg",
+      "durationSec": 1163,
+      "views": 54560,
+      "likes": 427,
+      "comments": 18,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
+      ]
     },
     {
       "id": "pH4ffpdjxIA",
@@ -296,8 +376,8 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/pH4ffpdjxIA/mqdefault.jpg",
       "durationSec": 1562,
-      "views": 53513,
-      "likes": 470,
+      "views": 53573,
+      "likes": 472,
       "comments": 12,
       "live": "none",
       "lang": "ja",
@@ -318,7 +398,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/-Rt2D2aoHb0/mqdefault.jpg",
       "durationSec": 1177,
-      "views": 45990,
+      "views": 46062,
       "likes": 391,
       "comments": 36,
       "live": "none",
@@ -345,8 +425,8 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/q-Sp8mR2FSc/mqdefault.jpg",
       "durationSec": 2746,
-      "views": 45939,
-      "likes": 591,
+      "views": 46013,
+      "likes": 592,
       "comments": 124,
       "live": "none",
       "lang": "ja",
@@ -391,7 +471,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/vzUTVZaImGE/mqdefault.jpg",
       "durationSec": 1370,
-      "views": 44701,
+      "views": 44772,
       "likes": 258,
       "comments": 11,
       "live": "none",
@@ -428,7 +508,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/TRb3oALRm74/mqdefault.jpg",
       "durationSec": 1999,
-      "views": 35860,
+      "views": 35903,
       "likes": 164,
       "comments": 15,
       "live": "none",
@@ -436,6 +516,78 @@ window.SNAPSHOT = {
       "cats": [
         "chatgpt",
         "gemini"
+      ]
+    },
+    {
+      "id": "guAXgQJ6Cvw",
+      "url": "https://www.youtube.com/watch?v=guAXgQJ6Cvw",
+      "title": "MuseのChrome拡張機能が登場！ 無料プランでもめちゃくちゃ便利！（ChatGPT有料版くらいのことができます！）",
+      "channel": "じゅりん│AIビジネス活用塾",
+      "channelId": "UC4fHzgFze5ETT2O2RamvoYg",
+      "publishedAt": "2026-11-14T04:30:01Z",
+      "description": "MuseにChrome拡張機能が登場しました！\nこれがまたすごい。ChatGPTの有料プラン（Plusプラン以上）でしか使えないようなブラウザ操作機能まで、Museでは無料プランで使えてしまうという…\n\n今の生成AI（AIエージェント）の勢力図を一気に塗り替えてしまいそうなMuseの攻勢に各社ヒヤヒヤではないでしょうか。\n\nChrome拡張機能は以下からどうぞ！\n↓\n✅ Chrome拡張機能｜Muse from Meta\nhttps://chromewebstore.google.com/detail/muse-from-meta/jnakhhjmpmoohbjgfccbccfoifnmbdjd\n\n\n【目次】\n0:00 MuseのChrome拡張機能を紹介\n1:27 拡張機能でできること\n4:06 使う前に知っておきたい権限と注意点\n5:49 拡張機能のインストールと起動\n8:34 実演① YouTube動画を要約する\n14:26 実演② 商品を探してページを開く\n18:43 商品の性能・価格を比較表にする\n20:45 実演③ アンケートフォームに入力する\n25:09 実演④ YouTubeからnote記事を作らせる\n27:32 noteに記事を書き込む様子\n28:46 実際に動かして分かった課題\n29:27 まとめ：パソコンでのMuse活用",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/guAXgQJ6Cvw/mqdefault.jpg",
+      "durationSec": 1931,
+      "views": 30747,
+      "likes": 234,
+      "comments": 28,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "chatgpt",
+        "muse"
+      ]
+    },
+    {
+      "id": "VTah3ztnmrE",
+      "url": "https://www.youtube.com/watch?v=VTah3ztnmrE",
+      "title": "【AIアニメ】ドラゴンクエスト5 天空の花嫁 総集編｜感動の親子三代の物語を53分で一気に(ファンメイド)",
+      "channel": "せがれの晩ごはん",
+      "channelId": "UCfT7oFlMLIksIsQf9tctWmA",
+      "publishedAt": "2026-10-25T07:00:16Z",
+      "description": "「もしも、デボラと結婚していたら」はこちら → https://youtu.be/f3KTfSgXDY8\n「もしも、フローラと結婚していたら」はこちら → https://youtu.be/rp7_-vKs4KU\n\nドラゴンクエスト5「天空の花嫁」の物語を、AI の練習として全年齢のアニメ調で再現したファンメイド作品の総集編です。第1部・第2部・第3部をつないで、約53分で一気に見られるようにしました。\n\n少年アベルと父パパスの旅、幼なじみビアンカとのおばけ退治、父との別れ。奴隷として過ごした十年、再会、そして花嫁選び。王になった夜に訪れる石の時間、成長した子どもたち、天空の城、家族四人で向かう最後の旅まで。親子三代の感動の物語を、章ごとに区切って見られます。\n\n絵・動画・声・曲はすべて AI で作り、台詞は原作を写さず書き直しています。\n\n各部ごとの動画はこちら\n第1部 少年時代 → https://youtu.be/5LlBt71fGh4\n第2部 青年時代 → https://youtu.be/5raOSjZmP94\n第3部 親子の旅・完結 → https://youtu.be/1KT-Cn3DLps\n同じ作り方の DQ8 アニメ(第1部)はこちら → https://youtu.be/BlPsjqxRlSY\n\n0:00 オープニング\n0:10 第一章 生まれた日と船の旅\n3:25 第二章 夜のお城とちいさな約束\n12:14 第三章 妖精の国の春\n16:43 第四章 父の背中\n20:35 第2部 第五章 十年と、海へ\n25:24 第六章 真実の鏡\n28:37 第七章 帰ってきた相棒\n32:38 第八章 花嫁\n37:20 第3部 第九章 王になった夜\n41:34 第十章 石の庭\n45:00 第十一章 天空の城\n49:18 第十二章 家族の旅の終わり\n\nドラゴンクエストの物語・キャラクターの権利は株式会社スクウェア・エニックス(ARMOR PROJECT/BIRD STUDIO/SQUARE ENIX)にあります。本動画はファンが AI の練習として作った非公式の作品です。音楽・効果音・台詞は公式の物を使わず自作しています。\n\n#ドラクエ5 #AIアニメ #ファンメイド",
+      "tags": [
+        "ドラゴンクエスト5",
+        "ドラクエ5",
+        "天空の花嫁",
+        "DQ5",
+        "ドラゴンクエスト",
+        "ドラクエ",
+        "総集編",
+        "一気見",
+        "感動",
+        "ドラクエアニメ",
+        "ドラクエ アニメ",
+        "ドラクエ5 アニメ",
+        "ドラゴンクエスト アニメ",
+        "AIアニメ",
+        "AI動画",
+        "ファンメイド",
+        "二次創作",
+        "非公式",
+        "ビアンカ",
+        "パパス",
+        "アベル",
+        "ゲレゲレ",
+        "フローラ",
+        "デボラ",
+        "生成AI"
+      ],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/VTah3ztnmrE/mqdefault.jpg",
+      "durationSec": 3209,
+      "views": 30310,
+      "likes": 145,
+      "comments": 9,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "charanime"
       ]
     },
     {
@@ -457,13 +609,79 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/LyAB3uoIVBg/mqdefault.jpg",
       "durationSec": 477,
-      "views": 28881,
+      "views": 28906,
       "likes": 119,
       "comments": 8,
       "live": "none",
       "lang": "ja",
       "cats": [
         "new"
+      ]
+    },
+    {
+      "id": "bwWQoa9Bduo",
+      "url": "https://www.youtube.com/watch?v=bwWQoa9Bduo",
+      "title": "【要注意！】MetaのAI秘書「Muse」初期設定のままは危険！｜Facebook・Instagram連携も見直す設定7選",
+      "channel": "ニュースのミカタ",
+      "channelId": "UCK38iXY6WBFG3AsPfYPIdmA",
+      "publishedAt": "2026-11-16T13:36:14Z",
+      "description": "Muse（ミューズ）を使い始めたら、最初に見直しておきたい設定を7つ、スマホ（iPhone）とパソコン（Windows）の実際の画面で、順番に紹介します。AIを使い始めたばかりの方でも、画面を見ながら同じ操作ができるようにまとめました。\n\n\n▼この動画で見る7つの設定\n・会話をAI開発に使わせない（データコントロール）\n・操作の前に毎回確認する（確認の画面で「常に許可」は選ばない）\n・つながっているアプリの権限（Facebook・Instagram・Messenger）\n・Androidの連絡先の許可（補足）\n・Museの記憶（MEMORY.md）の確認と、「リセット」との違い\n・頼んでいない定期的な作業がないか（近日の予定）\n・Metaアカウントのパスキーと2段階認証\n\n▼チャプター\n00:00 オープニング｜この動画でわかること\n01:09 今日の進め方\n01:33 アカウントセンターとは（設定の入口）\n02:46 設定1｜会話をAI開発に使わせない（データコントロール）\n04:43 設定2｜操作の前に毎回確認する（確認の画面で「常に許可」は選ばない）\n07:51 設定3｜つながっているアプリの権限（Facebook・Instagram・Messenger／許可する・リクエストする・許可しない）\n10:01 設定4｜Androidの連絡先の許可（補足）\n11:01 設定5｜Museの記憶（MEMORY.md）の確認と、「リセット」との違い\n15:42 設定6｜頼んでいない定期的な作業がないか（近日の予定）\n17:21 設定7｜Metaアカウントのパスキーと2段階認証（パスキーはPCのウェブ版から）\n19:43 おまけ\n20:39 まとめ｜7つの設定のおさらい\n\n▼補足：つながっているアプリ（設定3）\nFacebook・Instagram・Threadsは、同じアカウントセンターに入っていると、自分でつなぐ操作をしなくても自動でリンクされることがあると公式ヘルプにあります。\n連携そのものを外したい場合は、「Metaアカウントセンター」から管理できます。\nhttps://accountscenter.meta.com/\n\n▼補足：パスキー（設定7）\nMuseのスマホアプリには、パスキー作成の項目がありません（2026年11月時点）。パスキーは、PCのウェブ版Museから作成します（設定 → アカウントセンター → ログインとセキュリティ）。\nMetaの公式ヘルプでは、パスキーを使えるかどうかはアプリ・端末・ブラウザによって異なる、と案内されています。共用の端末では、パスキーを作らないでください。\n・Metaパスキーについて（公式ヘルプ）：https://www.meta.com/help/1991801474748071/\n▼参考にした公式ページ（Metaヘルプセンター）\n・Museの利用を始める方法：https://www.meta.com/ja-jp/help/superintelligence/1331373868832401/\n・Museのデータの管理：https://www.meta.com/ja-jp/help/superintelligence/2225571704857152/\n・承認とアクセス許可：https://www.meta.com/ja-jp/help/superintelligence/1385290430137537/\n・コネクターの連携：https://www.meta.com/ja-jp/help/superintelligence/1687253048996149/\n・Museの性格と記憶：https://www.meta.com/ja-jp/help/superintelligence/995796179982326/\n\n▼動画で触れた報道\n・「常に許可」を選んだ後に住所が送られた件（Business Insider）：https://www.businessinsider.com/muse-agent-facebook-marketplace-address-setting-meta-always-allow-2026-9\n・Amazonの買い物の制限について（CNBC）：https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html\n\n▼Museを始める（公式）\n・パソコン（ブラウザ）：https://muse.ai\n・スマホは、App Store／Google Playで「Muse from Meta」（提供元 Meta Platforms, Inc.）を選んでください。\n\n※Meta、Facebook、Instagramは、Meta Platforms, Inc.の商標です。Museは同社のサービスです。サムネイルのMuseアイコンとInstagram・Facebookのロゴも同社の商標です。\nこの動画は非公式の紹介で、Metaから提供・推奨を受けたものではありません。",
+      "tags": [],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/bwWQoa9Bduo/mqdefault.jpg",
+      "durationSec": 1322,
+      "views": 24888,
+      "likes": 197,
+      "comments": 3,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
+      ]
+    },
+    {
+      "id": "tRIjsuBzMq8",
+      "url": "https://www.youtube.com/watch?v=tRIjsuBzMq8",
+      "title": "【最新アプデ】大型アプデで進化したGrok Bot 1.0を徹底解説！進化した点や注目すべき最新機能をGrok Botを使い込むプロが教えます",
+      "channel": "いまにゅのAIプログラミング塾",
+      "channelId": "UC0xRMqPOyRNPTaL6BxhbCnQ",
+      "publishedAt": "2026-11-15T09:00:21Z",
+      "description": "本日は～～についてお話させて頂きました！\nぜひご視聴ください！\n\n\n🧑‍💻⬇︎AIやAIコーディングをもっと深く学びたい方はこちらから⬇︎🧑‍💻\n✅Google AI Studio 基本の使い方\n✅AIコーディング専門用語解説\n✅Gemini CLI 超入門\n✅生成AI時代のWebスクレイピング入門 etc...\n\n━━━━━━━━━━━━━━━\n📲 LINE登録はこちら 📲\n━━━━━━━━━━━━━━━\n🔑 キーワード → 「 \"ここにキーワード\"」\n🔗 \"ここにリンク\"\n👆 上のリンクからLINE登録後、キーワードを送信してください！\n━━━━━━━━━━━━━━━\n\n📨  法人向けサービス お問い合わせ窓口はこちら⬇️\nhttps://michigaeru.notion.site/14752fe81994458ebff57ebea587cfe0?pvs=105\n\n🤝 応募求人の詳細はこちら ⬇️\nhttps://michigaeru.notion.site/337ed1b0e0eb8010acdac21685ea86e2\n\n⏰タイムコード\n0:00 オープニング\n\n\n━━━━━━━━━━━━━━━\n🐍Pythonを学び始めるなら\nhttps://youtu.be/yeZ3STy3k44\n🤖GAS（Google Apps Script）を学び始めるなら\nhttps://youtu.be/w2r-Q2FabY0\n📒PythonでWebスクレピングなら\nhttps://youtu.be/VRFfAeW30qE\n🔥Python基礎力を高めるなら\nhttps://youtu.be/Gh0qRBHbnVs\n━━━━━━━━━━━━━━━\n🧠Twitter（ノウハウ）\nhttps://twitter.com/03Imanyu\n🎧Voicy（音声コンテンツ）\nhttps://voicy.jp/channel/3196\n📺Udemy（動画講座）\nhttps://www.udemy.com/user/jin-xi-hang-ping-2/\n📗書籍（今日からできる! Python業務効率化スキルが身につく本）\nhttps://www.amazon.co.jp/dp/4046057254\n━━━━━━━━━━━━━━━\n#AI #  #",
+      "tags": [
+        "claude",
+        "chatgpt",
+        "gemini",
+        "openai",
+        "codex",
+        "プログラミング",
+        "google",
+        "claudecode",
+        "claude code",
+        "googleai",
+        "AI",
+        "生成AI",
+        "業務効率化",
+        "業務自動化",
+        "AIコーディング",
+        "エンジニア",
+        "muse",
+        "meta",
+        "grok",
+        "grok bot"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/tRIjsuBzMq8/mqdefault.jpg",
+      "durationSec": 1149,
+      "views": 21982,
+      "likes": 100,
+      "comments": 11,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "grok"
       ]
     },
     {
@@ -517,38 +735,59 @@ window.SNAPSHOT = {
       "comments": 1,
       "live": "none",
       "lang": "ja",
-      "cats": []
+      "cats": [
+        "muse"
+      ]
     },
     {
-      "id": "Sh5522OHwZs",
-      "url": "https://www.youtube.com/watch?v=Sh5522OHwZs",
-      "title": "【Gemini 4 Argon】品質を高める効果はモデルの賢さよりも「見直す作業場」にあった【Gemini/Google Workspace】",
-      "channel": "NI-WORK",
-      "channelId": "UChD63R31attT5w8WOZeuXyg",
-      "publishedAt": "2026-11-17T20:30:38Z",
-      "description": "「仕事に次の革新を」をテーマに、生成AIやGoogle Workspaceの仕事での活用を対談で紹介しています。\n収録日：2026年10月25日\n\n――――― オンラインセミナー申し込みはこちらから！ ―――――\nPeatix\nhttps://peatix.com/event/5268967\n\n\n――――― 書籍のご案内 ―――――\nNI-WORKの書籍が26年10/30〜全国書店やAmazonで販売されています。\nhttps://amzn.asia/d/0d7IDWGX（Amazon）\n『Googleエバンジェリスト直伝　仕事が変わる Geminiの最適解』\n法人でのまとめ買いは以下からお問い合わせください。\n株式会社芸術新聞社\nhanbai@gei-shin.co.jp\n03-5280-9081（販売課）\n\n――――― 関連動画 ―――――\n\n――――― 目次 ―――――\n00:00 ダイジェスト・ご挨拶\n02:29 Gemini 4 Argonって何？／Carbon登場の補足\n04:02 Argonが使える環境は？\n06:43 実はタスク（Spark）が素晴らしい\n07:58 タスクなら並行・複数処理もおまかせ\n13:01 Argonのチャットでも「タスク」に及ばない\n16:49 タスクならFlashでも十分すごい\n18:48 エージェントは作業場を持っている\n21:08 この動画のまとめ\n23:14 今後 Antigravityに大きな期待\n\n――――― メンバーシップ ―――――\nNI-WORK｜応援プラン\n活動を応援してくださるメンバーを募集中です。\n動画で使用したプロンプトを、チャンネルホームのメンバー限定投稿で公開しています。\n詳細はこちら。\nhttps://www.youtube.com/channel/UChD63R31attT5w8WOZeuXyg/join\n\n\n――――― ホスト（出演者）について ―――――\n丹羽国彦：歴15年、国内外有数のGoogle からも公式に認められるGWS・Geminiの組織導入・活用エバンジェリスト。Googleから依頼され パートナーに Google Workspace の公式の技術指南や移行・展開技術を指導する国内稀有な人材。Googleのカルチャーに基づくコラボレーション設計やデータ活用、AI対話力が得意。\nX：https://x.com/NiwaKunihiko\n\n山口彰宏：生成AI業務活用ノウハウ豊富なエキスパートエンジニア。経歴として、セールスフォース・ジャパンのソリューションエンジニア、PayPay株式会社や住友生命にて社内システム開発などを歴任。現在は生成AI、Google、Salesforceなどの様々なテクノロジーを活用した業務効率化のDX推進を支援。\n\n――――― お問い合わせ ―――――\nお問い合わせ前に以下の動画をご確認ください\nhttps://youtu.be/jB1cnU4Nves\nお仕事のご依頼はこちら\nhttps://docs.google.com/forms/d/e/1FAIpQLSfljCDhkx9M_zyOHwElRaLwDmNJUFgzln1HKf5ZZQLo8Q8uBw/viewform?usp=sf_link\n\n――――― 使用サービス ―――――\nGeminiアプリ\nhttps://gemini.google.com/app?hl=ja\nGemini Notebook\nhttps://notebook.google.com/\nGoogle Workspace\nhttps://workspace.google.com/intl/ja/\n\n#gemini #ai #googleworkspace",
-      "tags": [
-        "Gemini",
-        "DeepResearch",
-        "Google",
-        "生成AI",
-        "Canvas",
-        "Gems",
-        "GoogleWorkspace",
-        "効率化",
-        "Gemini Notebook"
-      ],
+      "id": "_oK3FkLGMPc",
+      "url": "https://www.youtube.com/watch?v=_oK3FkLGMPc",
+      "title": "【保存版】Muse みんなの使い方20選｜靴の買い替え、音声ガイド、家電の操作パネル、AI どうしの会議まで",
+      "channel": "SHISHIGAMI TECH CH",
+      "channelId": "UCMSv40OpwQj92ousAD-aiSQ",
+      "publishedAt": "2026-11-18T08:34:56Z",
+      "description": "Muse の動画のコメント欄を読み直し、まだご紹介していない20人の使い方を、暮らしの話から順にまとめました。Muse を勇者にして歩く、献立のけんかを解決、乗り換えの電車を知らせる、AI どうしの会議、うまくいかなかった例も。\n\n▼ チャプター\n0:00 今回の20人は、どうやって選んだの？\n1:55 歩くのや歌うのも、Muse で楽しくなるの？\n4:35 家族の困りごとにも、使えるの？\n6:11 体のことは、どこまで任せられるの？\n9:31 服や料理、通勤の毎日は、どう変わるの？\n12:27 自分だけのアプリや家電の操作まで、作れるの？\n15:26 仕事の連絡や表づくりは、どこまで任せられるの？\n17:27 AI どうしの会議や、株の調べものまで、できるの？\n19:06 うまくいかなかった例は、あるの？\n\n▼ この動画でわかること\n・視聴者20人が Muse に頼んでいる、暮らしと仕事の使い方\n・足りない情報を聞き返す、できない機能を別の手で代わりにやる例\n・裏写りを手書きのメモと読んだ失敗と、原本と照らし合わせる大切さ\n\n▼ AIと作るWebアプリの教科書（無料・講義200本）\n▶ https://learn.aibuilderjp.com/\n\n▼ お問い合わせ（AI 顧問・動画編集の代行）\n▶ https://digitalshift-inc.co.jp/contact\n\n▼ 引用・参考\n視聴者のコメントを引用して紹介しています。著作権は投稿者に帰属します。どれも投稿者本人の体験談・申告で、こちらで再現して確かめたものではありません。件数（Muse の動画26本・コメント589件・399人）はシシガミが数えたものです。Muse の画面のアニメはコメントの言葉に沿って作った再現イメージで、画面は再現イメージ・数字や品名は例です。お城・カラオケ・台所・駅・車などの実写風の映像は生成したイメージです。株の調べものの例は投資の勧めではありません。最後に決めるのはご自身です。\n・視聴者コメント：シシガミの Muse の動画のコメント欄（@人差し指-l9u さん、@hideyosi5126 さん、@masahiro_Japan77 さん、@masabakuchou さん、@openeight8 さん、@keikiha4941 さん、@えーあい-i3z さん、@sasuraitecchan さん、@kazu-life さん、@echofeelradio さん、@japanfox4 さん、@pistols001 さん、@musubiya_knotting_studio さん、@mmgoooo さん、@takao299 さん、@高橋◯◯-b9t さん、@dr_tak さん、@SHINGO-d6w さん、@唐揚弁当-p4f さん、@ぽんぽこ丸-e3n さん）\n・夫婦のやりとりの仲裁の例：@chicca_btt さんのコメント（以前の動画でご紹介）\n・シシガミ TECH CH のコミュニティ投稿（11/17・お休みのお知らせ）https://www.youtube.com/post/UgkxR6TR9sZGSra_6AXRzzT3MDKZ0aRnxHuI\n・Wall St Engine（X 9/24・Meta の基調講演の Muse Charm）https://x.com/wallstengine/status/2102911337001332769\n・関連動画：【保存】新機能Muse Mailを解説！Muse、みんなの使い方がすごい｜アプリ事例20選 https://youtu.be/CXVOO0Ryny0\n・関連動画：【保存版】Museみんなの事例を大公開｜「スペース」事例20選 https://youtu.be/c77u-mMqDbU\n・関連動画：【保存版】Muse、みんなの使い方がすごい｜事例20選 https://youtu.be/NA2Oc5VHm5U\n・関連動画：【週間】Muse皆どう使ってる？活用方法やトラブルまとめ https://youtu.be/WoH5q9i00AE\n\n#Muse #Meta #パーソナルAI #生成AI #AIエージェント",
+      "tags": [],
       "audioLang": "ja",
       "defaultLang": "ja",
-      "thumbnail": "https://i.ytimg.com/vi/Sh5522OHwZs/mqdefault.jpg",
-      "durationSec": 1620,
-      "views": 19278,
-      "likes": 154,
-      "comments": 20,
+      "thumbnail": "https://i.ytimg.com/vi/_oK3FkLGMPc/mqdefault.jpg",
+      "durationSec": 1246,
+      "views": 19380,
+      "likes": 192,
+      "comments": 48,
       "live": "none",
       "lang": "ja",
       "cats": [
-        "gemini"
+        "muse"
+      ]
+    },
+    {
+      "id": "rNPOJBR-uSo",
+      "url": "https://www.youtube.com/watch?v=rNPOJBR-uSo",
+      "title": "【完全攻略】Museの使い方40選｜14個を実演・日本で動く/動かないも確認",
+      "channel": "なつき【AIの使い方】",
+      "channelId": "UCuAnXpWOrInWwsPAcfnE-Dg",
+      "publishedAt": "2026-11-14T08:22:57Z",
+      "description": "Meta AIの「Muse」でできることを、話題の事例から40個集めて、4つのグループに分けました。\nそのうち14個は、私のiPhoneで実際にやって見せています。値下がりの見張り、毎朝の朝刊、旅行の比較、献立・底値・筋トレのアプリ、画像づくり、自分専用のスキル、記憶の出し入れ、学習に使わせない設定まで。\n海外の事例のうち、日本ではまだ動かないものも、分けてお伝えしています。\n\n━━━━━━━━━━━━━━━\n▼ LINE登録で受け取れる特典（無料）\nhttps://line-harness.natsugon-line.workers.dev/r/yt_muse40\n\n① 登録後に「40」と送ると：Museの頼み方40 そのまま使える一覧\n　（40個すべての頼み方をコピーして使える形に。動画で実演した14個と、日本で試せるかの印つき）\n② 登録した全員に：ひとりビジネスのための、AI実践スタートキット\n　（頼み方をコピーして自分の内容を入れるだけで、発信の企画や台本・商品の案内文までAIに任せられる）\n━━━━━━━━━━━━━━━\n\n▼ 目次\n00:00 Museに頼むだけで、ここまでできる\n00:51 見るだけで満足していませんか（特典のご案内）\n01:45 A 見張り・自動でやってくれる（1〜10）\n04:48 B 暮らし（11〜20）\n08:41 C 仕事（21〜30）\n11:08 D つなぐ・設定で強くする（31〜40）\n14:21 日本でまだ動かないもの\n14:41 使う前の注意点\n15:09 まとめ・特典のご案内\n\n▼ ご注意\n・この動画の声は、本人の声をもとに作ったAIの音声です。\n・画面と結果は、2026年11月14日にiPhoneで収録した時点のものです。Museは更新が早いので、画面や動き方が変わることがあります。\n・お金や予約が関わる操作は、確認の画面で中身を見てから許可してください。\n\n#Muse #MetaAI #AI活用 #生成AI #AIエージェント #iPhone",
+      "tags": [
+        "AIの使い方",
+        "AI活用",
+        "スマホ",
+        "iPhone",
+        "完全攻略",
+        "まえだなつき"
+      ],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/rNPOJBR-uSo/mqdefault.jpg",
+      "durationSec": 984,
+      "views": 19219,
+      "likes": 140,
+      "comments": 3,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
       ]
     },
     {
@@ -578,7 +817,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/wOxqvBGyBeA/mqdefault.jpg",
       "durationSec": 2123,
-      "views": 18754,
+      "views": 18805,
       "likes": 193,
       "comments": 11,
       "live": "none",
@@ -601,7 +840,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/zYSzcTM_rJA/mqdefault.jpg",
       "durationSec": 2100,
-      "views": 18235,
+      "views": 18259,
       "likes": 162,
       "comments": 5,
       "live": "none",
@@ -609,6 +848,97 @@ window.SNAPSHOT = {
       "cats": [
         "new",
         "gemini"
+      ]
+    },
+    {
+      "id": "I1XFtTJtmIg",
+      "url": "https://www.youtube.com/watch?v=I1XFtTJtmIg",
+      "title": "【最強モデル対決】オススメは？AI動画生成ツールはコレを使え！Artlistで徹底検証(Kling 4.0 vs GoogleOmni1.1 vs MiniMaxH3 vs Seedance2.5)",
+      "channel": "ハム先生のAI教室【AI動画の実務活用】",
+      "channelId": "UCgwv7JsLDvGTtRdFI4TVRQw",
+      "publishedAt": "2026-10-24T02:01:33Z",
+      "description": "✅Kling4.0が新リリース！Artlistの登録はこちら↓\nhttps://artlist.io/artlist-70446/?artlist_aid=DBham_ai_skill_4099&utm_source=affiliate_p&utm_medium=DBham_ai_skill_4099&utm_campaign=DBham_ai_skill_4099\n年間プランをご購入いただくと、2か月分が無料で追加され、対象のAIモデルを無制限でご利用いただけます！\n\n🎁【無料配布】本動画の資料スライド👇\n以下公式LINE追加後、「最新比較」とコメントで受け取れます。\nhttps://lin.ee/NxUrHY8\n\n🔻AI動画の最新情報はXをフォロー↓\nhttps://x.com/ham_ai_skill\n\n🔻目次\n00:00 オープニング\n00:22 ①ストーリーボードの動画化\n02:44 4モデルの生成コスト比較\n03:37 ②複数素材の参照\n05:35 ③アニメ\n07:16 ④音声・リップシンク\n10:00 ⑤激しいアクション\n11:09 ⑥物理演算\n12:09 ⑦カメラワーク\n13:36 ⑧モーション参照\n14:48 ⑨テキストアニメーション\n15:59 ⑩動画編集\n16:57 品質・スピード・コストの総合比較\n19:47 Artlistの使い方と動画生成\n20:33 ChatGPT・ClaudeとMCPで一括生成\n21:06 まとめ\n\n🔻ハム先生の経歴/実績\n・経歴：アクセンチュアでDX案件に従事。その後事業会社で10万人超の法人YouTube運営を複数経験\n・クリエイター活動\n　-ハム先生のAI教室：1年でYouTube3万人\n　-社長ソング：半年でインスタ／TIktok1万人\n　-Google公式が認定：「Gemini早期アクセスプログラム」参加中  ​⁠ \n　-CPP：Kling AI、Vidu AI、Hailuo AI、CapCut等多数\n\n🔻【法人様向け】お仕事のご相談は以下までお願い致します。無料相談も可能です。\nhttps://forms.gle/DymsfvoEb7BpHc528\n※対応例：AI動画制作(SNS/CM/PR)、AI研修、AI顧問など\n\n🔻AI映像の制作事例\nhttps://eosai.jp/\n\n🔻運営\nEosAI株式会社／代表取締役 伊藤洸暉\n代表X：https://x.com/kokicareer\n\n#AI動画 #Artlist #KlingAI #AI動画生成 #Seedance25",
+      "tags": [
+        "AI動画",
+        "AI動画生成",
+        "AI動画比較",
+        "Artlist",
+        "アートリスト",
+        "Kling 4.0",
+        "Kling4",
+        "クリング4.0",
+        "Google Omni 1.1",
+        "Omni1.1",
+        "MiniMax H3",
+        "Hailuo H3",
+        "Seedance 2.5",
+        "シーダンス2.5",
+        "Artlist MCP"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/I1XFtTJtmIg/mqdefault.jpg",
+      "durationSec": 1371,
+      "views": 17584,
+      "likes": 126,
+      "comments": 16,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "seedance"
+      ]
+    },
+    {
+      "id": "WtX1l7Sycx0",
+      "url": "https://www.youtube.com/watch?v=WtX1l7Sycx0",
+      "title": "【完全版】初心者でもAIアニメが作れる！最適解ワークフローと活用法8選【2026年最新】",
+      "channel": "動画編集の中の人",
+      "channelId": "UC6pAU449vK_UYQOYJ1JgLaQ",
+      "publishedAt": "2026-11-07T09:00:12Z",
+      "description": "Higgsfieldに興味がある方はこちらから🐰\nhttps://higgsfield.ai/s/make-your-first-ai-video-yt-gwUvfB\n\n今回は、初心者でもできるAIアニメ作りの最適解と最新活用法8選を解説しました！\nぜひ最後まで見て役立ててくれると嬉しいです！🐰\n\n◾️動画生成・動画編集スキルをもっと知りたい方◾️\n\n公式LINE登録でGETできる！\n【有料級】豪華3大特典をプレゼント中！\n\n🎁①そのまま使える！動画生成AIプロンプト事例100選！\n🎁②もう迷わない！動画生成AIの選び方完全ガイド！\n🎁③編集時間が激減する！超時短ショートカットキー活用術！\n\n🐰↓友達登録はこちらから↓🐰\nhttps://lin.ee/iVlhyiP\n\n🐰目次\n0:00 ハイライト\n0:30 オープニング\n1:57 AIアニメに最適なモデルを比較\n2:22 画像モデル4つを比較\n4:53 動画モデル4つを無茶振り比較\n9:43 比較結果とモデルの役割分担\n10:45 AIアニメ作りのワークフロー（5ステップ）\n11:09 ステップ1：企画と台本の作成\n12:57 ステップ2：原型画像を作る\n15:30 ステップ3：動画化\n17:45 ステップ4：音作り\n18:57 ステップ5：編集ソフトで仕上げる\n19:24 現場で使えるAIアニメ活用事例8選\n19:48 ①自分の写真からアニメキャラを作る\n20:45 ②画風を変えて世界観を作る\n21:42 ③迫力のあるアクションシーン\n22:30 ④変身や切り替わりを見せる\n23:06 ⑤商品を紹介するアニメCM\n24:24 ⑥縦型ショートドラマ\n25:51 ⑦AIミュージックビデオ\n27:12 ⑧Genjutsuで流行りの動画に自分のキャラを入れる\n28:38 AIアニメ作りを自動化する方法\n29:39 料金とクレジット・著作権の注意点\n31:24 まとめ\n\n\n↓オススメ動画はこちら↓\n\nClaudeでのAI動画自動化方法\n・https://www.youtube.com/watch?v=9eb3qCWL9Qs\n\nChatGPTでのAI動画自動化方法\n・https://www.youtube.com/watch?v=HYxYVv298-w&t=746s\n\n↓【YouTubeの中の人】YouTube運営攻略チャンネルはこちらから↓\nhttps://www.youtube.com/channel/UCZoLnjygkKTAeeE8ZByMZ-A\n\n↓【AIの中の人】AI攻略チャンネルはこちらから↓\nhttps://www.youtube.com/channel/UCMb9OTW1GQL7q3mUqFeYD5g\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n動画編集の中の人のPです！\nこのチャンネルでは、100チャンネル以上運用してきたYouTube運用のプロが、\nYouTube動画編集のやり方や裏技を、分かりやすく解説していきます！\nPremiere Proの操作方法・伸ばす編集法・稼げる編集スキルの悩みを一発解決！\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n🐰Pのプロフィール/実績\n・企業系YouTubeディレクター\n・100社以上のチャンネルを立ち上げからプロデュース\n・総登録者数1000万人達成\n・最高達成売上5億円達成\n・100万人、20万人、10万人のチャンネルの運営を経験\n\n↓Xでも攻略法を発信中！↓\nhttps://x.com/mov_nakanohito\n\n--------------------------------------------------------------------------------------\n楽曲提供:Audiostock https://audiostock.jp/\n--------------------------------------------------------------------------------------\n\n#動画編集 #higgsfieldai  #AIアニメ",
+      "tags": [
+        "AIアニメ",
+        "AIアニメ 作り方",
+        "AIアニメ 初心者",
+        "AIアニメーション",
+        "アニメ 自動生成",
+        "AI動画",
+        "AI動画 作り方",
+        "AI動画生成",
+        "動画生成AI",
+        "AI動画編集",
+        "AI動画 自動化",
+        "AI 画像生成",
+        "画像生成AI",
+        "AIイラスト",
+        "AIキャラクター",
+        "アニメMV",
+        "AI MV 作り方",
+        "AI ワークフロー",
+        "動画生成AI 比較",
+        "動画生成AI おすすめ",
+        "Higgsfield",
+        "Higgsfield 使い方",
+        "Kling 4.0",
+        "Seedance 2.5",
+        "AIツール",
+        "AI 活用法",
+        "AIクリエイター",
+        "AI 初心者",
+        "2026 最新 AI",
+        "動画編集の中の人"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/WtX1l7Sycx0/mqdefault.jpg",
+      "durationSec": 1962,
+      "views": 17547,
+      "likes": 254,
+      "comments": 12,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "charanime"
       ]
     },
     {
@@ -686,6 +1016,28 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "YGEDE10M0LA",
+      "url": "https://www.youtube.com/watch?v=YGEDE10M0LA",
+      "title": "【公式】Muse でChrome を動かせ！公式の拡張機能「Muse from Meta」でできること・入れ方・気をつける点",
+      "channel": "SHISHIGAMI TECH CH",
+      "channelId": "UCMSv40OpwQj92ousAD-aiSQ",
+      "publishedAt": "2026-11-14T09:00:26Z",
+      "description": "Meta の Muse に、自分の Chrome をログイン済みのまま動かせる公式の拡張機能「Muse from Meta」が出ました。試した人の画面、入れ方、ブラウザを触らせるときに気をつける点まで解説します。\n\n▼ チャプター\n0:00 Muse のブラウザ拡張って、何が出たの？\n2:21 これまでと、何が違うの？\n3:43 実際に、何ができたの？\n5:25 どうやって入れるの？ 日本でも使えるの？\n6:30 自分のブラウザを触らせて、大丈夫なの？\n8:10 まとめ\n\n▼ この動画でわかること\n・これまでの Muse のブラウザとの違いと、渡したタブだけを触る仕組み\n・比較・申し込み・X への投稿ができた例と、Amazon で止まった例\n・入れ方と偽物の見分け方、専用のプロファイルを分ける使い方\n\n▼ AIと作るWebアプリの教科書（無料・講義200本）\n▶ https://learn.aibuilderjp.com/\n\n▼ お問い合わせ（AI 顧問・動画編集の代行）\n▶ https://digitalshift-inc.co.jp/contact\n\n▼ 引用・参考\n公式のページと利用者の投稿を引用して紹介しています。著作権は発行元・投稿者に帰属します。利用者の投稿は本人の体験談・申告です。この拡張機能について、Meta からの発表はまだありません（2026年11月13日時点）。料金プラン・対応する国・OS は公式に記載がなく、「無料プランで動いた」「Windows で動いた」は利用者の報告です。Chrome のプロファイルを分ける使い方は、公式ではなく利用者の勧めです。\n・Chrome ウェブストア「Muse from Meta」（提供元 Meta）https://chromewebstore.google.com/detail/muse-from-meta/jnakhhjmpmoohbjgfccbccfoifnmbdjd\n・Meta ヘルプセンター「Museエージェントのウェブ閲覧方法」https://www.meta.com/ja-jp/help/superintelligence/2124746764949121/\n・かず（X 11/13・楽天とヨドバシ・ビックカメラの比較）https://x.com/hkazu1978/status/2121081529392922899\n・mirai（X 11/13・チケットの申し込み）https://x.com/mirai_spark/status/2121098877554368868\n・SHK（X 11/12・X への投稿）https://x.com/shk1974/status/2120798397414428918\n・鈴空スタヂオ（X 11/12・Cloudflare と GitHub）https://x.com/SuzukuStudio/status/2120868453305418122\n・仲村 トウ（X 11/12・Amazon のエラー画面）https://x.com/count3to1interr/status/2120776352978895007\n・Simon Smith（X 11/12・Amazon の商品ページを読めた）https://x.com/_simonsmith/status/2120893458294427769\n・もち（X 11/12・オセロ）https://x.com/aichan_mochi/status/2120786700121296995\n・白旗ちゃん（X 11/12・タブの渡し方、Windows）https://x.com/shirahata_w_f/status/2120794139789017168\n・fujihide（X 11/12・ストアの検索結果）https://x.com/hfujikawa77/status/2120862342879809920\n・癒色えも（X 11/12・入れた直後のパネル）https://x.com/ishiki_emo/status/2120751071501135922\n・kn（X 11/13・Vivaldi）https://x.com/kn_iidx/status/2120900918631866794\n・とまだ（X 11/13・デバッグの帯）https://x.com/muscle_coding/status/2121003107282809207\n・氷堂リョージ（X 11/12・プロファイルを分ける）https://x.com/ryojihido/status/2120812973690352072\n・ボブ・ゼ太郎（X 11/13・プロファイルを分ける）https://x.com/zeowota/status/2121013318806876465\n・脱力（X 11/13・Muse に相談）https://x.com/yuuzin217/status/2121132634474737958\n・視聴者コメント：シシガミの Muse の動画のコメント欄（@加藤慎輔 さん、@UltraFatman さん、@masatookada6467 さん、@はく-m1d さん、@Auranismo-s1000r さん、@MisaKi_8602 さん）\n\n#Muse #Meta #MuseFromMeta #Chrome拡張機能 #生成AI",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/YGEDE10M0LA/mqdefault.jpg",
+      "durationSec": 543,
+      "views": 16826,
+      "likes": 261,
+      "comments": 42,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
+      ]
+    },
+    {
       "id": "L6_KeBihkYY",
       "url": "https://www.youtube.com/watch?v=L6_KeBihkYY",
       "title": "【AI活用術】「使わないのは令和のマナー違反？」仕事・生活・学びを劇的に変える超実践テクニック／愛沢えみり・臼井拓水",
@@ -713,7 +1065,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/L6_KeBihkYY/mqdefault.jpg",
       "durationSec": 2302,
-      "views": 16764,
+      "views": 16789,
       "likes": 95,
       "comments": 2,
       "live": "none",
@@ -740,6 +1092,39 @@ window.SNAPSHOT = {
       "lang": "ja",
       "cats": [
         "chatgpt"
+      ]
+    },
+    {
+      "id": "ZR2SYOth_HA",
+      "url": "https://www.youtube.com/watch?v=ZR2SYOth_HA",
+      "title": "【無料‼️】超初心者OK！Meta「Muse」の使い方入門〜基礎をわかりやすく徹底解説(P100超資料付き)",
+      "channel": "mikimiki web スクール",
+      "channelId": "UChxtIA33ty53Hh4MmkXNASg",
+      "publishedAt": "2026-11-18T10:12:33Z",
+      "description": "動画をご覧いただきありがとうございます。\n本日はmetaの無料のAIエージェント「Muse」の使い方入門〜基礎を徹底解説します！\n参考になったらいいね！とチャンネル登録お願いします♪\n\n✅フォロワーを増やす！Instagram・最強AI秘書Museマスター講座〜AIで差をつけるインスタ戦略・運用からAIエージェント活用まで完全網羅〜\nhttps://www.ririanschool.com/courses/instagram\n\n✅Museのはじめ方入門〜基礎資料無料配布（公式Line)\n以下のキーワードを公式LINEにお送りください。（キーワードのみをお送りください）\nキーワード：「18」\nhttps://liff.line.me/2002090331-7n8Wl5d4/landing?follow=%40540dlsgo&lp=EhB1HE&liff_id=2002090331-7n8Wl5d4\n\n✅勉強会参加、おすすめGPTs、プロンプト集等の受け取りはこちら！\nhttps://liff.line.me/2002090331-7n8Wl5d4/landing?follow=%40540dlsgo&lp=EhB1HE&liff_id=2002090331-7n8Wl5d4\n\n✅タイアップ、Canva、AI（ChatGPT等）、SNS等に関するセミナー講師等お仕事のご依頼はこちら▼\nhttps://form.run/@ririan-design\n📩 ririan.design01@ririanco.com（English OK）\n\n✅0から始めるChatGPT・プロンプトエンジニアリング&画像生成AIマスター講座〜GPTを活用してビジネスの業務効率を最大化する〜（プロンプト集付）\nhttps://www.ririanschool.com/courses/0-chatgpt\n\n\n✅Line公式アカウントリニューアル！━━━━━━━━━━━━━━\n\n🔻登録はこちら🔻\nhttps://liff.line.me/2002090331-7n8Wl5d4/landing?follow=%40540dlsgo&lp=EhB1HE&liff_id=2002090331-7n8Wl5d4\n\nリニューアルに伴って\n9つプレゼントを用意しました🎁\n\nLINE限定の勉強会やセミナーも行います！\n\n━━🏆プレゼント1️⃣🏆━━━\n【知っておきたい】Google AIツールおすすめまとめ\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント2️⃣🏆━━━\n【これだけでOK】Gemini絶対すべき設定3選\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント3️⃣🏆━━━\n【保存版】初心者向けClaude全機能完全ガイド\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント4️⃣🏆━━━\n【保存版】Canvaおすすめフォント集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント5️⃣🏆━━━\n【最新版】Canvaおすすめ数字フォント集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント6️⃣🏆━━━\n【完全保存版】クリック率があるインスタグラムバズワード集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント7️⃣🏆━━━\n【保存版】Midjourneyおすすめプロンプト集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント8️⃣🏆━━━\n【完全攻略】GPT-image 2.0おすすめプロンプト集\n━━━━━━━━━━━━━━\n\n━━🏆プレゼント9️⃣🏆━━━\n本当に役立つ厳選GPTs 20選\n━━━━━━━━━━━━━━\n\n🔻プレゼントを受け取る🔻\nhttps://liff.line.me/2002090331-7n8Wl5d4/landing?follow=%40540dlsgo&lp=EhB1HE&liff_id=2002090331-7n8Wl5d4\n\n✅無料ニュースレター ━━━━━━━━━━━━━━\n\n生成AI、Canva、最新Webサービスの情報を伝える無料ニュースレター💌\n\n　【無料登録はこちら】\n　➡️　https://form.run/@ririannewsletter\n\n\n▼お問い合わせ/お仕事の依頼はこちら▼\nhttps://form.run/@ririan-design-0ffice\n\n●目次\n00:49 ①Museとは\n02:13 ②Museでできること全部\n03:15  ③ 料金プラン\n04:36 ④ vs dots vs Grok Bot vs Claude Duet\n08:51 ⑤準備\n09:13 ⑥ インストール・ログイン\n14:03  ⑦画面の見方\n11:20  ⑦ メインチャット\n12:46  ⑧ サイドチャット・検索\n14:03  10 フィード\n14:33  12 アイデア\n14:53  13 目標\n15:34  14 ライブラリ\n17:07  15定期タスク・リマインダー\n17:52  16 承認の仕組み\n18:02  17 コネクター\n18:30  18 Instagram連携\n19:29  19 Gmail・Googleカレンダー\n20:10  20 ブラウザ操作・支払い\n\n■関連動画━━━━━━━━━━━━━━\n\n【無料でOK‼️】AI秘書「Muse」㊙️神機能5選！めちゃくちゃ便利なので徹底解説\nhttps://youtu.be/EBza5n0hKG8\n\n【無料OK】最新パーソナルAI秘書「Meta Muse」徹底解説！インスタとの連携方法も！（資料プレゼント）\nhttps://youtu.be/2XkTURFtBmY\n\n【必見】ChatGPTで動画編集自動化‼️インスタリールもOK！超便利なので徹底解説\nhttps://youtu.be/5_A1d8rsD9w\n\n■オンラインスクールRirian School.━━━━━━━━━━━━━━\nhttps://www.ririanschool.com/\n\n○0から学べるCanvaデザイン講座\nhttps://www.ririanschool.com/courses/0-canva-web\n\n○フォロワーを増やす！Instagram講座\nhttps://www.ririanschool.com/courses/instagram\n\n\n■mikimiki 発信メディア一覧━━━━━━━━━━━━━━\n\n○Instagram\nhttps://www.instagram.com/mikimiki1021/\n\n○Twitter\nhttps://twitter.com/Mikimiki10211\n\n○mikimiki webスクールブログ版\nhttps://mikimiki1021.com/\n\n■デザインオフィスRirian 発信メディア一覧━━━━━━━\n\n○Ririan Instagram\nhttps://www.instagram.com/mikimikiwebschool/\n\n○デザインオフィス Ririan HP\nhttps://ririan-dsn.com/\n\n■mikimiki プロフィール━━━━━━━━━━━━━━\n\n株式会社Ririan&Co, 扇田 美紀（mikimiki）\n2児のママ👶🏻\nWebデザイナー/ コンテンツクリエイター 。\nクリエイティブツールCanvaの日本人初のCanva Experts。\nhttps://mikimiki1021.com/about/\n\n著書\nフォロワーが増える！　Instagramコンテンツ制作・運用の教科書\nhttps://amzn.asia/d/6qgfdn8\n\nCanva使い方入門\nhttps://amzn.asia/d/4Qmqkek\n\nはじめてのCanva マネするだけでプロっぽくなるデザインのルール\nhttps://amzn.asia/d/dSxFS7J\n\n新世代Illustrator 超入門\nhttps://amzn.asia/d/8oQyEHO\n\n画像生成AI Midjourney本\nhttps://amzn.to/46YOafl\n\nCanvaお悩み解決Book \nhttps://amzn.asia/d/8f4jyH9\n\nはじめての Adobe Firefly 入門\nhttps://amzn.asia/d/9Qpkdx8\n\n\n #mikimikiwebスクール   #meta     #instagram",
+      "tags": [
+        "フリーランス",
+        "webデザイン",
+        "webデザイナー",
+        "mikimiki",
+        "ミキミキ",
+        "Illustrator",
+        "Canva",
+        "イラレ",
+        "マーケティング",
+        "wordpress"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/ZR2SYOth_HA/mqdefault.jpg",
+      "durationSec": 1396,
+      "views": 16400,
+      "likes": 183,
+      "comments": 5,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
       ]
     },
     {
@@ -821,7 +1206,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/SaPFXIWDci8/mqdefault.jpg",
       "durationSec": 22,
-      "views": 15972,
+      "views": 15976,
       "likes": 214,
       "comments": 3,
       "live": "none",
@@ -911,7 +1296,8 @@ window.SNAPSHOT = {
       "live": "none",
       "lang": "ja",
       "cats": [
-        "new"
+        "new",
+        "muse"
       ]
     },
     {
@@ -927,8 +1313,8 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/IH0-drHvGXI/mqdefault.jpg",
       "durationSec": 545,
-      "views": 11889,
-      "likes": 77,
+      "views": 11937,
+      "likes": 78,
       "comments": 5,
       "live": "none",
       "lang": "ja",
@@ -961,31 +1347,62 @@ window.SNAPSHOT = {
       ]
     },
     {
-      "id": "y4eL15vqce0",
-      "url": "https://www.youtube.com/watch?v=y4eL15vqce0",
-      "title": "【11月第2週まとめ②】Gemini 4 Hydrogenが無料に／Claude Meetingsが会議に参加／Notion AIのチャット漏えい／Claude Sheets登場｜AIニュース6本",
-      "channel": "AI market",
-      "channelId": "UCswNRnSQstgW_ePcJWx4zXQ",
-      "publishedAt": "2026-11-15T21:00:38Z",
-      "description": "2026年11月9日からのAIニュースを、まとめ2本に分けました。こちらは2本目（6本）です。\n無料で全員に配られた Google の「Gemini 4 Hydrogen」、ビデオ会議に Claude が参加する「Claude Meetings」、OpenAI と ModRetro のゲーム機「Chromatic」、Notion AI のチャットの漏えい、Claude の新機能「Whiteboards・Sheets・Data」、ChatGPT に会社を登録できる「Businesses in ChatGPT」を扱います。\n\n──────────────────────────\n　チャプター　※実物の長さから計算（チャプターを測る.py）。差し替えたら取り直す\n──────────────────────────\n\n0:00　OP\n0:54　① Gemini 4 Hydrogenが無料で全員に\n15:16　② Claude Meetingsが会議に参加\n29:14　③ OpenAIとModRetroのChromatic\n43:44　④ Notion AIのチャットが漏えい\n58:31　⑤ Claude Whiteboards・Sheets・Data\n1:12:39　⑥ Businesses in ChatGPT\n1:26:58　まとめ\n\n──────────────────────────\n　今週のポイント\n──────────────────────────\n\n■ Gemini 4 Hydrogenが無料で全員に\n　Google が Gemini 4 シリーズの「普段使い」のモデル「Gemini 4 Hydrogen」を発表し、Gemini アプリと Google 検索で無料の人も含む全世界のユーザーに配りました。\n　使える場所・料金・成績表・Carbon との違いを整理し、同じお題の3Dレースゲームを1分17秒で作った実演も見せています。\n\n■ Claude Meetingsが会議に参加\n　ビデオ会議に Claude を参加者として加えられる「Claude Meetings」がベータ版で発表されました（Team・Enterprise・Google Meet から）。話している間に資料やホワイトボードを作り、メモや文字起こしも残します。\n　できること・始め方・安全とプライバシー・料金を、公式の動画と記事・ヘルプで確かめました。\n\n■ OpenAIとModRetroのChromatic\n　OpenAI の開発者向けの X が「Tomorrow.」とだけ投稿した予告動画を1コマずつ読み、携帯ゲーム機「ModRetro Chromatic」の正体に迫りました。\n　Codex でゲームボーイカラー向けのゲームを作る手順と、実際に作られた13本のゲームも紹介しています。\n\n■ Notion AIのチャットが漏えい\n　Notion AI とのチャットの記録が外部に漏れました。原因は Notion そのものではなく、AI の処理を任せていた委託先 Fireworks AI へのサイバー攻撃です（影響はワークスペースの1%未満）。\n　何が漏れたのか・自分が対象かの確かめ方・今すぐやることを、公式のお知らせの原文で確かめました。\n\n■ Claude Whiteboards・Sheets・Data\n　Claude に、ホワイトボードの「Claude Whiteboards」、表計算の「Claude Sheets」、データ分析の「Claude Data」が入りました（有料プランで順番に）。\n　このチャンネルの Claude（Max）で、ホワイトボードと表計算を実際に試しています。\n\n■ Businesses in ChatGPT\n　ChatGPT に会社やお店の窓口を置ける「Businesses in ChatGPT」（ベータ版）が登場しました。会社の情報を登録する「Business Hub」、ChatGPT の中での話題の分析、お客さんの質問に答える「Business Agent」がそろっています。\n　登録のしかた・分かる数字・広告とのつながり・日本の会社への影響を整理しました。\n\n#AIニュース #Gemini #Google #Claude #Anthropic #ChatGPT #OpenAI #Notion #生成AI #AI最新情報",
-      "tags": [
-        "AIMARKET",
-        "AI",
-        "AIニュース"
-      ],
+      "id": "pCpEteH7ZNA",
+      "url": "https://www.youtube.com/watch?v=pCpEteH7ZNA",
+      "title": "【Seedance 2.5 4K】CapCut 動画スタジオでAIアニメを4K生成！作り方を実演してみた",
+      "channel": "AI萌奈のおすそわけch",
+      "channelId": "UC8OtQ1rIViTUDjLj4zRgsrA",
+      "publishedAt": "2026-11-14T00:55:48Z",
+      "description": "【PR】本動画は CapCut のプロモーションを含みます\n👉 https://www.capcut.com/tv2/ZSpXNyoGT/\nCapCut Web版の『動画スタジオ』で制作。Seedance 2.5 の 4K で、雪の結晶の枝の先まで見えるクリスマスのAIアニメを作りました。作り方をぜんぶ見せるので、みんなも作ってみてね！\n\n---------------------\n\nCapCut Web版の「動画スタジオ」で、キャラクターシートとプロンプトから Seedance 2.5 の 4K（3840×2160）動画を15秒×3本生成しました。\nお試し用の Seedance 2.5 Draft（480p）と 4K を並べて、雪の結晶を拡大して見比べています。\nできた3本は CapCut のタイムラインに並べて、4K のまま書き出せます。生成から編集、書き出しまで CapCut だけで完結！\nむずかしい設定はなくて、はじめてでも迷わず作れました。スマホなら CapCut アプリの「AI Lab」からも Seedance 2.5 が使えるよ。\n\n✅ この動画でわかること\n・CapCut Web版「動画スタジオ」の開き方と、Video カードの置き方\n・キャラクターシートを「@」で選ぶプロンプトの書き方\n・Seedance 2.5 で 4K・16:9・15秒を選んで生成する手順\n・お試しの Draft（480p）と 4K の画質の違い\n・タイムラインで並べて、4K・24fps で書き出す方法\n\n▼チャプター\n0:00 オープニング\n0:19 作り方（動画スタジオ・プロンプト・4K生成）\n1:04 480p と 4K を見比べ\n1:17 タイムラインで並べて 4K 書き出し\n1:31 完成した 4K 作品\n2:14 まとめ\n\n※本動画は PR を含みますが、内容・感想は萌奈の実際の使用感に基づいています。\n※映像は AI で生成しています。ナレーション・BGM・効果音はあとから付けています。\n※クレジット・仕様は撮影時点（2026年11月）のものです。最新情報は公式サイトをご確認ください。\n\n---------------------\n\n🔻日々のAI作品や最新情報を発信中\nX（旧Twitter）：https://x.com/xc5_\n\n🔻AI制作の制作実績やお仕事のご相談はこちらから\nポートフォリオサイト：https://mo7.jp/\n\n---------------------\n\n#CapCut #CapCutCPP #CapCut生成AI",
+      "tags": [],
       "audioLang": "ja",
       "defaultLang": "ja",
-      "thumbnail": "https://i.ytimg.com/vi/y4eL15vqce0/mqdefault.jpg",
-      "durationSec": 5283,
-      "views": 10444,
-      "likes": 46,
-      "comments": 2,
+      "thumbnail": "https://i.ytimg.com/vi/pCpEteH7ZNA/mqdefault.jpg",
+      "durationSec": 149,
+      "views": 10108,
+      "likes": 9,
+      "comments": 5,
       "live": "none",
       "lang": "ja",
       "cats": [
-        "new",
-        "claude",
-        "gemini"
+        "seedance",
+        "charanime"
+      ]
+    },
+    {
+      "id": "kgwiBUczWzg",
+      "url": "https://www.youtube.com/watch?v=kgwiBUczWzg",
+      "title": "【速報】Illustrator 2027登場　AIアシスタント搭載でイラレの操作はどう変わるのか",
+      "channel": "専門学校講師のイラレさん / iraresan",
+      "channelId": "UC5UvWEDpPVe8uA8AroD1G_A",
+      "publishedAt": "2026-11-14T11:00:11Z",
+      "description": "Adobe Illustrator 2027の新機能をまとめて紹介します。AIアシスタント、複数画像の一括配置、ブレンドツールの進化、ダイナミックテキスト、コンセプトからベクターなど、Adobe MAXで発表された注目ポイントを実際の操作例つきで確認できます。\n\n【Adobe MAX 2026 公式サイト・発表内容】\nhttps://www.adobe.com/max.html\nイラレは01:04:00〜ごろから\n\n■ 目次\n0:00 Illustrator 2027の新機能\n1:45 AIアシスタントが追加された\n6:52 グリッド状に配置\n8:42 ブレンドツールが進化した\n11:02 ダイナミックテキスト\n12:42 コンセプトからベクター\n14:03 Adobe MAX新機能まとめ\n\n#Illustrator #AdobeMAX #AIツール\n\n▼Illustrator中級講座\n新しく「Illustrator中級講座」を公開しました。\n操作方法だけでなく、私が仕事や情報発信で実際に使っている考え方やテクニックまで、深く解説しています。\n\n▼詳細はこちら\nhttps://www.app.lekcha.com/lp/95d0e15b-8ecd-4c1a-997a-fc76a83a78de\n\n▼本気でイラレを最短習得したい方へ【有料講座】\n現役プロが教える本気のIllustrator講座です\n「段階的に、効率よく、即戦力スキルを身につけたい」方は、下記より詳細をご確認ください\n\n① 初級者向け「Illustratorが使えるようになるまでに必要な10の事」\nhttps://inte-action.com/go/lekcha-illustrator-basic\n\n② 初級〜中級向け「Illustrator即戦力レベルアップ講座」\nhttps://inte-action.com/go/lekcha-illustrator-levelup\n\n▼書籍でじっくり学びたい方はこちら\nパパッとできて、センスも身につく一冊です\nhttps://inte-action.com/go/amazon-book\n\n▼チャンネル登録がまだの方はこちら\nhttps://www.youtube.com/channel/UC5UvWEDpPVe8uA8AroD1G_A\n（毎週日曜日に新しい動画を公開中！）\n\n▼この動画と合わせて見たいオススメ動画\nイラストレーター初心者向け講座！使い方を最短で理解できる入門編\nhttps://youtu.be/QPaLRP9ZsHY\n\n■使用ソフト\nAdobe Illustrator（アドビ イラストレーター）\n\n■各種リンク\n・ブログ： https://inte-action.com/\n・X(旧Twitter)： https://twitter.com/iraresan\n・Tiktok： https://www.tiktok.com/@iraresan\n\n■お仕事のご相談\niraresan.ch@gmail.com\n（制作のご依頼や、その他のお仕事に関するご連絡はこちらにお願いします）",
+      "tags": [
+        "Illustrator",
+        "Illustrator Tutorial",
+        "アドビ イラストレーター",
+        "イラストレーター 無料講座",
+        "イラレ",
+        "イラレさん",
+        "チュートリアル",
+        "デザイン 勉強",
+        "ロゴ作成",
+        "使い方",
+        "初心者講座",
+        "独学",
+        "簡単"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/kgwiBUczWzg/mqdefault.jpg",
+      "durationSec": 1013,
+      "views": 9897,
+      "likes": 86,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new"
       ]
     },
     {
@@ -1025,42 +1442,6 @@ window.SNAPSHOT = {
       ]
     },
     {
-      "id": "kgwiBUczWzg",
-      "url": "https://www.youtube.com/watch?v=kgwiBUczWzg",
-      "title": "【速報】Illustrator 2027登場　AIアシスタント搭載でイラレの操作はどう変わるのか",
-      "channel": "専門学校講師のイラレさん / iraresan",
-      "channelId": "UC5UvWEDpPVe8uA8AroD1G_A",
-      "publishedAt": "2026-11-14T11:00:11Z",
-      "description": "Adobe Illustrator 2027の新機能をまとめて紹介します。AIアシスタント、複数画像の一括配置、ブレンドツールの進化、ダイナミックテキスト、コンセプトからベクターなど、Adobe MAXで発表された注目ポイントを実際の操作例つきで確認できます。\n\n【Adobe MAX 2026 公式サイト・発表内容】\nhttps://www.adobe.com/max.html\nイラレは01:04:00〜ごろから\n\n■ 目次\n0:00 Illustrator 2027の新機能\n1:45 AIアシスタントが追加された\n6:52 グリッド状に配置\n8:42 ブレンドツールが進化した\n11:02 ダイナミックテキスト\n12:42 コンセプトからベクター\n14:03 Adobe MAX新機能まとめ\n\n#Illustrator #AdobeMAX #AIツール\n\n▼Illustrator中級講座\n新しく「Illustrator中級講座」を公開しました。\n操作方法だけでなく、私が仕事や情報発信で実際に使っている考え方やテクニックまで、深く解説しています。\n\n▼詳細はこちら\nhttps://www.app.lekcha.com/lp/95d0e15b-8ecd-4c1a-997a-fc76a83a78de\n\n▼本気でイラレを最短習得したい方へ【有料講座】\n現役プロが教える本気のIllustrator講座です\n「段階的に、効率よく、即戦力スキルを身につけたい」方は、下記より詳細をご確認ください\n\n① 初級者向け「Illustratorが使えるようになるまでに必要な10の事」\nhttps://inte-action.com/go/lekcha-illustrator-basic\n\n② 初級〜中級向け「Illustrator即戦力レベルアップ講座」\nhttps://inte-action.com/go/lekcha-illustrator-levelup\n\n▼書籍でじっくり学びたい方はこちら\nパパッとできて、センスも身につく一冊です\nhttps://inte-action.com/go/amazon-book\n\n▼チャンネル登録がまだの方はこちら\nhttps://www.youtube.com/channel/UC5UvWEDpPVe8uA8AroD1G_A\n（毎週日曜日に新しい動画を公開中！）\n\n▼この動画と合わせて見たいオススメ動画\nイラストレーター初心者向け講座！使い方を最短で理解できる入門編\nhttps://youtu.be/QPaLRP9ZsHY\n\n■使用ソフト\nAdobe Illustrator（アドビ イラストレーター）\n\n■各種リンク\n・ブログ： https://inte-action.com/\n・X(旧Twitter)： https://twitter.com/iraresan\n・Tiktok： https://www.tiktok.com/@iraresan\n\n■お仕事のご相談\niraresan.ch@gmail.com\n（制作のご依頼や、その他のお仕事に関するご連絡はこちらにお願いします）",
-      "tags": [
-        "Illustrator",
-        "Illustrator Tutorial",
-        "アドビ イラストレーター",
-        "イラストレーター 無料講座",
-        "イラレ",
-        "イラレさん",
-        "チュートリアル",
-        "デザイン 勉強",
-        "ロゴ作成",
-        "使い方",
-        "初心者講座",
-        "独学",
-        "簡単"
-      ],
-      "audioLang": "ja",
-      "defaultLang": "ja",
-      "thumbnail": "https://i.ytimg.com/vi/kgwiBUczWzg/mqdefault.jpg",
-      "durationSec": 1013,
-      "views": 9879,
-      "likes": 86,
-      "comments": 0,
-      "live": "none",
-      "lang": "ja",
-      "cats": [
-        "new"
-      ]
-    },
-    {
       "id": "ejG5g_FeIuI",
       "url": "https://www.youtube.com/watch?v=ejG5g_FeIuI",
       "title": "【速報】Kling 4.0ついに解禁！SeeDance 2.5より安い新モデル",
@@ -1073,7 +1454,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/ejG5g_FeIuI/mqdefault.jpg",
       "durationSec": 902,
-      "views": 9694,
+      "views": 9698,
       "likes": 68,
       "comments": 13,
       "live": "none",
@@ -1108,7 +1489,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/sRfjKq8GASM/mqdefault.jpg",
       "durationSec": 2857,
-      "views": 9490,
+      "views": 9499,
       "likes": 74,
       "comments": 1,
       "live": "none",
@@ -1130,13 +1511,14 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/o1BWCpdxPRc/mqdefault.jpg",
       "durationSec": 104,
-      "views": 8953,
+      "views": 8995,
       "likes": 31,
       "comments": 0,
       "live": "none",
       "lang": "ja",
       "cats": [
-        "chatgpt"
+        "chatgpt",
+        "muse"
       ]
     },
     {
@@ -1206,7 +1588,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/eBfODPDhAB0/mqdefault.jpg",
       "durationSec": 2426,
-      "views": 8669,
+      "views": 8704,
       "likes": 68,
       "comments": 6,
       "live": "none",
@@ -1214,6 +1596,32 @@ window.SNAPSHOT = {
       "cats": [
         "new",
         "gemini"
+      ]
+    },
+    {
+      "id": "SUkaLTQ8Bvs",
+      "url": "https://www.youtube.com/watch?v=SUkaLTQ8Bvs",
+      "title": "【MetaのMuse完全解説】危険性と安全な活用を知れば最強になるAI！MetaのAI Museはなぜ無料で配られているのか",
+      "channel": "ナオさんTV ういんどなお",
+      "channelId": "UCl9Crt8sifSX_J2IZTb1pyA",
+      "publishedAt": "2026-11-13T10:00:38Z",
+      "description": "Meta（メタ）のパーソナルAIエージェント「Muse（ミューズ）」は、なぜ無料で配られているのか。決算の数字・アナリストの推計・各国の報道・実際に使った検証記事をもとに、稼ぐ仕組み（手数料・サブスク・企業向け）と、利点・問題点・勝手に先走った事例、上手に使う7つのコツをモーショングラフィックで解説します。\n\n※2026年11月13日時点の情報です。料金・機能は変わることがあります。画面の図はイメージで、実際の Muse の画面ではありません。\n\n## チャプター\n0:00 オープニング\n0:35 この動画の見どころ\n1:17 第1章 答えるAIから、動くAIへ\n5:04 第2章 メタの焦り\n7:20 第3章 「無料」のコスト\n10:44 第4章 メタの勝ちパターン\n12:49 第5章 稼ぎ方の設計図\n16:06 第6章 広告が飛ばされる日\n18:34 第7章 使ってわかる利点\n20:27 第8章 問題点と「先走り」\n24:57 第9章 上手に使う7つのコツ\n28:22 考察：無料のままで稼げるのか\n31:14 まとめ\n\nナレーション：VOICEVOX:青山龍星\n#Meta #Muse #AIエージェント #メタ #生成AI\n\n「51QCTA」　Museの招待コードです。\n初回登録後48時間以内に入力するとお互いが10億トークンが獲得できます\n無料でかなり使えるのにさらにこのサービスは凄すぎます。\n是非使ってみて！\n\n日常に起こる様々なものを動画で紹介させていただいております。\n生成AI・ドローンと車中泊・登山・ワンコ、カメラ、商品レビューが中心ですが、\nよろしければ、チャンネル登録お願いいたします。\nhttps://www.youtube.com/@naosantv\n\n使用カメラ\n・DJI Mavic 4 Pro クリエイターコンボ　https://amzn.to/44HP2pp\n・DJI Neo 2 Motion Fly More コンボ 　https://amzn.to/4o2Tjvc\n・DJI Mavic 3 　https://amzn.to/2YUoQdg\n・sony ZV-E1　https://amzn.to/3Kju7Q8\n・sony α6000　https://amzn.to/2C5cEXB\n・Insta360 X4　https://amzn.to/3UmjyBa\n・DJI Osmo Pocket3　https://amzn.to/47ayQwg\n・DJI Pocket2　https://amzn.to/34QixHW\n・GOPRO HERO9　https://amzn.to/3iwPpvJ\n・DJI Osmo Action　https://amzn.to/376gM8f\n・GOPRO MAX　https://amzn.to/3510hc2\n・DJI Action 2　https://amzn.to/3jYfggv\n・DJI Osmo Action 5 Pro　https://amzn.to/3zst6mm\n・DJI Osmo 360 　https://amzn.to/4mnW2Pm\n\n使用レンズ\n・SONY FE 24-70mm F2.8 GM II　https://amzn.to/3PuhPtj\n・SONY FE 50mm F2.8 Macro　https://amzn.to/4cDslFP\n・SONY FE 24mm F1.4 GM　https://amzn.to/3xk007d\n・SIGMA 85mm F1.4 DGDN Art　https://amzn.to/49gfsjw\n・SONY FE PZ 16-35mm F4 G　　https://amzn.to/44HZhst\n・TAMRON 28-200mm F/2.8-5.6　https://amzn.to/3uFO5dq\n・SIGMA 16mm F1.4 DGDN 　https://amzn.to/2KntXLr\n\n使用マイク\n・SONY ECM-M1　https://amzn.to/4iL4Iy9\n・SONY ECM-B10　https://amzn.to/3RTFbov\n・DJI MIC 2　https://amzn.to/4evi7aa\n・DJI MIC　https://amzn.to/3RDyO8o\n\n使用ジンバル\n一眼カメラ用\n ・DJI RS 4　https://amzn.to/43Rf4pj\n・ DJI RS 3 Mini　https://amzn.to/49tKvYw\n・ FeiyuTech SCORP C　https://amzn.to/3OBLD46\n・ ZHIYUN CRANE M3　https://amzn.to/3LDQgXl\n・アクションカム用 FEIYU TECH WG2　https://amzn.to/2JSAX36\n・スマホ用 DJI Osmo Mobile 6　https://amzn.to/3xTbtIA\n\n使用電源\n・ポータブル電源 ANKER SOLIX C800　https://amzn.to/3KHrA54\n・ポータブル電源 EFDELTA　https://amzn.to/3zaffLN\n・サブバッテリーシステム　https://amzn.to/3psOuxO\n\n※各製品リンクURLはアソシエイトプログラムを­使用しています。\n\n空撮については、国土交通省の許可・承認を取得しております\nhttps://www.wichnet.com\n\n使用しているBGM\n【MusicCreatorAI】\nhttps://www.musiccreator.ai/?ref=R8Z3K3\n【youtube】\nhttps://www.youtube.com/audiolibrary/music\n【効果音ラボ】\nhttps://soundeffect-lab.info/\n【甘茶の音楽工房】\nhttp://amachamusic.chagasi.com/index.html\n【フリーBGM DOVA-SYNDROME】\nhttps://dova-s.jp/\n【音楽生成AI MusicCreatorAI】\nhttps://www.musiccreator.ai/?ref=R8Z3K3\n\n※ビジネス関係のご連絡は概要欄詳細のメールアドレスまでお願いします",
+      "tags": [
+        "ナオさんTV",
+        "UCl9Crt8sifSX_J2IZTb1pyA",
+        "なおさん"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/SUkaLTQ8Bvs/mqdefault.jpg",
+      "durationSec": 1946,
+      "views": 8675,
+      "likes": 63,
+      "comments": 2,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
       ]
     },
     {
@@ -1281,7 +1689,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/mSCpmPVPEWI/mqdefault.jpg",
       "durationSec": 1141,
-      "views": 8651,
+      "views": 8659,
       "likes": 90,
       "comments": 7,
       "live": "none",
@@ -1316,7 +1724,143 @@ window.SNAPSHOT = {
       "live": "none",
       "lang": "ja",
       "cats": [
-        "new"
+        "new",
+        "muse"
+      ]
+    },
+    {
+      "id": "WV2kE7fBFgE",
+      "url": "https://www.youtube.com/watch?v=WV2kE7fBFgE",
+      "title": "【最新】ガチで仕事を任せるなら、Grok botはこう使う。年商30億AI企業社長の使い方を公開",
+      "channel": "みかみ【東大退学させられた男】",
+      "channelId": "UC_PUuYmn8e4rZpOHgaTdUrg",
+      "publishedAt": "2026-11-14T13:06:34Z",
+      "description": "公式LINEからプレゼントの受け取りはコチラ↓\nhttps://skill.addness.co.jp/mkm047\n\nAddness認定パートナーの説明会はコチラ↓\nhttps://skill.addness.co.jp/agi_yt047\n\n最強のタスク管理ツール「Addness」はこちらから↓\nhttps://www.addness.com\n\nアドネス株式会社HP\nhttps://addness.co.jp/\n\n▼お仕事やコラボ依頼、お問い合わせはこちらまで\nadmin@snsers.com",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/WV2kE7fBFgE/mqdefault.jpg",
+      "durationSec": 1306,
+      "views": 7739,
+      "likes": 54,
+      "comments": 3,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "grok"
+      ]
+    },
+    {
+      "id": "hXmiLW_VaOc",
+      "url": "https://www.youtube.com/watch?v=hXmiLW_VaOc",
+      "title": "ClaudeがDomoAIを操作でお任せ生成！外出中でも制作止まらない【コスパ最強のコントアニメの作り方】",
+      "channel": "あずきちゃんねる",
+      "channelId": "UCDJ0AMdC4GB1ndVKsCknyCg",
+      "publishedAt": "2026-10-29T09:00:32Z",
+      "description": "提供：DomoAI【初回10％OFFはコチラ】\nhttps://www.domoai.app/home?via=ainews\n\n\nClaude in Chrome \nhttps://claude.com/claude-in-chrome\n\n00:00 Claudeと作ったコントアニメ「合コンで話を盛りすぎる男」\n01:23 手を動かさずにアニメを作る\n02:18 使うツールは3つ（Claude・DomoAI・ElevenLabs）\n03:02 ClaudeがブラウザでDomoAIを操作\n04:40 STEP1 準備する\n05:05 STEP2 脚本を書く\n05:39 STEP3 イラストを作る\n09:22 MiniMax H3で動画生成\n10:06 STEP4 声を入れる\n11:00 STEP5 編集する\n11:17 料金\n11:50 いちばん大事なこと\n13:07 エンディング\n\n🌟まぐまぐでメルマガ配信中！\nhttps://www.mag2.com/m/0001699267\n\n\nBGM制作\n◆SOUNDRAW\nhttps://soundraw.io/?ref=promtive\n\n◆おすすめ動画\nhttps://youtu.be/5A4DTFIphUg?si=TVsrFAudjC_82VvP\n\n◆X\nhttps://x.com/azukichan_ai_\n\n◆HP\nhttps://azukichannel.com/\n\n【お仕事のお問い合わせ】\npromtive.info@gmail.com\n\n※一部リンクから購入いただくと、チャンネルの運営サポートにつながります\n\n#domoai",
+      "tags": [
+        "DomoAI",
+        "Claude",
+        "Claude in Chrome",
+        "Claude Code",
+        "Claude Opus 5.5",
+        "Anthropic",
+        "AIアニメ",
+        "アニメ 作り方",
+        "AI アニメ 作り方",
+        "画像生成AI",
+        "動画生成AI",
+        "Nano Banana 2.1",
+        "Nano Banana",
+        "MiniMax H3",
+        "MiniMax",
+        "Seedance",
+        "オムニリファレンス",
+        "ElevenLabs",
+        "ElevenLabs v4",
+        "AI音声",
+        "AI 声優",
+        "リラックスモード",
+        "画像生成 使い放題",
+        "クレジット節約",
+        "コスパ",
+        "コントアニメ",
+        "差分アニメ",
+        "表情差分",
+        "口パク",
+        "80年代アニメ",
+        "セル画風",
+        "AIエージェント",
+        "ブラウザ操作",
+        "AI 自動化",
+        "API",
+        "生成AI",
+        "AI 編集",
+        "あずきちゃんねる"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/hXmiLW_VaOc/mqdefault.jpg",
+      "durationSec": 805,
+      "views": 7582,
+      "likes": 131,
+      "comments": 16,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "claude",
+        "charanime"
+      ]
+    },
+    {
+      "id": "KebyaFyl-70",
+      "url": "https://www.youtube.com/watch?v=KebyaFyl-70",
+      "title": "AI動画のクライアントワークを受注から納品まで完全体系化！見積もり・すり合わせ・修正対応まで全部見せます【Seedance 2.5×Lumina】",
+      "channel": "動画編集の中の人",
+      "channelId": "UC6pAU449vK_UYQOYJ1JgLaQ",
+      "publishedAt": "2026-11-13T09:00:20Z",
+      "description": "「Lumina」に興味、無料で試したい方はこちらから🐰\nhttps://bit.ly/4eClfUE\n\n今回は、AI動画のクライアントワークを受注から納品まで、Seedance 2.5×Luminaで完全体系化して解説しました！\nぜひ最後まで見て役立ててくれると嬉しいです！🐰\n\n◾️動画生成・動画編集スキルをもっと知りたい方◾️\n\n公式LINE登録でGETできる！\n【有料級】豪華3大特典をプレゼント中！\n\n🎁①そのまま使える！動画生成AIプロンプト事例100選！\n🎁②もう迷わない！動画生成AIの選び方完全ガイド！\n🎁③編集時間が激減する！超時短ショートカットキー活用術！\n\n🐰↓友達登録はこちらから↓🐰\nhttps://lin.ee/iVlhyiP\n\n🐰目次\n00:00 OP｜AI動画のクライアントワークの裏側\n01:40 今回の案件設定と使うツール「Lumina」（Seedance 2.5／Seedream 5.0 Pro／Canvas）\n03:14 STEP0 受注前のすり合わせ（MTG・ヒアリング項目）\n06:44 STEP1 見積もり（Seedance 2.5のクレジット計算と報酬への上乗せ）\n09:32 STEP2 企画（30秒アニメCMの構成ラフ）\n10:54 STEP3 キャラシートと絵コンテ（Seedream 5.0 Pro×Canvas）\n12:56 STEP4 動画化（10秒ラフ→全体／Seedance 2.5と2.0の使い分け）\n16:42 STEP5 編集・納品（納品前チェックリスト）\n17:34 AI動画制作の料金の目安と3つの注意点\n18:24 まとめ\n19:50 完成アニメCM（Seedance 2.5×Lumina）\n\n\n↓オススメ動画はこちら↓\n\nClaudeでのAI動画自動化方法\n・https://www.youtube.com/watch?v=9eb3qCWL9Qs\n\nChatGPTでのAI動画自動化方法\n・https://www.youtube.com/watch?v=HYxYVv298-w&t=746s\n\n↓【YouTubeの中の人】YouTube運営攻略チャンネルはこちらから↓\nhttps://www.youtube.com/channel/UCZoLnjygkKTAeeE8ZByMZ-A\n\n↓【AIの中の人】AI攻略チャンネルはこちらから↓\nhttps://www.youtube.com/channel/UCMb9OTW1GQL7q3mUqFeYD5g\n\n↓映像制作ご依頼はこちら↓\nhnakanohito@gmail.com\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n動画編集の中の人のPです！\nこのチャンネルでは、100チャンネル以上運用してきたYouTube運用のプロが、\nYouTube動画編集のやり方や裏技を、分かりやすく解説していきます！\nPremiere Proの操作方法・伸ばす編集法・稼げる編集スキルの悩みを一発解決！\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n🐰Pのプロフィール/実績\n・企業系YouTubeディレクター\n・100社以上のチャンネルを立ち上げからプロデュース\n・総登録者数1000万人達成\n・最高達成売上5億円達成\n・100万人、20万人、10万人のチャンネルの運営を経験\n\n↓Xでも攻略法を発信中！↓\nhttps://x.com/mov_nakanohito\n\n--------------------------------------------------------------------------------------\n楽曲提供:Audiostock https://audiostock.jp/\n--------------------------------------------------------------------------------------\n\n#Lumina #LuminaAI #AItool",
+      "tags": [
+        "lumina",
+        "ルミナ",
+        "seedance2.5",
+        "seedance",
+        "シーダンス",
+        "seedream",
+        "seedream5.0",
+        "bytedance",
+        "バイトダンス",
+        "ai動画",
+        "動画生成ai",
+        "ai動画制作",
+        "ai動画 案件",
+        "ai動画 仕事",
+        "ai動画 副業",
+        "ai動画 稼ぐ",
+        "ai動画 作り方",
+        "ai cm",
+        "aiアニメ",
+        "aiアニメcm",
+        "ai映像制作",
+        "クライアントワーク",
+        "動画制作 見積もり",
+        "動画制作 単価",
+        "絵コンテ",
+        "キャラクターシート",
+        "動画編集",
+        "動画編集 副業"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/KebyaFyl-70/mqdefault.jpg",
+      "durationSec": 1229,
+      "views": 7117,
+      "likes": 112,
+      "comments": 9,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "seedance"
       ]
     },
     {
@@ -1342,6 +1886,35 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "tG-h-aybjRY",
+      "url": "https://www.youtube.com/watch?v=tG-h-aybjRY",
+      "title": "Museにスマホと家のPCを丸ごと渡したら、道具代0円で10勝1敗。負けたのはお金のアプリだけ【AI放談 #10】",
+      "channel": "片岡・原島のAI放談",
+      "channelId": "UCkL0w7Uv4DiJQcHQ4eYYewg",
+      "publishedAt": "2026-11-14T11:00:13Z",
+      "description": "▼この動画で分かること\n・外出先から、家にいないパソコンはどこまで動くか（メモ帳の自動入力・Blenderのインストール・Amazonの管理画面）\n・ChatGPTとGeminiを、会社の窓口（API）を使わず「画面を見て押す」だけで動かせるか\n・お金のアプリ（PayPay）だけ録画が真っ黒になる理由と、AIに任せちゃダメなこと\n▼次に見るなら：無料で、クラウドに自分専用のパソコン。Metaの「Muse」は何を狙ってる？【AI放談 #06】\nhttps://youtu.be/aFbAGnIMrZg\n\nMetaの「Muse」に、僕のAndroidスマホと、家のWindowsパソコンを丸ごと渡してみました。使った道具は全部無料。Museに11回やらせて10勝1敗。家のパソコンに3Dソフトを入れ、ChatGPTやGeminiにも勝手に話しかけました。負けたのはお金のアプリだけ。開いた瞬間、画面が真っ黒になりました。最後に仕組み（Tailscale・ADB・Shizuku・SSH）を種明かしします。細かい設定は次回の「設定編」で。\n\n▼目次\n0:00 つかみ（道具代0円で10勝1敗）\n0:49 自己紹介とMuseのパソコン\n2:34 家のパソコン（メモ帳・Blender・Amazon）\n6:18 スマホは丸ごと（iPhoneではできる？）\n8:44 他社のAIも操れる？（ChatGPT・Gemini）\n10:00 お金のアプリだけ真っ黒\n10:57 種明かし（道具は3つ）\n13:17 任せていいのは「手」だけ\n13:57 まとめ\n14:21 次回は設定編\n\n▼この動画について\n・映像は、2026年11月11日にスマホと自宅のパソコンで実際に録画した画面です\n・メールアドレス・IPアドレス・名前などはぼかしています\n・2人の人物の映像は生成AIで作ったものです（片岡は本人の写真をもとに加工、原島は架空の人物）\n・声はGoogle Gemini TTSによる合成音声です\n・台本・編集・サムネイルの作成にもAIを使っています\n・Museは完全無料の枠で使っています。Google Colabの無料版は、混み具合でGPUが使えないことがあります\n・ここで紹介した設定は、鍵の管理を間違えると外からの入口になります。試すときは自己責任でお願いします\n・Muse は Meta Platforms, Inc.、ChatGPT は OpenAI、Gemini・Google Colaboratory・Android は Google LLC、iPhone は Apple Inc.、PayPay は PayPay株式会社、Tailscale は Tailscale Inc.、Blender は Blender Foundation の商標です\n・背景の映像は Pexels の無料素材です（https://www.pexels.com/license/）\n\n▼出典\n・Android Developers「WindowManager.LayoutParams.FLAG_SECURE」（画面の録画・撮影をアプリ側で止める仕組み）\nhttps://developer.android.com/reference/android/view/WindowManager.LayoutParams\n・Android Developers「Android Debug Bridge (adb)」\nhttps://developer.android.com/tools/adb\n・Apple サポート「iPhoneミラーリング：MacからiPhoneを使う」\nhttps://support.apple.com/120421\n・Appium XCUITest Driver「System Requirements」\nhttps://appium.github.io/appium-xcuitest-driver/10.41/getting-started/system-requirements\n・Digital Trends「A $7 board lets an AI control an iPhone without jailbreaking it」（2026-10-15）\nhttps://digitaltrends.com/phones/a-7-board-lets-an-ai-control-an-iphone-without-jailbreaking-it/\n・Google Colab FAQ\nhttps://research.google.com/colaboratory/faq.html\n・Meta Newsroom「Introducing Muse」（2026-09-08）\nhttps://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/\n\n▼クレジット\nBGM：「Somebody (Prod. Khaim)」 written by Khaim — OpenTracks https://opentracks.com/bgm/detail/14207\n効果音：効果音ラボ https://soundeffect-lab.info/\n映像素材：Pexels\nロゴ：Wikimedia Commons（Muse・Blender・Tailscale・Google Colaboratory・ChatGPT＝Public domain、Shizuku＝Apache License 2.0 / RikkaApps）\n\n▼片岡・原島のAI放談\nAIの話を、おじさん二人がゆるく、でも中身は本気で話すチャンネルです。\nX：https://x.com/ai_houdan\n\n#Muse #AIエージェント #Android",
+      "tags": [
+        "Muse",
+        "Meta Muse",
+        "AIエージェント",
+        "Android",
+        "スマホ",
+        "Claude"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/tG-h-aybjRY/mqdefault.jpg",
+      "durationSec": 871,
+      "views": 6924,
+      "likes": 63,
+      "comments": 3,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
+      ]
+    },
+    {
       "id": "DuO15vzhXzo",
       "url": "https://www.youtube.com/watch?v=DuO15vzhXzo",
       "title": "【神アプデ】Gemini NotebookのAIエージェント化で作る“自分専用のAI社員”",
@@ -1363,7 +1936,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/DuO15vzhXzo/mqdefault.jpg",
       "durationSec": 658,
-      "views": 6908,
+      "views": 6920,
       "likes": 32,
       "comments": 0,
       "live": "none",
@@ -1424,7 +1997,55 @@ window.SNAPSHOT = {
       "lang": "ja",
       "cats": [
         "claude",
-        "chatgpt"
+        "chatgpt",
+        "grok",
+        "muse"
+      ]
+    },
+    {
+      "id": "-iteZvkv8eA",
+      "url": "https://www.youtube.com/watch?v=-iteZvkv8eA",
+      "title": "AIアニメの作り方",
+      "channel": "AIクリエイターの学校 TECH STADIUM",
+      "channelId": "UCV-NtotUZHUn1ydc0e-3JFA",
+      "publishedAt": "2026-11-02T02:50:11Z",
+      "description": "映像がきれいなだけでなく、制作者が意図した演出をどこまで再現できるか？\n\nフル版はリプ欄にあります。\n\n【使用した動画生成モデル】\n・Seedance 2.5\n・Kling 4.0\n・Seedance 2.0\n・MiniMax H3\n\n\n■ゲームと映像制作の学校\nTECH STADIUM　テックスタジアム\nhttps://tech-sta.com/kiwami/\n\n●公式LINE\nhttps://line.me/R/ti/p/%40964gumru\n\n●X(Twitter)\n公式\nhttps://x.com/StadiumTech\nU4\nhttps://x.com/otakuisstylish\n\n\n#AIアニメ #アニメ制作 #ショートドラマ",
+      "tags": [
+        "AI動画",
+        "AI映像",
+        "AIドラマ",
+        "AI映画",
+        "GTA風動画",
+        "ゲーム風動画",
+        "ゲーム風ドラマ",
+        "プリビズ",
+        "AI動画生成",
+        "Seedance",
+        "Seedance 2.5",
+        "生成AI",
+        "AI filmmaking",
+        "AI film",
+        "AI short film",
+        "cinematic AI",
+        "crime drama",
+        "AIクリエイター",
+        "Kling4",
+        "kling",
+        "AIアニメ",
+        "アニメ制作",
+        "アニメ"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/-iteZvkv8eA/mqdefault.jpg",
+      "durationSec": 15,
+      "views": 6632,
+      "likes": 18,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "charanime"
       ]
     },
     {
@@ -1524,6 +2145,29 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "uPCuUsZv8-s",
+      "url": "https://www.youtube.com/watch?v=uPCuUsZv8-s",
+      "title": "ChatGPT(Codex)の最新画像生成AI「ChatGPT Images 2.6」徹底解説！ ～画像生成速度が50％向上し、GIFアニメーションの作成に対応～",
+      "channel": "AI大学【AI&ChatGPT最新情報】",
+      "channelId": "UCXo1SsIDZ_dke2Nr1r3qk6w",
+      "publishedAt": "2026-11-05T09:04:51Z",
+      "description": "◆動画の説明\nOpenAIは、(2026年)11月5日\nChatGPTに、テキストから画像を生成したり\n画像をテキストの指示で編集できる\n画像生成AIモデルの最新版\n「ChatGPT Images 2.6」を実装しました\nこのモデルは、従来のモデルと比べ\n画像の生成スピードが大幅にアップし\nGIFアニメーションを作れるようになりました\nまた、ChatGPTに、参照画像を保存して\n新しい画像を作る際に再利用できる機能も追加されています\n\n今回の動画では\n第一章：ChatGPT Images 2.6の概要\n第二章：ChatGPT Images 2.6の使い方\nの二章構成で、OpenAIの公開した\n画像生成AIモデル「ChatGPT Images 2.6」の概要と、APIモデルの詳細\nChatGPTとAIプラットフォームの「fal」で\nChatGPT Images 2.6とAPIモデルを使って画像を作る方法を\nどんな画像を作れるのかの簡単な活用事例を交えて解説します\n\n◆動画のもくじ\n0:00　動画について\n0:41　動画のもくじ\n1:28　第一章：ChatGPT Images 2.6の概要\n1:55　①、ChatGPT Images 2.6の特徴\n3:25　②、GPT-Image-2.6 FlareとSunburst\n4:54　③、ChatGPT Images 2.6のベンチマーク\n5:53　第二章：ChatGPT Images 2.6の使い方\n6:16　ChatGPT ～ChatGPT Images 2.6を使う～\n8:30　fal　～GPT-Image-2.6 FlareとSunbursを使う～\n9:29　エンディングムービー\n\n◆動画の中で紹介している内容\nGPT-Image-2.5、ChatGPT Images 2.5、SVG\n\n◆参考サイト\nhttps://chatgpt.com/\nhttps://openai.com/index/introducing-images-2-6/\nhttps://x.com/OpenAIDevs/status/2118124753340756055\nhttps://x.com/OpenAI/status/2118124944928432327\n\n▼オススメ動画\n【3000円払うならどれ？】ChatGPT(Codex)・Gemini(Google Antigravity)・Claude(Claude Code)の三大AIチャットのお手軽有料プランを徹底比較！\nhttps://youtu.be/wxb_Iw4WkSg\nNotebookLMが『Gemini Notebook』に大リニューアル！自らコードを書いてデータ分析もできる、Gemini連携＆全機能を完全解説！\nhttps://youtu.be/ECmlCHNWsxI\n【2026年春最新版】Claude Code(クロードコード)入門ガイド｜導入方法・使い方・重要機能(MCP、Skills、Hooks、Subagent、Plugins)をやさしく解説！\nhttps://youtu.be/-xla8NqooJU\n【本当に凄いのか？】AIモデル「Kimi K3」完全解説！ GPT-5.6 Sol・Claude Fable 5級の性能、使い方＆開発・業務系の活用事例10選！\nhttps://youtu.be/C-5l4iaHgKQ\n【Claude Codeのライバル】Codex(コーデックス)入門ガイド｜導入方法・使い方・重要機能(MCP、スキル、プラグイン、Hooks、Subagents)をやさしく解説！\nhttps://youtu.be/gKtw6tuTuJ0\n【すぐに使える活用事例20例】画像生成・編集AI「ChatGPT Images 2.5」完全攻略！ 日本語漫画・Codexを使って画像からアプリ・絵コンテから動画作成まで徹底解説！\nhttps://youtu.be/ayWPNzFy25Y\n\n▼SNS(AI速報【AI&ChatGPT最新情報】)\nhttps://x.com/AIMIRAI46487\n\n▼どんなチャンネル？\n当面の間は週に4、5本更新予定\n案内人のアンドロイドが\n毎日煩雑な情報が飛び交うAI(ChatGPT)の話題を中心に\n関連情報をまとめて公開します！\n管理人：ミライ\n※すべてソースを基に制作しています\nみなさんぜひコメントをどしどしお願いします！\n\n#画像生成ai #chatgpt #チャットgpt #codex #openai #AI #生成AI",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/uPCuUsZv8-s/mqdefault.jpg",
+      "durationSec": 604,
+      "views": 6471,
+      "likes": 52,
+      "comments": 3,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "chatgpt",
+        "charanime"
+      ]
+    },
+    {
       "id": "xVbqtz0TRGY",
       "url": "https://www.youtube.com/watch?v=xVbqtz0TRGY",
       "title": "【🚨ChatGPTを使い倒す秘密の指示5選】 #chatgpt #ai活用 #aiツール #sns",
@@ -1575,6 +2219,28 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "ifaWLkBTvxg",
+      "url": "https://www.youtube.com/watch?v=ifaWLkBTvxg",
+      "title": "【AI育成】Meta Museを更に賢くする「先回り学習」を徹底解説！タスクが更にこなしやすくなる！",
+      "channel": "AI共創イノベーション",
+      "channelId": "UCXYu2YyFDhxRMiIGq7acOZA",
+      "publishedAt": "2026-11-16T08:53:35Z",
+      "description": "👇「Meta Muse（メタミューズ）」関連の動画はこちら！\nhttps://www.youtube.com/watch?v=WtExvb3LTz0&list=PLWDk4qEoYbBk\n\n👇サテライトでもMeta Muse関連の解説をしています！\nhttps://www.youtube.com/@mindbody_ai\n\nMeta Museに、次の仕事で必要になりそうなことを、頼む前に調べておいてもらう。今回は、私が「先回り学習（AIフィードフォワード学習）」と呼んでいる方法を、学習用サイドチャットの記録と実例を見ながら解説します。\n\nたとえば動画制作なら、音声に合わせてアバターの口を自然に動かす方法を学んでおく。YouTube運営なら、チャプターの形式を公式情報と照合しておく。ムースがその日に何を学んだかを、いつもの声で報告してくれる場面も紹介します。\n\n■ 先回り学習とは？ フィードバックとの違い\nフィードバックでは、起きたことを振り返り、次の仕事に活かします。先回り学習では、いま進めている制作や作業の流れから次に必要な知識を見つけて、使う前に調べておきます。Meta Museに学習用のサイドチャットを作り、「次の仕事で役立ちそうなことを学び、記録して」と方針を渡し、ほかの作業と重ならない時間に学習をスケジュールします。\n\n■ 口パク動画で、学びをスキルにする\nムースを動画に登場させたとき、声と口の動きをどう合わせるかが課題になりました。そこで、音素ごとのタイミングや口を閉じる箇所を調べ、試作で動きを確認します。うまくいった手順は、次の制作で使えるようスキルに残しました。調べた段階のメモと、試して使えると確認した手順を、どう扱うかも解説します。\n\n■ AIが学ぶテーマと、結果の残し方を決める\n制作に直接関わる技術に加えて、国内外のニュースや生成AIの動向も学習テーマになります。普段使っているサービスの新機能や仕様変更は、公式資料を調べて更新を追います。調べたことを報告にするのか、メモリーやスキルに残すのか、コンテンツに使うのか。先に使い道を決めておくと、次の作業で取り出しやすくなります。会話履歴やメモリーについて、ムースに聞いてみた場面も紹介します。\n\n■ ワンダフルのレビューと、学習時のルール\nときどき人が「今のテーマ」を伝えて方向を合わせ、ChatGPT Dotsのワンダフルにもレビューを頼みます。調査では公式資料や一次情報を優先し、個人情報は外に出さず、読み取りを基本にします。ムースが調べ、別のエージェントが確かめ、人が方針を決める運用を紹介します。\n\n■ プロフィール\nワンダー・佐藤源彦（さとう もとひこ）\n1977年生まれ\nMBBS & AI共創イノベーション主催。\n医療系の研究所、心理学の研究所の勤務を経て独立し、現在は生成AI（ChatGPT、Claude、Geminiなど）と心身に関する研究をしている。\n主著『かんたんプロンプト』（芸術新聞社）『東洋医学と潜在運動系』（たにぐち書店）、2年間専門誌に連載、論文執筆などの執筆業を行いつつAI共創ライティングを開発中。\n心理学・カウンセリング・コーチングをAIに応用しAI共創メソッドを開発。\nAI共創エージェント構築の方法を個人・企業に提供。\nAIスクール・AI企業研修・AIアプリ開発などを行う。\n\n✅ワンダー佐藤総合リンク\nhttps://linktr.ee/motohiko.sato\n\n✅ワンダー佐藤源彦・著『かんたんプロンプト』（芸術新聞社から刊行）\n※プロンプトエンジニアリングの基本から応用、タスク実行までを網羅\nhttps://amzn.asia/d/80zVtv8\n\n✅note記事\nhttps://note.com/mbbs\n※ChatGPT・Claude・Gemini・NotebookLMなどを解説\n※メンバーシップはじめました！\n\n✅AI共創イノベーション（AIスクール・AI企業研修・AIアプリ開発のサイト）\nhttps://mbbs-ai.jimdofree.com/\n\n✅Facebook\nhttps://www.facebook.com/motohiko1977\n※リクエスト申請前にメッセージください\n\nサテライトチャンネル\nhttps://www.youtube.com/@mindbody_ai\n\n■ タイムライン\n00:00 Meta Museの先回り学習（AIフィードフォワード学習）\n01:25 「ムースの学習」サイドチャットとYouTubeチャプターの例\n02:21 その日に学んだことをムースが音声で報告\n03:00 学習を活かした口パク動画の実演\n04:04 フィードバックとフィードフォワードの違い\n04:16 学習用チャット・プロンプト・スケジュールの設定\n04:53 日々のタスクから次に学ぶテーマを見つける\n05:51 口パクの試作を改善し、使える手順を残す\n06:05 タスクの外側も学ぶ｜ニュースと生成AIの動向\n07:08 会話履歴とメモリーについてムースに聞く\n09:10 知識のカットオフと、新しい情報の取り入れ方\n09:44 学んだことをどこに残すか｜報告・メモリー・スキル\n10:35 学習テーマを合わせ、別のAIにレビューを頼む\n12:22 Slackでムースとワンダフルがやり取りする例\n12:51 安全に学ぶルール｜参照先・個人情報・読み取り\n13:53 まとめ｜先回り学習で成果物を改善する\n\n#MetaMuse #メタミューズ #先回り学習 #AIフィードフォワード学習 #AIエージェント #AI共創 #動画制作\n\nVOICEVOX:雨晴はう",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/ifaWLkBTvxg/mqdefault.jpg",
+      "durationSec": 962,
+      "views": 6370,
+      "likes": 57,
+      "comments": null,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
+      ]
+    },
+    {
       "id": "FPJaDdh0vpk",
       "url": "https://www.youtube.com/watch?v=FPJaDdh0vpk",
       "title": "【今週のAIツール・ニュース総まとめ】Anthropicの最先端AIモデル「Claude Fable 5.2」/Googleの最新AIモデル「Gemini 4 Hydrogen」など",
@@ -1595,49 +2261,6 @@ window.SNAPSHOT = {
       "cats": [
         "claude",
         "gemini"
-      ]
-    },
-    {
-      "id": "F3CYIJ1qIdA",
-      "url": "https://www.youtube.com/watch?v=F3CYIJ1qIdA",
-      "title": "【Kling4.0】徹底比較！Seedance2.5とどっちが良い？",
-      "channel": "あずきちゃんねる",
-      "channelId": "UCDJ0AMdC4GB1ndVKsCknyCg",
-      "publishedAt": "2026-10-26T09:00:29Z",
-      "description": "Higgsfield で Kling 4.0 を試す\nhttps://higgsfield.ai/s/higgsfield-kling-4-0-yt-azukichannel3-zeCfBE\n\nKling 4.0 の詳しい仕様 → https://higgsfield.ai/blog/kling-4-0-on-higgsfield\n\nHiggsfieldで使えるようになった「Kling 4.0」を、実際に使ってレビューしました！\n1回の生成で最大30秒の動画が作れるので、アクションや感情の流れを途中で切らずに1カットで見せられます。\n\nHiggsfieldではKling 4.0の3つのモードを1か所で使えます。\n・Frames：複数のキーフレームを置いて、シーンの流れを設計できる\n・References：画像や動画を参照して、キャラクターや商品、カメラワークを指定できる\n・Edit video：完成した動画の一部分だけを変更できる\n\n今回は同じ物語を、Kling 4.0とSeedance 2.5に同じプロンプトで作らせて比べました。\nうまくいかなかったところも含めて正直に見せていきます。\n\n00:00 Kling 4.0で作った予告編\n01:09 Kling 4.0で何が変わった？\n03:57 作り方の流れ\n04:35 Seedance 2.5と比べて分かったKling 4.0の特徴\n12:23 プリビズは有効か？\n13:54 アニメでも作ってみた\n16:45 新機能 キーフレーム\n17:15 まとめ\n18:03 エンディング\n\nこの動画のテーマ\nKling 4.0、Higgsfield、AI video generator、AI filmmaking、keyframes AI video、AI video editing、multi-reference video、30 second AI video\n\n\n◆おすすめ動画\nhttps://youtu.be/5A4DTFIphUg?si=TVsrFAudjC_82VvP\n\n◆X\nhttps://x.com/azukichan_ai_\n\n【お仕事のお問い合わせ】\npromtive.info@gmail.com\n\n※一部リンクから購入いただくと、チャンネルの運営サポートにつながります\n\n#Kling4 #Higgsfield #AI動画 #動画生成AI",
-      "tags": [
-        "Kling 4.0",
-        "Kling",
-        "Seedance 2.5",
-        "Seedance",
-        "Higgsfield",
-        "動画生成AI",
-        "AI動画",
-        "生成AI",
-        "AIドラマ",
-        "AI 比較",
-        "Kling 4.0 使い方",
-        "Seedance 2.5 比較",
-        "日本語 セリフ",
-        "AI 演技",
-        "プロンプト",
-        "プリビズ",
-        "アニメ 生成AI",
-        "キーフレーム",
-        "AI 予告編",
-        "あずきちゃんねる"
-      ],
-      "audioLang": "ja",
-      "defaultLang": "ja",
-      "thumbnail": "https://i.ytimg.com/vi/F3CYIJ1qIdA/mqdefault.jpg",
-      "durationSec": 1097,
-      "views": 5946,
-      "likes": 123,
-      "comments": 19,
-      "live": "none",
-      "lang": "ja",
-      "cats": [
-        "seedance"
       ]
     },
     {
@@ -1694,7 +2317,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/aTDP4y-Q_Fg/mqdefault.jpg",
       "durationSec": 1220,
-      "views": 5935,
+      "views": 5955,
       "likes": 68,
       "comments": 2,
       "live": "none",
@@ -1702,6 +2325,146 @@ window.SNAPSHOT = {
       "cats": [
         "new"
       ]
+    },
+    {
+      "id": "F3CYIJ1qIdA",
+      "url": "https://www.youtube.com/watch?v=F3CYIJ1qIdA",
+      "title": "【Kling4.0】徹底比較！Seedance2.5とどっちが良い？",
+      "channel": "あずきちゃんねる",
+      "channelId": "UCDJ0AMdC4GB1ndVKsCknyCg",
+      "publishedAt": "2026-10-26T09:00:29Z",
+      "description": "Higgsfield で Kling 4.0 を試す\nhttps://higgsfield.ai/s/higgsfield-kling-4-0-yt-azukichannel3-zeCfBE\n\nKling 4.0 の詳しい仕様 → https://higgsfield.ai/blog/kling-4-0-on-higgsfield\n\nHiggsfieldで使えるようになった「Kling 4.0」を、実際に使ってレビューしました！\n1回の生成で最大30秒の動画が作れるので、アクションや感情の流れを途中で切らずに1カットで見せられます。\n\nHiggsfieldではKling 4.0の3つのモードを1か所で使えます。\n・Frames：複数のキーフレームを置いて、シーンの流れを設計できる\n・References：画像や動画を参照して、キャラクターや商品、カメラワークを指定できる\n・Edit video：完成した動画の一部分だけを変更できる\n\n今回は同じ物語を、Kling 4.0とSeedance 2.5に同じプロンプトで作らせて比べました。\nうまくいかなかったところも含めて正直に見せていきます。\n\n00:00 Kling 4.0で作った予告編\n01:09 Kling 4.0で何が変わった？\n03:57 作り方の流れ\n04:35 Seedance 2.5と比べて分かったKling 4.0の特徴\n12:23 プリビズは有効か？\n13:54 アニメでも作ってみた\n16:45 新機能 キーフレーム\n17:15 まとめ\n18:03 エンディング\n\nこの動画のテーマ\nKling 4.0、Higgsfield、AI video generator、AI filmmaking、keyframes AI video、AI video editing、multi-reference video、30 second AI video\n\n\n◆おすすめ動画\nhttps://youtu.be/5A4DTFIphUg?si=TVsrFAudjC_82VvP\n\n◆X\nhttps://x.com/azukichan_ai_\n\n【お仕事のお問い合わせ】\npromtive.info@gmail.com\n\n※一部リンクから購入いただくと、チャンネルの運営サポートにつながります\n\n#Kling4 #Higgsfield #AI動画 #動画生成AI",
+      "tags": [
+        "Kling 4.0",
+        "Kling",
+        "Seedance 2.5",
+        "Seedance",
+        "Higgsfield",
+        "動画生成AI",
+        "AI動画",
+        "生成AI",
+        "AIドラマ",
+        "AI 比較",
+        "Kling 4.0 使い方",
+        "Seedance 2.5 比較",
+        "日本語 セリフ",
+        "AI 演技",
+        "プロンプト",
+        "プリビズ",
+        "アニメ 生成AI",
+        "キーフレーム",
+        "AI 予告編",
+        "あずきちゃんねる"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/F3CYIJ1qIdA/mqdefault.jpg",
+      "durationSec": 1097,
+      "views": 5946,
+      "likes": 123,
+      "comments": 19,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "seedance"
+      ]
+    },
+    {
+      "id": "EBZl2S6tUEA",
+      "url": "https://www.youtube.com/watch?v=EBZl2S6tUEA",
+      "title": "【本当にヤバい】AIショートはもうChatGPTだけで作れます…企画・生成・編集まで自動化する方法10選【2026年最新版】",
+      "channel": "動画編集の中の人",
+      "channelId": "UC6pAU449vK_UYQOYJ1JgLaQ",
+      "publishedAt": "2026-11-18T09:00:20Z",
+      "description": "Higgsfieldに興味がある方はこちらから🐰\nhttps://higgsfield.ai/s/higgsfield-shorts-studio-yt-piGgWF\n\n今回は、ChatGPT×HiggsfieldでAIショート動画を爆速生産する方法10選を解説しました！\n\nアニメ・ドラマ・解説・3D再現・分解解説の作り方から、\nAfter Effects／Premiere Proの自動操作、dotsでの進行管理、\n料金感までまとめています。\n\nぜひ最後まで見て役立ててくれると嬉しいです！🐰\n\n◾️動画生成・動画編集スキルをもっと知りたい方◾️\n\n公式LINE登録でGETできる！\n【有料級】豪華3大特典をプレゼント中！\n\n🎁①そのまま使える！動画生成AIプロンプト事例100選！\n🎁②もう迷わない！動画生成AIの選び方完全ガイド！\n🎁③編集時間が激減する！超時短ショートカットキー活用術！\n\n🐰↓友達登録はこちらから↓🐰\nhttps://lin.ee/iVlhyiP\n\n🐰目次\n00:00 OP｜AIショート動画を爆速生産する方法\n02:04 ChatGPT×Higgsfieldでショートを作る仕組み（プラグイン連携）\n03:32 ①アニメショート（ちびキャラ会社員コメディ）\n05:50 ②ドラマショート（AI恋愛ストーリー）\n08:40 ③モーショングラフィックスショート（解説系）\n09:49 ④3Dショート（3D再現）\n12:03 ⑤分解解説ショート（レーシックの仕組み）\n14:40 ⑥ChatGPTでAfter Effectsを操作する\n15:53 ⑦ChatGPTでPremiere Proを操作する\n16:58 ⑧企画から書き出しまで一気通貫で回す\n18:08 ⑨dotsでAIの制作管理マネージャーを作る\n19:48 ⑩料金感：手作業・半自動・完全自動でいくらかかる？\n20:46 始める前に知っておきたい3つの注意点\n21:10 まとめ\n\n\n↓オススメ動画はこちら↓\n\nChatGPTでのAI動画自動化方法\n・https://www.youtube.com/watch?v=HYxYVv298-w\n\n初心者でもできるAIアニメ作り\n・https://www.youtube.com/watch?v=WtX1l7Sycx0\n\n↓【YouTubeの中の人】YouTube運営攻略チャンネルはこちらから↓\nhttps://www.youtube.com/channel/UCZoLnjygkKTAeeE8ZByMZ-A\n\n↓【AIの中の人】AI攻略チャンネルはこちらから↓\nhttps://www.youtube.com/channel/UCMb9OTW1GQL7q3mUqFeYD5g\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n動画編集の中の人のPです！\nこのチャンネルでは、100チャンネル以上運用してきたYouTube運用のプロが、\nYouTube動画編集のやり方や裏技を、分かりやすく解説していきます！\nPremiere Proの操作方法・伸ばす編集法・稼げる編集スキルの悩みを一発解決！\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n🐰Pのプロフィール/実績\n・企業系YouTubeディレクター\n・100社以上のチャンネルを立ち上げからプロデュース\n・総登録者数1000万人達成\n・最高達成売上5億円達成\n・100万人、20万人、10万人のチャンネルの運営を経験\n\n↓Xでも攻略法を発信中！↓\nhttps://x.com/mov_nakanohito\n\n--------------------------------------------------------------------------------------\n楽曲提供:Audiostock https://audiostock.jp/\n--------------------------------------------------------------------------------------\n\n#動画編集 #higgsfieldai #AIショート動画",
+      "tags": [
+        "higgsfield",
+        "higgsfieldai",
+        "ヒッグスフィールド",
+        "aiショート",
+        "aiショート動画",
+        "ショート動画 作り方",
+        "ai動画",
+        "動画生成ai",
+        "chatgpt",
+        "chatgpt 動画生成",
+        "aiアニメ",
+        "aiドラマ",
+        "ショートドラマ",
+        "3d再現",
+        "seedance",
+        "seedance2.5",
+        "kling",
+        "kling4.0",
+        "after effects",
+        "premiere pro",
+        "動画編集",
+        "動画編集 自動化",
+        "ai 量産",
+        "tiktok",
+        "youtubeショート",
+        "dots"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/EBZl2S6tUEA/mqdefault.jpg",
+      "durationSec": 1363,
+      "views": 5935,
+      "likes": 109,
+      "comments": 12,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "chatgpt"
+      ]
+    },
+    {
+      "id": "V7a2Aw1-FF8",
+      "url": "https://www.youtube.com/watch?v=V7a2Aw1-FF8",
+      "title": "【アニメ】AI動画・AI画像づくり使える！あまり知られていない機能5つ【Higgsfield】",
+      "channel": "あずきちゃんねる",
+      "channelId": "UCDJ0AMdC4GB1ndVKsCknyCg",
+      "publishedAt": "2026-11-15T22:00:25Z",
+      "description": "Higgsfieldの「あまり知られていないけど、制作で本当に使える機能」をまとめたよ。ここから試してみてね👇\nhttps://higgsfield.ai/s/higgsfield-general-campaign-yt-azukichannel3-akUbwa\n\n\n今回は、あずきが実際の制作で使っているものだけを、テンテンと一緒に紹介します。\nあなたがいちばん試してみたいのはどの機能？\n\n▼チャプター\n0:00 Higgsfieldのおすすめ機能って？\n0:33 ムードのある写真を作るなら？（Soul 2.0）\n2:44 同じ背景を別の角度から作るには？（Angles 2.0）\n4:44 光の当たり方だけ変えられる？（Relight）\n5:34 動画の世界をまるごと入れ替えるには？（Genjutsu）\n7:21 動画をコミック風・スケッチ風にできる？（Mixed Media）\n8:16 プロの作り方はどこで学べる？（Higgsfieldの制作資料）\n9:02 結局いちばん使っている機能は？\n\n■動画の中で紹介した作品\n店内のシーンでAngles 2.0をたくさん使った、昨年のクリスマスの作品はこちら\nAI Short Film | Higgsfield Global Teams Challenge\nhttps://youtu.be/Qeu_uww3Eoc\n\n■この動画で紹介したもの\n・Soul 2.0：プリセットを選ぶだけで、ムードのあるおしゃれな写真に\n・Angles 2.0：写真1枚から、カメラを回して別の角度の画像を作る（1回0.2クレジットほど）\n・Relight：光の色・向き・明るさだけを変える\n・Genjutsu：動画の動きはそのままに、人物や世界観を入れ替える\n・Mixed Media：動画をLayer mixed media・Flash comicなどの表現に変える\n・Higgsfieldが公開している制作資料（キャラクターシート・プロンプトの書き方）\n\n■この動画のテーマ\nHiggsfield / AI video / Free AI video generator / Cheapest AI Platform / AI filmmaking / AI image generation\n\n\n#Higgsfield #AI動画 #AI画像生成 #AIfilmmaking",
+      "tags": [
+        "Higgsfield",
+        "AI video",
+        "Free AI video generator",
+        "Cheapest AI Platform",
+        "AI filmmaking",
+        "AI image generation",
+        "AI動画",
+        "AI画像生成",
+        "動画生成AI",
+        "画像生成AI",
+        "AI映像制作",
+        "Soul 2.0",
+        "Angles 2.0",
+        "Relight",
+        "Genjutsu",
+        "Mixed Media",
+        "Higgsfield 使い方",
+        "Higgsfield おすすめ機能",
+        "AI 背景 別アングル",
+        "AI ライティング",
+        "動画 世界観 変換",
+        "コミック風 動画",
+        "Higgsfield MCP",
+        "AI Short Film",
+        "Higgsfield Global Teams Challenge",
+        "てんとあずき",
+        "あずきちゃんねる"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/V7a2Aw1-FF8/mqdefault.jpg",
+      "durationSec": 601,
+      "views": 5915,
+      "likes": 88,
+      "comments": 10,
+      "live": "none",
+      "lang": "ja",
+      "cats": []
     },
     {
       "id": "bRGQLgUoNwI",
@@ -1817,7 +2580,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/DRqnD68VsbM/mqdefault.jpg",
       "durationSec": 1316,
-      "views": 5538,
+      "views": 5554,
       "likes": 30,
       "comments": 2,
       "live": "none",
@@ -1922,6 +2685,30 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "52k-jJWpKd0",
+      "url": "https://www.youtube.com/watch?v=52k-jJWpKd0",
+      "title": "【DomoAIでAIアニメ制作】推しの画像と声でAIアニメが作れちゃう！京都旅動画作ってみたよ！【初心者OK】",
+      "channel": "AI萌奈のおすそわけch",
+      "channelId": "UC8OtQ1rIViTUDjLj4zRgsrA",
+      "publishedAt": "2026-10-26T07:26:32Z",
+      "description": "▼DomoAI を専用リンクから試してみてね（新規登録で無料クレジットがもらえる！）\n👉 https://www.domoai.app/home?via=bdb772\n🎁 割引コード「8E0OEI3K」で、初回のお支払いが10%オフ！\n【PR】本動画は DomoAI の提供・協力に基づき制作しています。\n\n---------------------\n\n🔻日々のAI作品や最新情報を発信中\nX（旧Twitter）：https://x.com/xc5_\n\n🔻AI制作の制作実績やお仕事のご相談はこちらから\nポートフォリオサイト：https://mo7.jp/\n\n---------------------\n\n萌奈と DomoAI のマスコット「Domo」くんが、秋の京都を旅するAIアニメを作りました🍁\n素材の画像や音声を用意して、キャラと背景の画像づくり → 動画 → 声 → 高画質化まで、\nDomoAI の機能を使った作り方をぜんぶ紹介しています。\n\n✅ この動画でわかること\n・画像編集（GPT Image 2.5）でキャラクターシートと背景を作る方法\n・Relaxモードで、クレジットを使わずに画像を何度も作り直すコツ\n・オムニリファレンス（Seedance 2.5）で、キャラの見た目をそろえて動画にする方法\n・音声読み上げで作った声をお手本にして、2人を会話させる方法\n・動画アップスケールで高画質に仕上げる方法\n\n▼チャプター\n0:00 完成作品のダイジェスト\n0:18 あいさつ\n0:56 作り方は4ステップ\n1:22 STEP1 キャラと背景の画像を作る（画像編集・GPT Image 2.5）\n3:01 STEP2 画像を動画にする（オムニリファレンス・Seedance 2.5）\n5:13 STEP3 声を入れる（音声読み上げ）\n6:20 STEP4 高画質に仕上げる（動画アップスケール）\n6:36 料金プランと Relaxモード\n7:25 DomoAI を試すには\n7:38 完成作品「Domo と行く、秋の京都」\n9:03 おわりに\n\n▼使用したフリー音楽\nBGM：しゃろう「しゅわしゅわハニーレモン350ml」\n\n※プラン・料金・仕様は撮影時点（2026年10月）のものです。最新情報は公式サイトをご確認ください。\n※Relaxモードの対象は対応モデルのみです（動画の Seedance 2.5 などはクレジットを使います）。\n※新規登録でもらえる無料クレジット（30クレジット）は、DomoAI 独自モデルでの動画づくりに使えます（Seedance 2.5 などほかのモデルは別にクレジットを使います）。\n\n---------------------\n\n#domoai",
+      "tags": [
+        "domoai"
+      ],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/52k-jJWpKd0/mqdefault.jpg",
+      "durationSec": 566,
+      "views": 5329,
+      "likes": 65,
+      "comments": 21,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "charanime"
+      ]
+    },
+    {
       "id": "OoQG7KwE4cM",
       "url": "https://www.youtube.com/watch?v=OoQG7KwE4cM",
       "title": "Googleの最新AIモデル「Gemini 4 Hydrogen」徹底解説！ ～中位モデルながら全AIモデル中7位、無料ユーザーも利用可能な高速モデル～",
@@ -1964,8 +2751,29 @@ window.SNAPSHOT = {
       "cats": [
         "new",
         "chatgpt",
-        "gemini"
+        "gemini",
+        "muse"
       ]
+    },
+    {
+      "id": "HXyIZpJ6Vtg",
+      "url": "https://www.youtube.com/watch?v=HXyIZpJ6Vtg",
+      "title": "キャラ制作から字幕入れまで初心者でも簡単にできるストーリーMVの作り方【OiiOii】",
+      "channel": "とうや【AIイラストLab.】",
+      "channelId": "UCiuOgrYjhB4D-ow-UjP9B5Q",
+      "publishedAt": "2026-11-14T09:00:03Z",
+      "description": "とうやです。個人でAI動画を作っています。\n初心者でも簡単にAIアニメが作れるAIエージェントOiiOiiのMV制作機能で、曲とあらすじ、歌詞から、アニメオープニング風のストーリーMVを作る流れを紹介します。\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n提供： OiiOii\nこちらのリンクから新規登録すると、追加クレジットがもらえます！\nhttps://oiioii.ai/?via=EpUcOZebvnpOmBGt\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n▼音声\n　voicepeak ６ナレーターセット  (https://www.ah-soft.com/voice/6nare/)\n\n▼使用楽曲\n（今のベースのまま）\n\n▼サブチャンネル／X\n（今のベースのまま）",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/HXyIZpJ6Vtg/mqdefault.jpg",
+      "durationSec": 628,
+      "views": 5220,
+      "likes": 40,
+      "comments": 3,
+      "live": "none",
+      "lang": "ja",
+      "cats": []
     },
     {
       "id": "2A8lhzLpVjQ",
@@ -1992,6 +2800,121 @@ window.SNAPSHOT = {
       "cats": []
     },
     {
+      "id": "wC4VN20h39s",
+      "url": "https://www.youtube.com/watch?v=wC4VN20h39s",
+      "title": "【MetaのMuse】使い方と実力を実演｜AIエージェントの仕事場・画像と動画の生成・PC連携",
+      "channel": "AI is in wonderland",
+      "channelId": "UCFAaDYqFyrVsme5YX7VsC7w",
+      "publishedAt": "2026-11-15T09:00:02Z",
+      "description": "※この動画は Fish Audio の提供でお送りします（PR）。\n\nMeta の AI エージェント「Muse」の使い方と実力を、Power プランで実際に試した結果から紹介します。\n専用クラウドPCと記憶のしくみを解説し、買い物の手続き・定期作業・サイドチャットや、生成した画像・動画をお見せします。\nTailscale を使った Windows PC との独自連携で、制作ルールを読んでスライドを編集・修正できるかも試しました。\n\n📝 くわしい解説記事（note）\nhttps://note.com/modern_macaw478/n/nd3a10990f43f\n\n目次\n0:00 Meta の Muse を実際に使ってみた\n1:04 Muse とは？ 専用クラウドPCで働くAI\n3:15 記憶のしくみ・Spark と Wonder\n5:11 アプリ実演：買い物の手続き・定期作業・サイドチャット\n6:24 画像生成：実写・アニメ・難しい構図\n7:37 動画生成の実演\n9:15 Power の料金と使える量\n9:59 Fish Audio の紹介（PR）\n11:16 Tailscale で Windows PC と連携するしくみ\n12:58 制作ルールを読ませてスライドを編集・修正\n15:00 本日のまとめ\n\nこの動画は、企画・台本を私が監修したうえで、編集や合成などの制作工程をAIで自動化して作成しています。動画内の音声はFish AudioによるAI音声です。\n\n🎙️ 音声AI「Fish Audio」（アフィリエイトリンク／PR）\nhttps://fish.audio/?fpr=alice33\n有料プランの決済画面でクーポンコード WONDER20 を入力すると20%オフになります。\nFish Audio MCP からの生成には、開発者向け API とは別に、アカウントのパッケージクレジットが使われます。\n\n🖥️ 動画の生成に使っている GPU クラウド「RunPod」（紹介リンク／PR）\nhttps://runpod.io?ref=cei0iljt\n紹介リンクから登録し、RunPod で最初の10ドルを利用すると、5〜500ドル分のクレジットを受け取れます。\n\nこの動画には、MiniMax H3 で生成した AI の映像を含みます。\nContains AI-generated video made with MiniMax H3.\n\n#PR #MetaMuse #AIエージェント #FishAudio",
+      "tags": [
+        "Meta Muse",
+        "MetaのMuse",
+        "Muse",
+        "Muse AI",
+        "Meta AI",
+        "AIエージェント",
+        "AIエージェント使い方",
+        "Muse Wonder",
+        "Muse Spark",
+        "Muse Power",
+        "AI画像生成",
+        "AI動画生成",
+        "Web操作",
+        "定期作業",
+        "サイドチャット",
+        "クラウドPC",
+        "Windows",
+        "Tailscale",
+        "スライド編集",
+        "Fish Audio",
+        "AI is in Wonderland",
+        "アリスとルル"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/wC4VN20h39s/mqdefault.jpg",
+      "durationSec": 962,
+      "views": 5153,
+      "likes": 62,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
+      ]
+    },
+    {
+      "id": "OhGbA4JkF9Q",
+      "url": "https://www.youtube.com/watch?v=OhGbA4JkF9Q",
+      "title": "【DomoAI × Claude】チャットでAIアニメが作れちゃう！DomoAI MCPの使い方を全部見せます",
+      "channel": "AI萌奈のおすそわけch",
+      "channelId": "UC8OtQ1rIViTUDjLj4zRgsrA",
+      "publishedAt": "2026-11-05T11:00:02Z",
+      "description": "▼DomoAI を専用リンクから試してみてね\n👉 https://www.domoai.app/ja/home?via=mona2611\n🎁 割引コード「8E0OEI3K」で、初回のお支払いが10%オフ！\n🎁 新規登録で無料クレジットがもらえる！\n【PR】本動画は DomoAI の提供・協力に基づき制作しています。\n\n---------------------\n\n🔻日々のAI作品や最新情報を発信中\nX（旧Twitter）：https://x.com/xc5_\n\n🔻AI制作の制作実績やお仕事のご相談はこちらから\nポートフォリオサイト：https://mo7.jp/\n\n---------------------\n\nふだん使っている Claude（クロード）から、DomoAI の MCP で DomoAI を呼び出して、\n萌奈と DomoAI のマスコット「Domo」くんが秋の九州をめぐるAIアニメを作りました🍁🤖\nサイトを行ったり来たりせず、チャットで頼むだけ。プランの確認から完成まで、ぜんぶ見せています。\n\n✅ この動画でわかること\n・DomoAI の MCP を Claude デスクトップにつなぐ方法（Node.js・CLI のインストール・サインイン）\n・チャットで頼むだけで、キャラクターシートと背景の画像を作る方法（Nano Banana 2.1）\n・Domo くんの声（音声読み上げ）と、オムニリファレンス（Seedance 2.5）で動画にする方法\n・動画アップスケールで 1080P に仕上げる方法\n・作る前に出てくる「プランと予想クレジット」の見方（相談やプランの確認ではクレジットは減りません）\n\n▼チャプター\n0:00 完成作品のハイライト\n0:15 あいさつ\n0:55 作り方は4ステップ\n1:18 STEP1 DomoAI をつなぐ（MCP・Claude デスクトップ）\n2:28 STEP2 キャラと背景の画像（AI 画像）\n4:02 STEP3 声と動画（音声読み上げ・オムニリファレンス）\n5:18 STEP4 高画質に仕上げる（動画アップスケール）\n5:35 残りの7か所もまとめて\n6:17 まとめ：なぜ Claude × MCP なの？\n6:44 DomoAI を試すには\n7:00 完成作品「Domo と行く、秋の九州ひとめぐり」\n8:04 おわりに\n\n▼DomoAI の MCP が使える AI ツール（2026年11月1日時点）\nClaude Code／Claude デスクトップ／Codex／Cursor\n※ChatGPT のウェブ版はまだ使えません\n※ローカル MCP のため Node.js 22.12 以上が必要です\n\n▼使用した音楽\nBGM：しゃろう「しゅわしゅわハニーレモン350ml」\n\n※プラン・料金・仕様は撮影時点（2026年11月）のものです。最新情報は公式サイトをご確認ください。\n※新規登録でもらえる無料クレジット（30クレジット）は、DomoAI 独自モデルでの動画づくりに使えます（Seedance 2.5 などほかのモデルは別にクレジットを使います）。\n\n---------------------\n\n#domoai",
+      "tags": [
+        "#domoai"
+      ],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/OhGbA4JkF9Q/mqdefault.jpg",
+      "durationSec": 497,
+      "views": 5141,
+      "likes": 258,
+      "comments": 4,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "claude",
+        "charanime"
+      ]
+    },
+    {
+      "id": "thO28Nri1ms",
+      "url": "https://www.youtube.com/watch?v=thO28Nri1ms",
+      "title": "【OiiOii】AIショートドラマでSNSアカウント運用！脚本を渡すだけでアニメ完成、AIスタッフと作る制作術",
+      "channel": "AI萌奈のおすそわけch",
+      "channelId": "UC8OtQ1rIViTUDjLj4zRgsrA",
+      "publishedAt": "2026-11-15T02:53:41Z",
+      "description": "提供：OiiOii.AI（オイオイ）\n👉 https://oiioii.ai/?via=bRSVHPeGlJKQIspE\n脚本を渡すだけでショートドラマが作れる最新AIツール「OiiOii」の使い方を徹底解説！効率よくAIアニメを制作したい方はぜひ試してみてください。\n\n---------------------\n\n🔻日々のAI作品や最新情報を発信中\nX（旧Twitter）：https://x.com/xc5_\n\n🔻AI制作の制作実績やお仕事のご相談はこちらから\nポートフォリオサイト：https://mo7.jp/\n\n---------------------\n\nアニメ制作にいち早くマルチエージェントを取り入れた、自動アニメーションスタジオ「OiiOii」。\nそのストーリー動画で、脚本からショートドラマの完成まで、ぜんぶ作ってみました！\n脚本・キャラクター・シーン・小道具・絵コンテ・映像を、担当ごとの AI スタッフ（エージェント）が作ってくれる様子を、実際の画面で最初から最後まで見せています。まるでアニメーションスタジオに依頼しているみたい！\n最後に、完成したクリスマスのドタバタコメディ「サンタ萌奈とトナカイさん」をフルで流します🎄\n\n✅ この動画でわかること\n・ストーリー動画の始め方（脚本をアップロード・キャラクターのアセットを選ぶ）\n・ショートドラマの脚本のコツ3つ\n・キャラクターシートをアセットに登録して使う方法\n・シーン（背景）とマルチビュー・小道具（アイテム）の作り方\n・画像のモデルを選んで作り直す（背景は Nano Banana 2・絵コンテは Seedream 5.0 Pro）\n・絵コンテ作家のカット割りと、グリッド画像の絵コンテ\n・いちばんのコツ：カードの動画プロンプトを自分で書き換える\n・まず1カット → 残りをまとめて生成（Seedance 2.5）\n・最終動画の合成とダウンロード\n\n▼チャプター\n0:00 オープニング\n1:08 キャラと脚本\n2:21 背景・小道具・絵コンテ\n4:11 映像の生成と仕上げ\n6:13 まとめ・始め方\n7:06 完成ドラマ「サンタ萌奈とトナカイさん」\n\n※本動画は PR を含みますが、内容・感想は萌奈の実際の使用感に基づいています。\n※プラン・仕様・クレジットは撮影時点（2026年11月）のものです。最新情報は公式サイトをご確認ください。\n\n---------------------\n\n#oiioii #aianimation",
+      "tags": [],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/thO28Nri1ms/mqdefault.jpg",
+      "durationSec": 532,
+      "views": 5136,
+      "likes": 69,
+      "comments": 21,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "charanime"
+      ]
+    },
+    {
+      "id": "Rdju4-jGKUo",
+      "url": "https://www.youtube.com/watch?v=Rdju4-jGKUo",
+      "title": "Renoise AI × Claude｜MCPを使ってAIアニメ制作実演 | 話しかけるだけでAIアニメが作れちゃう",
+      "channel": "AI萌奈のおすそわけch",
+      "channelId": "UC8OtQ1rIViTUDjLj4zRgsrA",
+      "publishedAt": "2026-11-08T22:51:47Z",
+      "description": "▼Renoise AI を専用リンクから試す（クリエイター限定 30％OFF）\n👉 https://renoise.onelink.me/Gxyb?pid=youtube&c=mo7ch-yvette-202611&af_web_dp=https%3A%2F%2Frenoise.ai%2F%3Futm_medium%3Dyoutube%26utm_source%3Dmo7ch-yvette-202611\n【PR】本動画は Renoise AI の提供・協力に基づき制作しています。\n\n---------------------\n\n🔻日々のAI作品や最新情報を発信中\nX（旧Twitter）：https://x.com/xc5_\n\n🔻AI制作の制作実績やお仕事のご相談はこちらから\nポートフォリオサイト：https://mo7.jp/\n\n---------------------\n\nRenoise AI の MCP を使って、話しかけるだけで動画を作ってみました！（今回はふだん使っている Claude から実演。MCP は ChatGPT や QwenWork など、ほかの AI からも使えます）\nおしゃべりしながら、物語ショートの相談 → 計画 → 見積もり → 生成 → 修正までをぜんぶ見せています。\n完成作品「萌奈と、魔法のフィルムカメラ」は、生成した5ショットを萌奈が編集して仕上げました。\n\n✅ この動画でわかること\n・Claude に Renoise をつなぐ方法（コネクタに追加してサインイン・API キー不要）\n・ふつうの言葉で相談して、ショットの表と制作プランを作ってもらう方法\n・生成の前にクレジットの見積もりを確認する流れ\n・キャラクターシートと前の結果を参照にして、見た目をそろえやすくするコツ\n・同じチャットで、SNS で話題の動画風・商品広告・エフェクト動画\n\n▼チャプター\n0:00 完成作品の見どころ\n0:16 萌奈も Renoise で作ったよ\n0:24 今日のテーマは Renoise の MCP\n0:34 いろんな AI から使える・作り方の5ステップ\n0:54 PART1 Renoise のサイト\n1:13 PART2 MCP とつなぎ方\n1:36 PART3 Claude と物語ショートを作る\n2:57 PART4 同じチャットで3本（話題の動画風・商品広告・エフェクト）\n4:06 まとめ・はじめかた\n4:30 完成作品「萌奈と、魔法のフィルムカメラ」\n\n※Claude とのチャット自体では Renoise のクレジットは使いませんが、生成・動画の分析・クラウド編集にはクレジットが必要です。\n※Renoise AI で生成したコンテンツは、利用規約に従って商用利用できます。\n※プラン・仕様は撮影時点のものです。最新情報は公式サイトをご確認ください。\n※効果音・ナレーションは ElevenLabs で制作しています。\nBGM：しゃろう「しゅわしゅわハニーレモン350ml」\n\n---------------------\n\n@renoiseai\n#RenoiseAI #Claude #MCP #AI動画",
+      "tags": [],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/Rdju4-jGKUo/mqdefault.jpg",
+      "durationSec": 349,
+      "views": 5125,
+      "likes": 56,
+      "comments": 12,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "claude",
+        "charanime"
+      ]
+    },
+    {
       "id": "ymlJc51Asuo",
       "url": "https://www.youtube.com/watch?v=ymlJc51Asuo",
       "title": "ChatGPTを話し相手にするのはAI活用じゃない？【ホリエモン切り抜き】",
@@ -2011,7 +2934,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/ymlJc51Asuo/mqdefault.jpg",
       "durationSec": 43,
-      "views": 5085,
+      "views": 5091,
       "likes": 16,
       "comments": 0,
       "live": "none",
@@ -2059,8 +2982,8 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/_7q6pzPP0QQ/mqdefault.jpg",
       "durationSec": 42,
-      "views": 4666,
-      "likes": 74,
+      "views": 4668,
+      "likes": 75,
       "comments": 37,
       "live": "none",
       "lang": "ja",
@@ -2068,6 +2991,28 @@ window.SNAPSHOT = {
         "new",
         "chatgpt",
         "gemini"
+      ]
+    },
+    {
+      "id": "rtPJYB7s_ZM",
+      "url": "https://www.youtube.com/watch?v=rtPJYB7s_ZM",
+      "title": "【無限の可能性AI】Meta Museの魅力を解説！ 無限の組み合わせで自由にアプリやコンテンツを作る【AIイラスト・AI音楽・AI動画】",
+      "channel": "AI共創イノベーション",
+      "channelId": "UCXYu2YyFDhxRMiIGq7acOZA",
+      "publishedAt": "2026-11-17T09:34:46Z",
+      "description": "👇「Meta Muse（メタミューズ）」関連の動画はこちら！\nhttps://www.youtube.com/watch?v=WtExvb3LTz0&list=PLWDk4qEoYbBk\n\n👇サテライトでもMeta Muse関連の解説をしています！\n@mindbody_ai \n\nMeta Muse（メタミューズ）で作った一曲を、Sunoで編曲し、ナレーション付きの短編動画へ。今回は、Meta Museを制作の中心に置いて、AI作曲・音声合成・動画制作を自由に組み合わせる方法を実演します。\n\n題材は、ムースが作曲した「朝の光のピアノ」。Pythonで作った原曲は、Sunoで楽器を変えるとどう聴こえるのでしょうか。ピアノ版とアコースティックギター版を聴き比べ、選んだ曲を使って、ムースが登場する朝の動画「おはようの朝」を作ります。最後に完成版も流すので、音楽と声と映像を合わせた仕上がりまでご覧いただけます。\n\n■ この動画でわかること\n・Meta Museに普段の言葉で頼み、PythonでBGMを作る流れ\n・ChatGPTに朝の曲と動画を作ってもらった実例\n・BGM・効果音・自然音を自作アプリでまとめ、動画制作に使う方法\n・作曲専用のサイドチャットから、MCPでSunoにつないで編曲する流れ\n・試作を見ながら、タイトルの色やキャラクターの動きを調整する進め方\n・BGMにVOICEVOXのナレーションを重ね、短編動画に仕上げる方法\n\n■ Meta Museの魅力は、工程ごとに道具を組み合わせやすいこと\n最初の曲を聴いて電子音が気になったので、Sunoで楽器を変えてみました。映像の試作では、朝の明るい背景に白いタイトルが埋もれ、同じ絵が長く続いたので、文字の色と動きを調整しました。さらにナレーションを加え、音楽だけで見たときと動画の印象がどう変わるかを確かめています。\n\n作ったものをその場で再生し、「ピアノにしたい」「もう少し早く動かしたい」「ここに声を入れたい」と次の指示を出せる。いくつものツールや素材をつなぎながら、思いついたことを一つずつ試せるのが、今回感じたMeta Museの使いやすさです。\n\nAIでオリジナルBGMを作りたい方、キャラクターを使った動画を作りたい方、Meta MuseとChatGPTの制作時の違いが気になる方は、実際の画面と音を見比べてみてください。\n\n■ プロフィール\nワンダー・佐藤源彦（さとう もとひこ）\n1977年生まれ\nMBBS & AI共創イノベーション主催。\n医療系の研究所、心理学の研究所の勤務を経て独立し、現在は生成AI（ChatGPT、Claude、Geminiなど）と心身に関する研究をしている。\n主著『かんたんプロンプト』（芸術新聞社）『東洋医学と潜在運動系』（たにぐち書店）、2年間専門誌に連載、論文執筆などの執筆業を行いつつAI共創ライティングを開発中。\n心理学・カウンセリング・コーチングをAIに応用しAI共創メソッドを開発。\nAI共創エージェント構築の方法を個人・企業に提供。\nAIスクール・AI企業研修・AIアプリ開発などを行う。\n\n✅ワンダー佐藤総合リンク\nhttps://linktr.ee/motohiko.sato\n\n✅ワンダー佐藤源彦・著『かんたんプロンプト』（芸術新聞社から刊行）\n※プロンプトエンジニアリングの基本から応用、タスク実行までを網羅\nhttps://amzn.asia/d/80zVtv8\n\n✅note記事\nhttps://note.com/mbbs\n※ChatGPT・Claude・Gemini・NotebookLMなどを解説\n※メンバーシップはじめました！\n\n✅AI共創イノベーション（AIスクール・AI企業研修・AIアプリ開発のサイト）\nhttps://mbbs-ai.jimdofree.com/\n\n✅Facebook\nhttps://www.facebook.com/motohiko1977\n※リクエスト申請前にメッセージください\n\nサテライトチャンネル\nhttps://www.youtube.com/@mindbody_ai\n\n■ タイムライン\n00:00 Meta Museの魅力は組み合わせの自由さ\n02:18 Meta Museに頼んでPythonでBGMを作る\n03:00 BGM・効果音・自然音をアプリで管理\n05:03 ChatGPTで作ったMP3と動画を確認\n06:21 コードによる作曲の仕組み\n07:44 作曲専用サイドチャットで曲を引き継ぐ\n08:50 MCPでSunoにつなぎ、編曲する\n10:43 聴いて気づいた電子音を楽器の指定で調整\n11:26 ピアノ版とアコースティックギター版の聴き比べ\n12:36 ピアノ版を使って朝の動画を作る\n13:37 タイトルの見やすさとキャラクターの動きを調整\n14:51 VOICEVOXのナレーションを追加\n15:52 ChatGPTと比べて感じたMeta Museの使いやすさ\n17:24 完成版「おはようの朝」\n\n#MetaMuse #メタミューズ #AI作曲 #SunoAI #AI動画生成 #VOICEVOX #ChatGPT #AIエージェント #AI共創 #sunoai #sunomcp #AI音楽 #ai #動画生成AI #Muse使い方\n\nVOICEVOX:雨晴はう",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/rtPJYB7s_ZM/mqdefault.jpg",
+      "durationSec": 1223,
+      "views": 4528,
+      "likes": 29,
+      "comments": null,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
       ]
     },
     {
@@ -2156,7 +3101,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/xI7t6J-NM3Y/mqdefault.jpg",
       "durationSec": 64,
-      "views": 4314,
+      "views": 4328,
       "likes": 137,
       "comments": 25,
       "live": "none",
@@ -2183,13 +3128,45 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/kRqxXrZwwJM/mqdefault.jpg",
       "durationSec": 1158,
-      "views": 4298,
+      "views": 4325,
       "likes": 42,
       "comments": 4,
       "live": "none",
       "lang": "ja",
       "cats": [
         "gemini"
+      ]
+    },
+    {
+      "id": "HLdXrPxp_rQ",
+      "url": "https://www.youtube.com/watch?v=HLdXrPxp_rQ",
+      "title": "【驚愕】Claude Codeでこんな動画ができるの！？無料ツールだけでイラストが喋るアニメ動画を作る方法",
+      "channel": "社長のAI実践チャンネル -眼から鱗 長島-",
+      "channelId": "UCPCWramiVZXiBxVuBWo0SgQ",
+      "publishedAt": "2026-10-22T22:00:13Z",
+      "description": "#ClaudeCode #Claude #hyperframes  #remotion\n\nClaude Codeと7つの無料ツールで、「こんな動画ができるの！？」と驚くアニメが完成！\n専門ソフト代0円・日本語の対話だけで、1枚のイラストが声に合わせて喋り出します。\nなぜ高額な有料動画ツールを使わず、無料ツールだけで本格アニメ動画が作れるのか？\n7つの道具の役割分担と、声から自動で口パクさせる驚きの仕組みを全公開！\n完成した本編ノーカット上映と、社長の仕事での4つの実践活用法をぜひご覧ください！\n\n🔍 動画の内容\n✅ 成果実演：道具代0円で作った「5分31秒の長尺アニメ」と30秒ギミック集\n✅ 制作チーム：いつもの有料AI×Claude Codeが自動で操る7つの無料ツール\n✅ 仕組み①：Webページを1秒30コマ撮影する完全無料の「HyperFrames」\n✅ 仕組み②：1枚絵の表情差し替えと声の波形から自動計算する口パク\n✅ 完成本編上映と、社長の仕事（商品説明・セミナー等）での4つの実践活用法\n\n▼目次（タイムスタンプ）\n00:00 オープニング：Claude Codeでこんな動画ができるの！？\n00:51 【冒頭デモ①】完成したアニメ動画の冒頭シーン実演\n01:59 【冒頭デモ②】30秒でわかる！立体文字・回り込み・場面転換ギミック集\n02:53 動画づくりの専門ツール類が「すべて無料（追加費用0円）」の衝撃\n04:09 Remotion（社員4人以上は有料）とHyperFrames（完全無料）の2つの違い\n06:30 制作チーム紹介①：総監督（社長）と「いつもの有料AI 4つ」\n09:09 制作チーム紹介②：Claude Codeが自動で使いこなす「7つの無料ツール」\n11:37 仕組み①：動くWebページ（HTML）を1秒30コマ撮影するパラパラ漫画の発想\n13:56 仕組み②（前半）：1枚絵のキャラが演技する「4つの条件」と1行ごとの表情差し替え\n15:29 仕組み②（後半）：Python・OpenCVの「口なし下地」と声の波形からの自動口パク\n17:24 仕組み③：画面をリッチに動かす4つの無料ツール（GSAP・Lottie・Three.js・SVG）\n19:13 飽きさせない「場面転換」と「12種類のカメラ技法」をAIに組み込ませた裏側\n20:31 社長がやったことはシンプル（最初の依頼文→承認→コピペ→修正指示）\n21:19 【全編上映】完成した5分31秒のアニメ動画「AIエージェントって何？」本編\n27:08 一度仕組みをプログラムさせれば、次からはさらに短時間で作れる！\n27:37 社長の会社ならどこで使う？4つの実践活用シーン（商品説明・セミナー・発信・商談）\n29:26 本日のまとめ（3つのポイント）と最初の一歩目\n30:41 お知らせ：YouTubeメンバーシップ「AIビジネス実装ラボ」のご案内\n\n▼参考（動画内で紹介した主な無料ツール・公式情報）\nHyperFrames（GitHub）：https://github.com/heygen-com/hyperframes\nGSAP無料化発表（Webflow）：https://webflow.com/blog/gsap-becomes-free\nLottie / lottie-web（GitHub）：https://github.com/airbnb/lottie-web\nThree.js（GitHub）：https://github.com/mrdoob/three.js\nFFmpeg公式：https://ffmpeg.org/\nRemotionライセンス規約：https://github.com/remotion-dev/remotion/blob/main/LICENSE.md\n\n🚀 動画のさらに先へ「AIビジネス実装ラボ」始動！\nYouTubeメンバーシップ「AIビジネス実装ラボ」では、毎月1回のライブセッションやメンバー限定チャットを通じて、現場での泥臭い試行錯誤や動画では出せない具体的なプロンプトの裏側を共有しています。\n自社の業務にAIを具体的に組み込んでいきたい社長やリーダーの方は、ぜひ詳細をチェックしてみてください。\nhttps://www.youtube.com/channel/UCPCWramiVZXiBxVuBWo0SgQ/join\n※iPhoneの方はSafari等のブラウザからアクセスをお願いします。\n\n📌 今すぐできるアクション\n1. Claude Codeに「HyperFramesやGSAP、Three.js、FFmpeg、Pythonなどの無料ツール群を導入したいので入れ方を教えて」と話しかけて環境を整える\n2. 自社の業務（商品説明・セミナー導入・社長発信の復習・商談資料）で「動画や動く図解にしたら相手が飽きずに理解できる場面」を1つ書き出す\n3. 専門ツールを自分で操作しようとせず、やりたいゴールとギミックを日本語の対話でClaude Codeに相談しながら最初の1本を作ってみる\n\n🔔 チャンネル登録で、経営者向けのAI活用情報を毎週お届けします！\n\n📌 もっと自分らしい経営をしたい方へ\n\n▼眼から鱗 長島が提唱する “あり方社長”とは？\n・個性と長所を活かして、社長らしい経営で自信を持つこと\n・ワクワクするビジョンを掲げて、そこだけに集中すること\n・結果、自分らしい生き方で元気で幸せな経営ができるようになること\n\n▶ “あり方社長”を5万人にする！と宣言して動画を発信しています。\n共感いただけた方はぜひチャンネル登録をお願いします！\n\n▼他にもこんな動画を配信中\n「社長の長所と個性で自分も会社も元気にできる36のヒント」\nhttps://www.youtube.com/playlist?list=PL20Nub3yEgalnMjrYrf-NrljJ0Nyvwu71\n\n▼1時間の無料オンラインセッションも受付中\n社長がまだ自信が持てない。ワクワクできない。\nそんな誰にも相談できない不安や悩みを、一度ご相談ください。\nご相談はFacebookメッセンジャー、またはメールでどうぞ。\n\nお問い合わせ：junagashima（アット）mekarauroko.biz\n※「（アット）」を「@」に変えてください。",
+      "tags": [
+        "Claude Code",
+        "クロードコード",
+        "HyperFrames",
+        "AIアニメ",
+        "Claude Opus 5.5",
+        "ChatGPT Images 2.5",
+        "Gemini",
+        "remotion"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/HLdXrPxp_rQ/mqdefault.jpg",
+      "durationSec": 1885,
+      "views": 4274,
+      "likes": 76,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "claude",
+        "charanime"
       ]
     },
     {
@@ -2205,12 +3182,50 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/UpIAVX5DiF0/mqdefault.jpg",
       "durationSec": 89,
-      "views": 4051,
-      "likes": 104,
+      "views": 4083,
+      "likes": 105,
       "comments": 27,
       "live": "none",
       "lang": "ja",
       "cats": [
+        "claude"
+      ]
+    },
+    {
+      "id": "b2Er2SXWqKA",
+      "url": "https://www.youtube.com/watch?v=b2Er2SXWqKA",
+      "title": "【スマホでブレスト】Claudeの新機能とiPhone Duoの相性が神過ぎた件【Claude Whiteboards】",
+      "channel": "fussa | AI自動化×ガジェット",
+      "channelId": "UCGlCDRTig0J2WAhp6NNriNQ",
+      "publishedAt": "2026-11-15T10:45:09Z",
+      "description": "Claude の新機能「Claude Whiteboards（ホワイトボード）」を、iPhone Duo で実際に使ってみました。\n音声入力で話しかけるだけで、新規事業の検討や買い物の相談が、図・表・付箋のホワイトボードに整理されます。チャットでの修正、共有と書き出し、手書きやステッカー、うまくいかなかったところまで、そのままお見せします。\n\n▼目次\n0:00 Claude Whiteboardsとは／今日の内容\n0:27 手書き・ノート・PCの図表の代わりになる\n0:56 「ホワイトボードに整理して」と話しかけるだけ\n1:21 例：新規事業の相談を30秒話す\n2:21 できたホワイトボード（Duoは2カラム・全画面）\n2:45 予算・ロードマップ・経営会議までに決めること\n3:25 チャットで直す（音声入力ボタンがない）\n3:59 「ホワイトボードらしく図に」と追加で依頼\n4:27 共有（Teamプラン／リンクを知っている全員）\n5:12 PNGで書き出し\n5:22 リアルタイムに編集されていく\n5:55 ステッカー・図形・手書き\n6:11 Apple Pencilと手書きの相性\n6:56 付箋を動かして複数人で議論\n7:30 Apple WatchとOura Ringの相談をしてみる\n8:01 Claudeの整理と追加の依頼\n8:40 表のデザインを合わせてもらう\n9:11 整理してみて分かったこと\n9:25 まとめ\n\n▼あわせて見たい\n・【スマホで表計算】Claude新機能「シート」をiPhoneとDuoで実機検証 https://youtu.be/1WFLbrCP0Ak\n\n▼出典・参考\n・Get started with Claude Whiteboards（Claude ヘルプセンター） https://support.claude.com/en/articles/18324319-get-started-with-claude-whiteboards\n※Claude Whiteboards はベータです。対象プラン（Pro・Max・Ultra・Team・Enterprise）や機能は2026年11月15日時点のものです。最新の情報は公式のページでご確認ください。\n・効果音：効果音ラボ https://soundeffect-lab.info/\n\n▼チャンネルについて\nfussa | AI自動化×ガジェット\n現役IT企業経営者ふっさが教える、ビジネス職・経営者向けのAI自動化チャンネルです。\n・AIによる業務自動化の仕組みづくり\n・AIツールの使い方や、モデルごとの性能を実務で実演比較\n・AIの進化で、ビジネスや社会がどう変わるかを読み解く\n\n▼配信者について\n・20代でソフトウェア企業を創業し、10年以上IT企業を経営\n・大学・大学院でコンピューターサイエンスを専攻し、機械学習の分野で論文を発表\n\nチャンネル登録・高評価で応援していただけると励みになります。\n\n#Claude #ClaudeWhiteboards #iPhoneDuo",
+      "tags": [
+        "AI自動化",
+        "Anthropic",
+        "Claude",
+        "Claude Whiteboards",
+        "iPhone Duo",
+        "ホワイトボード",
+        "音声入力",
+        "Chat GPT",
+        "Gemini",
+        "Muse",
+        "Grok",
+        "Grok bot",
+        "AI",
+        "Open AI"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/b2Er2SXWqKA/mqdefault.jpg",
+      "durationSec": 608,
+      "views": 3886,
+      "likes": 13,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
         "claude"
       ]
     },
@@ -2247,6 +3262,57 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "Bh-LGBOkmHA",
+      "url": "https://www.youtube.com/watch?v=Bh-LGBOkmHA",
+      "title": "「Museメール」でMeta Museに仕事を依頼しよう！Museメールの始め方・使い方・注意点をMuseメールアプリを作って実践解説",
+      "channel": "AI共創イノベーション",
+      "channelId": "UCXYu2YyFDhxRMiIGq7acOZA",
+      "publishedAt": "2026-11-12T09:50:26Z",
+      "description": "👇絶対やっておきたいMuseのタスク管理設定！\nhttps://youtu.be/h5AHFNIBFyc?si=oP02cTAiydl6XCAt\n\n👇Meta Museのスペース機能でアプリを生成！作り方を徹底解説！\nhttps://youtu.be/M9M1lgk3cao?si=OFp7PXhJZq-XNTeL\n\n👇【注意】Meta Muse課金で知っておくべきこと！\nhttps://youtu.be/fN0eB25OCfg?si=mYJ6bRPzDCbWynzO\n\n👇【超便利】Meta Musa「サイドチャット」を解説！【自動生成に必須】\nhttps://youtu.be/6unlsdoZMmo?si=3odkHJespCP8NKft\n\n👇「Meta Musa」でループさせて高品質なAIスライドを自動生成する方法！\nhttps://youtu.be/eOYlleN0pJo?si=Lu_UZ-A9wb8_rA2K\n\n👇Meta Museを自動ループ生成させる方法！\nhttps://youtu.be/bLwIOXny1bU?si=BlSp5sDLZzTZrEZo\n\n👇【一気通貫】Meta Museで動画・Youtube概要欄・サムネイルを自律生成\nhttps://youtu.be/yoTskSNu5RQ?si=JXSF4OihmQDs77u1\n\n👇Meta Museで更に高品質な動画を生成する方法【応用編】\nhttps://youtu.be/YPl2PX0Xok0?si=vgJzwhsqk0SrhfFJ\n\n👇Meta Museで長編動画生成の裏技\nhttps://youtu.be/9Yie_oT4LYM\n\n👇ChatGPT dotsの解説はこちら\nhttps://youtu.be/iWmUuoaaIFw?si=8qKKJOZUsURiWnfu\n\nMeta Muse（メタミューズ）に、いつものメールから仕事を頼める「Museメール」。今回は、専用メールアドレスの登録方法から、届いたメールの要約、返信文の下書き、送信前の確認まで、どんな場面で使えるかを解説します。\n\n■ Museメールの始め方\nMeta Museのチャットで「Museメールを使いたいので案内して」と伝え、専用アドレスの登録と認証を進めた流れを紹介します。Muse専用アドレスにメールで依頼する方法と、普段使っているGmailなどのアカウントを連携する方法にも触れます。\n\n■ メールから調査や返信の仕事を渡す\n届いたメールを転送して要点を整理してもらったり、調査を依頼したり、問い合わせへの返信案を作ってもらったり。やり取りが始まったメール画面からそのまま仕事を渡せるのが便利です。普段の作業はチャットで続け、重要な連絡だけメールで受け取るといった使い分けも紹介します。\n\n■ 返信と外部送信で確認の流れはどう違う？\n動画で取り上げた個人テストの報告例では、本人への返信は承認なしで行われ、外部宛ての送信は承認画面で保留されました。受信メールにAIへの指示が紛れ込む「プロンプトインジェクション」にも触れ、専用アドレスの扱い方や、送信前に宛先・本文・添付を確認するポイントを解説します。\n\n■ 自作のサンプルアプリでメール対応を実演\n後半では、Museメールの運用をイメージしやすくするために作ったサンプルアプリを操作します。受信箱と送信履歴の見方、問い合わせや取材依頼に合わせた返信のひな形、メール対応時に参照する安全ルールを紹介します。どこまでAIに任せ、どの段階で人が確認するかを考えながらご覧ください。\n\n■ プロフィール\nワンダー・佐藤源彦（さとう もとひこ）\n1977年生まれ\nMBBS & AI共創イノベーション主催。\n医療系の研究所、心理学の研究所の勤務を経て独立し、現在は生成AI（ChatGPT、Claude、Geminiなど）と心身に関する研究をしている。\n主著『かんたんプロンプト』（芸術新聞社）『東洋医学と潜在運動系』（たにぐち書店）、2年間専門誌に連載、論文執筆などの執筆業を行いつつAI共創ライティングを開発中。\n心理学・カウンセリング・コーチングをAIに応用しAI共創メソッドを開発。\nAI共創エージェント構築の方法を個人・企業に提供。\nAIスクール・AI企業研修・AIアプリ開発などを行う。\n\n✅ワンダー佐藤総合リンク\nhttps://linktr.ee/motohiko.sato\n\n✅ワンダー佐藤源彦・著『かんたんプロンプト』（芸術新聞社から刊行）\n※プロンプトエンジニアリングの基本から応用、タスク実行までを網羅\nhttps://amzn.asia/d/80zVtv8\n\n✅note記事\nhttps://note.com/mbbs\n※ChatGPT・Claude・Gemini・NotebookLMなどを解説\n※メンバーシップはじめました！\n\n✅AI共創イノベーション（AIスクール・AI企業研修・AIアプリ開発のサイト）\nhttps://mbbs-ai.jimdofree.com/\n\n✅Facebook\nhttps://www.facebook.com/motohiko1977\n※リクエスト申請前にメッセージください\n\nサテライトチャンネル\nhttps://www.youtube.com/@mindbody_ai\n\n■ タイムライン\n00:00 Museメールの登録方法・使い方・安全性\n00:32 自作のメール管理アプリを先に紹介\n03:30 メールからAIに仕事を渡すという使い方\n04:54 Meta Museのチャットとメールの役割\n05:54 Museメール専用アドレスの登録と認証\n06:44 普段の仕事でメールとチャットをどう使い分けるか\n07:45 要約・調査・返信文づくりの活用例\n09:33 試して分かった返信と外部送信の承認の違い\n10:33 AI用のメールアドレスを分ける考え方\n11:26 プロンプトインジェクションと専用アドレスの扱い\n12:18 自分でできる安全対策と送信前の確認\n13:47 他のAIエージェントとの違い\n14:54 サンプルアプリでムースに仕事を依頼\n16:25 受信箱での返信操作と送信履歴\n17:05 問い合わせや取材依頼に合わせた返信テンプレート\n18:46 メール対応の安全ルールを設定\n19:38 差出人・ひな形・自動返信の設定\n20:10 まとめ｜まずは自分とMuseの間で試す\n\n#MetaMuse #Museメール #メタミューズ #AIエージェント #メール自動化 #AI共創\n#ai #ミューズメール #Muse使い方 #ミューズメール登録方法",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/Bh-LGBOkmHA/mqdefault.jpg",
+      "durationSec": 1278,
+      "views": 3782,
+      "likes": 29,
+      "comments": null,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
+      ]
+    },
+    {
+      "id": "bJl-tH8Uqo0",
+      "url": "https://www.youtube.com/watch?v=bJl-tH8Uqo0",
+      "title": "【続報】ミセス『シンデレラ』のアニメ、作り方が判明｜手描き＋モーキャプ＋AI #shorts",
+      "channel": "放課後AIニュース",
+      "channelId": "UCBrKgGzpEoFsn0kH6Sv00Hg",
+      "publishedAt": "2026-10-30T03:00:14Z",
+      "description": "Mrs. GREEN APPLE の新曲「シンデレラ」のMV、アニメの部分に「AIっぽい」という声が出ていた件の続報です。\n10/26 のメイキング公開に合わせて出た説明によると、アニメは「オリジナルのキャラクターと背景を手で描き、モーションキャプチャーで撮った動きをAIに読み込ませ、最後に人の手で細かく調整した」とのこと。手描きとAIの両方を使った作り方でした。\n一方で「ディズニーに似てる」という声は今も続いています。くわしい解説は関連動画の本編から。\n\n【訂正】前回のショートと本編で「アニメの作り方は説明されていない」とお伝えしましたが、10/26 の時点で説明が出ていました。確認が足りず失礼しました。\n\n・MVの映像は紹介・批評のための引用です（音は使っていません）\n・声は読み上げ用の合成音声です\n\n出典\nMrs. GREEN APPLE「シンデレラ」Official Music Video https://youtu.be/SWzfm9PED6s\nORICON NEWS（2026/10/26）https://www.oricon.co.jp/news/2488760/full/\nBARKS（2026/10/26）https://barks.jp/news/1100625/\nSmartFLASH（2026/10/29）https://smart-flash.jp/entertainment/entertainment-news/436282/\n\n本編：ミセス『シンデレラ』MVが賛否｜キャバ嬢の設定と、アニメのAI疑惑。何が起きてる？ https://youtu.be/E0s7a6q_KkY\n\n#MrsGREENAPPLE #ミセス #シンデレラ #生成AI #放課後AIニュース #shorts",
+      "tags": [
+        "AI",
+        "Mrs. GREEN APPLE",
+        "シンデレラ",
+        "ミセス",
+        "放課後AIニュース",
+        "生成AI"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/bJl-tH8Uqo0/mqdefault.jpg",
+      "durationSec": 20,
+      "views": 3659,
+      "likes": 20,
+      "comments": 4,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "charanime"
+      ]
+    },
+    {
       "id": "zfbLG9ufymU",
       "url": "https://www.youtube.com/watch?v=zfbLG9ufymU",
       "title": "【AIマスター講座 #5】ChatGPTの使い方が全部わかる｜画像・GIF・調べものまで画面で解説",
@@ -2273,6 +3339,87 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "AP8cPhc-0wU",
+      "url": "https://www.youtube.com/watch?v=AP8cPhc-0wU",
+      "title": "【OpenAI新機能】会社やお店をChatGPTに登録できる新機能「Business Hub」｜専用AIのBusiness Agentと広告まで全解説",
+      "channel": "AI market",
+      "channelId": "UCswNRnSQstgW_ePcJWx4zXQ",
+      "publishedAt": "2026-11-12T15:00:14Z",
+      "description": "ChatGPT に、会社やお店の窓口を置ける新機能「Businesses in ChatGPT」（ベータ版）が登場しました。11月10日に OpenAI が発表し、会社の情報を登録・管理できる「Business Hub」、ChatGPT の中でどう話題にされているかの分析、お客さんの質問に答える会社専用の AI「Business Agent」がそろっています。\nこの動画では、OpenAI の公式の記事・紹介動画・Business Agent のルール（ポリシー）を原文で確かめながら、登録のしかた、分かる数字、Agent の中身、広告とのつながり、日本の会社への影響を整理しました。\n\n▼ この動画でわかること\n・何が発表された？（ベータ版・毎週12億人・3つの中身）\n・会社の登録のしかた（確認・情報の更新・商品フィード・Shopify）\n・分かる数字（言及の数・クリック数・発見のテーマ・プライバシー）\n・Business Agent とは？（会社専用の AI・はっきり印が付く・今は米国だけ）\n・守るルール（なりすまし禁止・ない商品や口コミを作らない・急かさない・個人情報を聞かない）\n・広告とのつながり（Agent をスポンサーして ChatGPT の広告の行き先に）\n・日本の会社と私たちへの影響（登録できる地域・今からできること・見分け方）\n\n▼ 目次（完成品_自動_v3.mp4・14分21秒の実測）\n00:00 OP\n01:06 何が発表された？\n03:00 会社の登録のしかた\n05:02 分かる数字\n06:49 Business Agentとは？\n08:43 守るルール\n10:14 広告とのつながり\n11:32 日本の会社と私たちへの影響\n13:30 注意点\n13:53 まとめ\n\n▼ この動画について\n・ベータ版のため、中身や使える国は変わることがあります\n・このチャンネルでは会社の登録はしていません。画面は OpenAI の公式の動画・記事・X のものです\n・確認の方法・広告の数字などの一部は報道によるものです\n・Business Agent は会社の立場で話す AI です。大事な買い物はほかの情報も合わせて確かめてください\n\n#ChatGPT #OpenAI #BusinessHub #BusinessAgent #集客 #LLMO #生成AI #AIニュース",
+      "tags": [
+        "AIMARKET",
+        "AI",
+        "AIニュース"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/AP8cPhc-0wU/mqdefault.jpg",
+      "durationSec": 862,
+      "views": 3436,
+      "likes": 27,
+      "comments": 2,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "chatgpt"
+      ]
+    },
+    {
+      "id": "fj-N5BgTqP8",
+      "url": "https://www.youtube.com/watch?v=fj-N5BgTqP8",
+      "title": "Muse Phoneを解説！Meta MuseのAIアバターと電話できる！（Muse Charm（ミューズチャーム）も少し解説）",
+      "channel": "AI共創イノベーションサテライト@ワンダー佐藤源彦(ChatGPT Claude Gemini 等)",
+      "channelId": "UCV2RxNfnHOlAqoRdWZX_TDQ",
+      "publishedAt": "2026-11-13T11:16:17Z",
+      "description": "👇Meta Museの関連動画はこちら！\nhttps://www.youtube.com/watch?v=WtExvb3LTz0&list=PLWDk4qEoYbBk&index=1\n\n👇メインチャンネルは私自身が解説をしています！\n@AICoCreation \n\n自分のAIパートナー「Muse」と、電話のように声で話せる。しかも、アバターが表情や身ぶりで反応してくれる。\n\n今回は、Meta Museの音声会話と表情豊かなアバターを、ワンダーくんと紬ちゃんがわかりやすく解説します。\n\n電話アイコンからの始め方や会話画面の見方、声やアバターのカスタマイズに加えて、会話しながら調査などの作業を進めるAIエージェントとしての可能性も紹介。声とアバターの動きを同期させる技術や、他の音声AIとの違いも見ていきます。\n\nまた、Museと直接話す音声会話と、Museが店舗などに電話をかける代理電話はどう違うのか、料金や利用条件、プライバシーの注意点も整理します。\n\n最後には、Meta Connectで紹介された小型デバイス「Muse Charm」も紹介。アバターと音声を通じてMuseと関わる、持ち歩けるAIの可能性を考えます。\n\n▼タイムライン\n00:00 Museと話す、新しい体験\n00:46 音声会話の始め方と提供地域\n02:03 声とアバターを、自分好みに\n02:43 話しながら、仕事も進める\n03:29 声と動きは、どう同期する？\n04:27 ほかの音声AIと、何が違う？\n05:10 技術評価で、分かること・限界\n05:47 料金・利用条件・安全性\n06:39 相棒になるAI、その可能性\n07:23 最後に、Muse Charm\n\n※動画で紹介するMuse本体のプラン料金は、音声通話の1分あたりの料金ではありません。音声会話の日本での提供状況や利用条件、Muse Charmの詳細は今後変更される場合があります。情報は動画の制作時点のものです。\n\n▼参考資料\nMeta公式：音声会話とアバター\nhttps://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/\n\nMeta AI Research：リアルタイムアバターの技術解説\nhttps://research.meta.ai/blog/bringing-your-muse-to-life\n\nMeta公式：Museの日本提供\nhttps://about.fb.com/ja/news/2026/10/muse-personal-ai-agent-launches-in-japan/\n\nMeta Connect 2026\nhttps://about.fb.com/ja/news/2026/09/meta-connect-2026-everything-we-announced/\n\n#MetaMuse #MusePhone #MuseCharm #音声AI #AIエージェント #生成AI",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/fj-N5BgTqP8/mqdefault.jpg",
+      "durationSec": 494,
+      "views": 3390,
+      "likes": 20,
+      "comments": null,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
+      ]
+    },
+    {
+      "id": "69-LoffnUZw",
+      "url": "https://www.youtube.com/watch?v=69-LoffnUZw",
+      "title": "【Amazon広告】新機能「P+・B+」とは？AIを活用して利益を最大化する方法",
+      "channel": "たなけんのEC大学",
+      "channelId": "UC8Om2b7cbbdN8pJK8h-QiIg",
+      "publishedAt": "2026-11-14T11:00:05Z",
+      "description": "今回は「AI × Amazon広告 AI時代の新たな選択肢」というテーマでお話しいたしました。\n事業者の方の参考になれば幸いです。\n\n✅たなけんのEC大学の公式LINEはこちら\nhttps://lin.ee/U4Ldq8P\n\nLINEでお友達になると有料級のスペシャルコンテンツをお届けします📖\n☑動画だと紹介仕切れなかった特典資料\n☑YouTubeでは言えない話\n☑EC運用における最強のTips\n\n📍動画目次\n00:00 ダイジェスト\n01:33 スポンサー広告の限界\n06:30 AIソリューション P+とB+\n11:51 P+B+の使い分け\n14:40 P+B+の運用改善\n23:22 P+B+の運用事例\n26:36 まとめ\n\n■GROOVEの中途採用はこちらから\nhttps://recruit-grooveinc.jp/\n\n■GROOVEへのお問い合わせはこちらから\n↓↓↓↓\nhttps://grooveinc.jp/contact_b2b/\n\n■TikTok Shop解説シリーズ\n① 【2026年最新版】TikTok Shop入門編｜今さら聞けないTikTok Shopの基本と売り方の全体像：https://youtu.be/PQYB4illYHk\n② 【売れるアカウント設計図】自社 × クリエイター × ○○で無名ブランドが半年で月商2,000万：https://youtu.be/ecc_VbSSgfo\n③ 【2026年最新】ショッパブルビデオでバズを連発する考え方を0からすべて教えます！：https://youtu.be/zvCMRXB-Xcw\n④ 【TikTok shopの勝ち方】インフルエンサーで売れると思うな！インフルエンサーを〇〇に使う企業が売上爆増中：https://youtu.be/x3ophtgJIuc\n⑤ TikTok Shopの売上に繋がるライブ必勝法。日本でも通用する中国で最も成果が出たライブ構成・トークフレーム：https://youtu.be/joXSsa8mk0U\n\n■YouTubeチャンネル登録はこちらから\n   / @ec8531\n \n■たなけん（田中 謙伍）のプロフィール\n\nたなけん（田中 謙伍）\n株式会社GROOVE 代表取締役\n慶應義塾大学環境情報学部卒業後、新卒採用1期生として、\nアマゾンジャパンに入社、出品サービス事業部にて2年間トップセールス。\nマーケティング担当としてスポンサープロダクト広告の立ち上げを経験。\n\nAmazonコンサルティングの株式会社GROOVEおよびAmazon D2Cメーカーの株式会社AINEXTを創業。\n立ち上げ6年で2社合計年商50億円を達成。\nGROOVEではAmazon D2Cの成功ノウハウをメーカーに提供することで、\n日本のモノづくりをアップデートすることをミッションに掲げている。\n体操競技と鉄道とボドゲが好き。\n\n■株式会社GROOVE\nhttps://grooveinc.jp/​​\n\n✅各種SNSアカウントもチェック👀\n\n■たなけんのX（旧Twitter）\nhttps://twitter.com/amazonlabo​​\n\n■たなけんの公式LINE\nhttps://lin.ee/U4Ldq8P\n\n■お仕事の依頼・協業・メディア出演はこちらから\nご依頼はX（旧Twitter）の DM または下記お問い合わせフォームにてお願いいたします。\nhttps://grooveinc.jp/contact/​​\n\n- - - - - - - - - こちらの動画もご覧ください - - - - - - - - - \n\n【初公開】Amazonセール・ランキングで失敗しない、\"元Amazon\"が推奨する正しい買い方を教えます\nhttps://youtu.be/yg9UBnrO10I\n\n【永久保存版】元Amazonの最強ECマーケターが教えるAmazon完全講義\nhttps://youtu.be/v3ZM-8sFCLc\n\n『そのキーワード設定じゃ売れないかも... Amazonの検索アルゴリズムを解説!』\nhttps://youtu.be/VrPFxmhVUAk \n\n『Appleも採用している”バカ売れ理論” 実はAmazonでも応用できます』\nhttps://youtu.be/5yB_djyS38w\n\n『売れすぎて困った…  ”影響力の武器”に学んだ、正しいLPの作り方』\nhttps://youtu.be/TeMxjmeDP4s\n\n『”無名”のシャンプーブランドがAmazonランキング上位を取れるワケ。』\nhttps://youtu.be/0DWSts0yMsw\n\n※免責事項\n本動画でご紹介している内容は、細心の注意を払って制作しておりますが、その情報の完全性や正確性を確約するものではございません。内容を参考にされる際は、ご自身の判断にてお願いいたします。 また、紹介しているサービスやPR先に関連して生じたトラブル等についても、当方では責任を負いかねますのでご了承ください。 \n\n#EC #Amazon #楽天市場 #eコマース",
+      "tags": [
+        "EC",
+        "Amazon",
+        "Amazon EC",
+        "たなけん",
+        "Amazonマーケター",
+        "GROOVE",
+        "元Amazon",
+        "ECマーケティング",
+        "楽天市場"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/69-LoffnUZw/mqdefault.jpg",
+      "durationSec": 1678,
+      "views": 3352,
+      "likes": 28,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new"
+      ]
+    },
+    {
       "id": "K-w9Mbvj3co",
       "url": "https://www.youtube.com/watch?v=K-w9Mbvj3co",
       "title": "【AIマスター講座 #6】Claudeの始め方と初期設定7つ｜学習させない設定まで全解説",
@@ -2296,6 +3443,28 @@ window.SNAPSHOT = {
       "lang": "ja",
       "cats": [
         "claude"
+      ]
+    },
+    {
+      "id": "rS37YOG8myU",
+      "url": "https://www.youtube.com/watch?v=rS37YOG8myU",
+      "title": "【無料】Meta Museの仕事での活用事例６選｜頼み方を実演つきで大公開",
+      "channel": "れい_非エンジニアのAI仕事術",
+      "channelId": "UCupbIpinWdOqImj5rp0xiiQ",
+      "publishedAt": "2026-11-18T10:15:29Z",
+      "description": "🏆 ↓本動画の限定特典（無料のAI秘書Museに、コピペで仕事を任せられる依頼文14選）はこちら↓ 🏆\nhttps://utage-system.com/line/open/gLmsmfC6JnYF?mtid=eYFawN8qGkqv\n\n※AI講座をご希望の方やお仕事のご依頼は最下部のリンクからお願いします！↓\n\n🏆 ⬇︎無料LINE登録で最新AI特典をプレゼント⬇︎ 🏆\n🎁全４回2時間超えの動画講義\n【れい式 Claude Code副業講座】\n🎁30個以上の超実践的特典をひとまとめにした\n【AI収益化スターターキット】\nこれらを無料配布中！\n\n🎁 さらに！個別相談参加者限定 🎁\n最短で成果を出すためのステップを完全網羅した\n【AI収益化実践会員サイト】へ特別ご招待！\n\n【⬇️無料受け取り・詳細はこちら⬇️】\nhttps://utage-system.com/line/open/gLmsmfC6JnYF?mtid=eYFawN8qGkqv\n\n✅ 動画で解説している内容\n\nMetaから無料で使えるパーソナルAIエージェント「Muse」がついに日本でも使えるようになりました！\nこれまでAIエージェントは有料プランが中心でしたが、Museは無料のままでも、秘書のような業務から面倒な手続きまでかなりの作業を任せられます。\n\n「普通のChatGPTに頼むのと何が違うの？」「AIエージェントと言われても、仕事で何を頼めばいいかわからない…」という方に向けて、Museの仕組みや使い始める前の安全な初期設定、そして仕事ですぐに使える具体的な活用法6選をわかりやすく解説しています。\n\n✅ この動画を見るとわかること:\n\n✔ 普通のChatGPTとMetaのAIエージェント「Muse」の決定的な違い\n✔ 無料プランで使える範囲と、仕事で使う前に必ず変えておきたい初期設定（学習オフ・アクセス許可）\n✔ Gmail・カレンダー連携による「返信下書き＆予定抽出」や「毎月の支払い一覧・見直し」の自動化\n✔ ホテル・会場の比較表作成、配信停止や問い合わせ代行、サイトの見回り、Instagram保存投稿の活用まで6つの実務活用法\n✔ 最後の「送る・申し込む・買う」ボタンだけを自分で押して、安全にAIへ仕事を任せる考え方\n\n動画内で紹介している限定特典「無料のAI秘書Museに、コピペで仕事を任せられる依頼文14選」も公式LINEからすぐに受け取れます。ぜひ名前や条件を書き換えて、今日からご自身の仕事で試してみてください！\n\n【⬇️LINE無料登録はこちら⬇️】\nhttps://utage-system.com/line/open/gLmsmfC6JnYF?mtid=eYFawN8qGkqv\n\n◆━━━━━━━━━━━━━━━━━━◆\n✅ X: https://x.com/ReiBiz\n→副業×AIを数字と構造で分析!\n\n✅ Instagram: https://www.instagram.com/rei_aibiz/\n→サクッと学べるAI活用術をショート動画で!\n\n✅ Threads:https://www.threads.com/@rei_aibiz\n→最新AI情報とぼくの解釈を毎日チェック！\n\n✅ Substack:https://reiai.substack.com/subscribe\n→AIでのキャリアや副業の戦略に関するぼくの考えを無料でメルマガ配信中！\n◆━━━━━━━━━━━━━━━━━━◆\n\n↓AI講座をご希望の方、お仕事のご依頼は以下からご連絡お願いします！↓\nhttps://rei-sato.com\n\n✅ Keywords\n#Meta #Muse #AIエージェント #AI活用 #業務効率化 #AI仕事術 #無料AI #ChatGPT #ClaudeCode #AI副業",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/rS37YOG8myU/mqdefault.jpg",
+      "durationSec": 1034,
+      "views": 3190,
+      "likes": 18,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
       ]
     },
     {
@@ -2340,6 +3509,28 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "7t33rgZvVjo",
+      "url": "https://www.youtube.com/watch?v=7t33rgZvVjo",
+      "title": "iOS 27純正メモの新機能3選｜見出しリンク・分割線・AIコピペ",
+      "channel": "ぽむ",
+      "channelId": "UC8ICHL7BCQAjLuCWRJZvxLQ",
+      "publishedAt": "2026-11-15T02:01:15Z",
+      "description": "@pom_iphone👈QOLが上がるiPhone活用術はこちら\n\nいつもいいねやコメントしていただきありがとうございます！✨\n\niOS 27の純正メモに、長いメモを見やすくする新機能が3つ増えました。\n\n①見出しへのリンク\n文字を選ぶ→「リンクを追加」→「セクションへのリンク」→見出しを選んで右上のチェック\n※飛べるのは「見出し」にした行だけ\n\n②分割線\n空いた行をタップ→もう一度タップ→右端の矢印→「分割線を挿入」\n\n③AIの答えをそのまま貼る\nChatGPTの答えをコピー→メモにペーストすると、「*」などの記号が太字や箇条書きに変わります\n\n※iOS 27以降で使えます\n※2026年11月時点の情報です\n\nーーー自己紹介ーーーー\nどうも！ぽむです！\n\nこのアカウントでは\n【iPhoneで毎日を“デキる”に変える】\nをモットーに、\nQOLが上がるiphone活用術を発信しています\n\n@pom_iphone\n👆フォローはこちらから\n\n#純正メモ\n#iOS27\n#iPhone便利術\n#iPhone活用術\n#iPhone",
+      "tags": [],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/7t33rgZvVjo/mqdefault.jpg",
+      "durationSec": 73,
+      "views": 2976,
+      "likes": 47,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new"
+      ]
+    },
+    {
       "id": "9-9brS4hh8I",
       "url": "https://www.youtube.com/watch?v=9-9brS4hh8I",
       "title": "【完全攻略】Museの新機能10選｜日本で使える・まだ使えないをiPhoneで全部確認",
@@ -2359,13 +3550,172 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/9-9brS4hh8I/mqdefault.jpg",
       "durationSec": 545,
-      "views": 2883,
+      "views": 2911,
       "likes": 25,
       "comments": 1,
       "live": "none",
       "lang": "ja",
       "cats": [
-        "new"
+        "new",
+        "muse"
+      ]
+    },
+    {
+      "id": "gD1PxbhjEdY",
+      "url": "https://www.youtube.com/watch?v=gD1PxbhjEdY",
+      "title": "【アニメ】AIショート動画の作り方｜テンプレートから、顔出しなしでおしゃれなショート",
+      "channel": "あずきちゃんねる",
+      "channelId": "UCDJ0AMdC4GB1ndVKsCknyCg",
+      "publishedAt": "2026-11-17T22:00:34Z",
+      "description": "▼このリンクから入ると、Higgsfield のサブスクが最大50%オフ\nhttps://higgsfield.ai/s/higgsfield-shorts-studio-yt-azukichannel3-kqpAUA\n\n好きなショートを「お手本」にして、撮影なしで自分のキャラ・AIインフルエンサーのショートを作りました。\nClaude に頼むだけで、お手本の分析から台本・声・字幕の編集まで。あなたなら、どのショートをお手本にしますか？\n\n0:00 撮影なしで、こんなショートが作れる\n0:41 なぜショート動画から？\n1:24 Shorts Studio で何ができる？\n1:52 作る前に決める4つ（お手本・キャラ・声・台本）\n2:32 登録と Claude へのつなぎ方・無料トライアル\n3:37 お手本の選び方\n4:00 撮影なしで、自分が出るショート\n5:51 台本おまかせで、テンテンのショート\n6:57 AIインフルエンサーでショートを作る\n8:10 始まり方を3パターン試す\n9:05 確かめる・直す・投稿する\n9:29 おすすめのプラン\n\n■Higgsfield Shorts Studio とは\n好きなショートをお手本に、自分の顔や AI インフルエンサーで、台本・声・スタイルを自分向けに作れる機能です。Claude に Higgsfield をつなぐと、チャットから使えます。\n\n🆓 無料トライアル：Plus が3日間 $0（Claude で使える100クレジット付き）。支払いカードの登録が必要で、解約しない場合はサインアップ時の価格で Plus の有料プランに自動で移ります。解約は、終わる前に Claude に「cancel auto-renewal」と伝えてください。\n\n※この動画は Higgsfield の提供です。\n\n■この動画のテーマ\nhow to make viral reels, how to go viral on YouTube Shorts, AI shorts, AI reels creator, how to make YouTube Shorts with AI, AI video generator, AI avatar, AI influencer, AI UGC, AI reels, make YouTube Shorts with Claude, Claude video generation, Higgsfield MCP, AI talking avatar, viral YouTube Shorts with AI, faceless YouTube Shorts with AI, YouTube shorts tutorial\n\n#AIショート動画 #AIインフルエンサー #顔出しなし #Higgsfield #Claude #ショート動画の作り方\n\n◆X\nhttps://x.com/azukichan_ai_\n\n◆HP\nhttps://azukichannel.com/\n\n【お仕事のお問い合わせ】\npromtive.info@gmail.com\n\n※一部リンクから購入いただくと、チャンネルの運営サポートにつながります",
+      "tags": [
+        "AIショート動画 作り方",
+        "AIインフルエンサー 作り方",
+        "顔出しなし ショート",
+        "ショート動画 AI",
+        "Claude 動画生成",
+        "Higgsfield",
+        "Higgsfield MCP",
+        "how to make viral reels",
+        "how to go viral on YouTube Shorts",
+        "AI shorts",
+        "AI reels creator",
+        "how to make YouTube Shorts with AI",
+        "AI video generator",
+        "AI avatar",
+        "AI influencer",
+        "AI UGC",
+        "AI reels",
+        "make YouTube Shorts with Claude",
+        "Claude video generation",
+        "AI talking avatar",
+        "viral YouTube Shorts with AI",
+        "faceless YouTube Shorts with AI",
+        "YouTube shorts tutorial"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/gD1PxbhjEdY/mqdefault.jpg",
+      "durationSec": 617,
+      "views": 2875,
+      "likes": 51,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "charanime"
+      ]
+    },
+    {
+      "id": "qpKbDvdh3w8",
+      "url": "https://www.youtube.com/watch?v=qpKbDvdh3w8",
+      "title": "【今日からできる】ChatGPTに革命！新機能「Images 2.6」の画像だけでインスタ×楽天ROOMで稼ぐAI副業の4ステップ【AIアフィリエイト】",
+      "channel": "ルカ【AIアフィリエイト攻略】",
+      "channelId": "UCvm5yDDwsHbgYm-HaRtZJcg",
+      "publishedAt": "2026-11-16T09:00:25Z",
+      "description": "🎁【無料】超豪華7大特典をプレゼント\nhttps://i.ruka-line.workers.dev/?r=a17d\n↑ルカの公式LINEを友だち追加すると、受け取りの案内がすぐに届きます。\n\n▼LINE登録者限定「超豪華7大特典」\n・1日10分・スマホ1台 楽天ROOM×ChatGPT 完全スタートキット\n・初心者必見 絶対登録した方がいいASP3選\n・ガチで売れるアフィリエイトキラーフレーズ300選\n・毎月爆売れ 高単価案件カレンダー\n・コピペで使えるプロフィール文テンプレ12種\n・知らないと凍結 垢BAN対策マニュアル（TikTok・Instagram・YouTube）\n・90日で月100万を狙う 極秘アフィ攻略マニュアル\n\n今日の動画でChatGPTに送った指示の文は、動画の最後でお伝えしたキーワードをLINEのトークで送って、まるごと受け取ってください。\n▼受け取りはこちら（ルカの公式LINE）\nhttps://i.ruka-line.workers.dev/?r=a17d\n\n公式LINEの特典には、ショート動画の作り方も、まとめておきました。\n\n━━━━━━━━━━━━━━━━━━\n\n\n【お仕事のご依頼・ご相談】\nこちらのメールまでご連絡ください。\n📩 rukaai1207@gmail.com\n\n#ChatGPT #インスタアフィリエイト #楽天ROOM #AIアフィリエイト #アフィリエイト #インスタ副業 #AI副業 #副業 #インスタ #画像生成",
+      "tags": [
+        "4ステップ",
+        "AIアフィリエイト",
+        "AI副業",
+        "ChatGPT",
+        "ChatGPT Images 2.6",
+        "ChatGPT Plus",
+        "ChatGPT インスタ",
+        "ChatGPT 使い方",
+        "ChatGPT 副業",
+        "ChatGPT 楽天ROOM",
+        "ChatGPT 画像",
+        "ChatGPT 画像生成",
+        "ChatGPT 稼ぐ",
+        "Images 2.6",
+        "OpenAI",
+        "SNS副業",
+        "TikTok",
+        "my ROOM",
+        "アフィリエイト",
+        "インスタ",
+        "インスタ ハイライト",
+        "インスタ プロフィール",
+        "インスタ 保存",
+        "インスタ 投稿",
+        "インスタ 楽天ROOM",
+        "インスタ 画像",
+        "インスタ 稼ぐ",
+        "インスタアフィリエイト",
+        "インスタ副業",
+        "コレクション",
+        "ショート動画",
+        "ストーリーズ",
+        "ストーリーズ リンク",
+        "デザイン",
+        "ハイライト",
+        "プロフィール リンク",
+        "ペット用品",
+        "保存",
+        "保存したくなる",
+        "副業",
+        "指示の文",
+        "新機能",
+        "楽天ROOM",
+        "楽天ROOM インスタ",
+        "楽天ROOM コレクション",
+        "楽天ROOM 稼ぐ",
+        "楽天アフィリエイト",
+        "楽天市場",
+        "爪とぎ",
+        "猫",
+        "猫グッズ",
+        "画像の投稿",
+        "画像生成",
+        "発見",
+        "稼ぐ"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/qpKbDvdh3w8/mqdefault.jpg",
+      "durationSec": 1270,
+      "views": 2727,
+      "likes": 20,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "chatgpt"
+      ]
+    },
+    {
+      "id": "eeyEqkmbSNY",
+      "url": "https://www.youtube.com/watch?v=eeyEqkmbSNY",
+      "title": "【保存版】Meta Museの設定ガイド｜学習オフ・確認の強さ・連携の外し方まで",
+      "channel": "AI速報ラジオ",
+      "channelId": "UC3tZn62rdPISyU-npH9yDyg",
+      "publishedAt": "2026-11-15T02:46:32Z",
+      "description": "Meta Museの設定(Muse 設定)で、最初に変える3か所を解説します。話した内容が広告・学習・担当者にどう扱われるかを公式ヘルプで確かめ、学習オフ・確認の強さ・Gmailの連携の範囲を決めて、安心してMuseに任せられます。\nMuse 設定の3か所は、データコントロール(学習)・アクセス許可(確認の強さ)・コネクター(Gmailは読み取り専用)。見終わると、今夜3分で自分で決められ、消すときの「忘れて」の使い方、パスワードとカードを預けていいかも分かります。2026-11-14時点の画面と公式ヘルプをもとにしています。\n元記事(Meta公式プライバシーのヘルプ): https://www.meta.com/help/artificial-intelligence/1047255454427887/\n\n■ 利用クレジット\n配布立ち絵制作：pasuteka\nVOICEVOX：春日部つむぎ\nVOICEVOX：ずんだもん\n\n■ チャプター\n0:00 Muse 設定、最初に変える3か所を結論から(Gmailをつなぐ前に)\n0:38 話した内容はどう使われる？広告・学習・担当者のアクセス\n3:16 Muse 設定の最初の3か所(学習オフ・アクセス許可・コネクター)\n6:28 Museの消し方(削除・「忘れて」・コネクターの外し方・リセット)\n8:55 パスワードとカードは預けていい？(セキュアストレージ・ウォレット)\n10:51 今夜の3分、Gmailをつなぐ前にやること\n\n■ 今夜の3分\n1. 設定 → データコントロール → 「AIモデルの改善に協力する」を、自分で決める(オフにすると過去のやり取りにも効く)\n2. 設定 → アクセス許可 → 慣れるまで「常に確認」にする(1週間使って、うるさければ「一部のアクションの前のみ確認」に戻す)\n3. 設定 → コネクター → Gmailは「読み取り専用」でつなぐ(外したら「Gmailの情報は忘れて」までセットで)\nパスワードや人の秘密はチャットに書かない。パスワードは設定のセキュアストレージへ。\n\n■ 今回のポイント\n・話したことの扱い: 会話は広告に使われない(Metaのヘルプに明記)。学習は既定でオンで、自分で切れる。担当者のアクセスは今は運用のルールで制限している段階で、技術で塞ぐMuse Confidential VMは年内予定でまだ\n・最初に変える3か所: 学習(データコントロール)、確認の強さ(アクセス許可。承認の選択肢は5つで、次から聞かなくなるのは「このサイトを許可」と「常に許可」)、連携の範囲(コネクター。Gmailは読み取り専用から)\n・消し方は3段: 1つずつ削除、話題ごとに「忘れて」、全部ならMuseをリセット(元に戻せない)。削除しても学習した情報を覚えていることがあるので、「忘れて」と言って、覚えていることを聞いて確かめる\n・パスワードとカード: パスワードはセキュアストレージならMuseは中身を見ずにログインに使う。ウォレット(Link by Stripe・Shop Pay)は日本向けの公式資料が見つからないので、今はカードを入れなくていい\n・Metaが自分で公表した件: バグ報奨金は約120万ドル。最高額の30万ドルは発売前のMeta社内テスト用の環境で、会話が見えうる不具合(修正済み)\n・公式に書いていないこと: 会話の保存期間、セキュアストレージの守り方の詳しい仕組み。分からない所は預けない側で\n\n■ 関連動画\n・Meta Museの使い方10選、始め方・初期設定・招待コードまで16分で解説: https://www.youtube.com/watch?v=gLZfoXTPy_w\n・Museのスペースで自分専用アプリを作ってみた｜音声通話・アバターの新機能も解説: https://www.youtube.com/watch?v=jgAtpYCnAx4\n・無料のMuse、前の頼みをちゃんと引き継いだ｜Active MemoryとActive Focusを試した: https://www.youtube.com/watch?v=J8mRewhG5aw\n\n■ 参考にした公式ヘルプ・出典(2026-11-14時点の画面と公式ヘルプ)\n・Muse プライバシーポリシー(適用日2026-09-17): https://muse.ai/privacy\n・Muse 利用規約: https://muse.ai/terms\n・Metaヘルプ(プライバシー・広告・削除・リセット・セキュアストレージ・Confidential VM): https://www.meta.com/help/artificial-intelligence/1047255454427887/\n・Metaヘルプ(学習・AIモデルの改善): https://www.meta.com/ja-jp/help/superintelligence/2225571704857152/\n・Metaヘルプ(承認・アクセス許可): https://www.meta.com/ja-jp/help/superintelligence/1385290430137537/\n・Metaヘルプ(コネクター): https://www.meta.com/ja-jp/help/superintelligence/1687253048996149/\n・Securing Muse(2026-11-02、バグ報奨金と直した不具合): https://muse.ai/blog/securing-muse\n・Security and Safety for AI Agents: Our Approach with Muse(2026-09-08、使い捨てカード・Confidential VM): https://muse.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse\n・Museの日本での提供開始(2026-10-23。Museはパスワードや支払い方法を確認できない): https://about.fb.com/ja/news/2026/10/muse-personal-ai-agent-launches-in-japan/\n画面は日本の無料アカウントで2026-11-14に確認したものです。画面の文言は更新で変わることがあります。会話の左の一覧・右のタスク欄など、無関係な部分にはぼかしをかけています。\n\n#Muse #MetaMuse #Muse設定 #Museプライバシー #MetaAI #生成AI #AIニュース #最新情報 #保存版 #AI速報ラジオ\n\nこのチャンネルの作り方に興味がある人へ：台本から予約公開までの全12段を note にまとめています\n→ https://note.com/ai_jidouka_log/n/n50a68359fcfe",
+      "tags": [
+        "AIニュース",
+        "AI速報ラジオ",
+        "MetaAI",
+        "MetaMuse",
+        "Muse",
+        "Museプライバシー",
+        "Muse設定",
+        "保存版",
+        "最新情報",
+        "生成AI"
+      ],
+      "audioLang": "en-US",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/eeyEqkmbSNY/mqdefault.jpg",
+      "durationSec": 723,
+      "views": 2558,
+      "likes": 19,
+      "comments": 2,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
       ]
     },
     {
@@ -2381,7 +3731,7 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/h6S_fffFNIk/mqdefault.jpg",
       "durationSec": 14,
-      "views": 2350,
+      "views": 2368,
       "likes": 16,
       "comments": 0,
       "live": "none",
@@ -2405,14 +3755,66 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/jtr-p1wZB_k/mqdefault.jpg",
       "durationSec": 852,
-      "views": 2326,
-      "likes": 14,
+      "views": 2332,
+      "likes": 15,
       "comments": 3,
       "live": "none",
       "lang": "ja",
       "cats": [
         "new",
         "chatgpt"
+      ]
+    },
+    {
+      "id": "LEaUqeVO_98",
+      "url": "https://www.youtube.com/watch?v=LEaUqeVO_98",
+      "title": "DaVinci Resolve 21.1の神機能！AIアシスタントとプリセットが凄すぎる",
+      "channel": "ABK-BASE 映像制作とモータースポーツ",
+      "channelId": "UCXy_hEtdxWp-oFxV72N6T-Q",
+      "publishedAt": "2026-11-16T09:36:05Z",
+      "description": "DaVinci Resolve 21.1の新機能であるインスペクタ設定のプリセット登録など、効率的な編集作業を可能にする最新アップデートを詳しく解説します。\n\n今回の動画では、DaVinci Resolve 21.1で追加された機能の使い方を具体的に紹介しています。特にインスペクタの調整をプリセットとして保存できる機能は、作業時間を大幅に短縮できるため、動画編集の効率化を目指す方には必須の知識です。これらを活用することで、これまで以上にスムーズなワークフローを実現できます。\n\nさらに、テキストのフォント変更機能や、視認性が向上したオーディオ波形の表示改善についても触れています。DaVinci Resolveの機能を最大限に引き出し、プロレベルの映像制作を目指す方へ向けた内容です。各機能の設定手順や活用シーンを網羅しているため、自身の編集スタイルに合わせた使い分けが可能です。\n\nチャンネル登録をして動画編集スキルの向上を目指しましょう。今回紹介した機能の中で、特に気になったものはどれですか？ぜひコメント欄で教えてください。\n\nSNSアカウントはこちら\n・Instagram：https://www.instagram.com/hiro_abkbase/",
+      "tags": [
+        "DaVinci Resolve 21.1",
+        "動画編集",
+        "AIスマートリフレーム",
+        "インスペクタ",
+        "効率化"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/LEaUqeVO_98/mqdefault.jpg",
+      "durationSec": 606,
+      "views": 2320,
+      "likes": 12,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": []
+    },
+    {
+      "id": "bUqh-f-O67g",
+      "url": "https://www.youtube.com/watch?v=bUqh-f-O67g",
+      "title": "【5分でわかる】AI映画（アニメ）の作り方！脚本から完成まで全部見せます｜Galaxy☆ポンコツヒロインちゃん 第8話メイキング（NG集つき）",
+      "channel": "Super☆Ponkotsu heroine-Chan Channel",
+      "channelId": "UCQshZp1iCkkYESMwfee0HSw",
+      "publishedAt": "2026-10-25T03:30:39Z",
+      "description": "AIアニメ『Galaxy☆ポンコツヒロインちゃん』第8話は、どうやって作っているのか。\n脚本、キャラクターの設定、絵コンテ、Depth Map、Flovaでの動画生成、声、そして仕上げまで――\nアクアとネオが5分で解説します。最後にはNG集も！\n\n▼本編 第8話はこちら\nhttps://youtu.be/zmTCYAzx1xA\n\n■チャプター\n0:00 オープニング\n0:19 脚本\n0:40 キャラクターの正本\n1:03 9コマの絵コンテ\n1:20 Depth Map\n1:50 Flovaで生成\n2:27 声\n2:39 48本を1日で\n3:02 NG集\n3:39 仕上げ\n\n■使ったもの\n脚本の精査：複数のAI\nキャラクター・絵コンテ・Depth Map：GPT Image 2\n動画：Flova（Seedance 2.0）\n声：ElevenLabs／Irodori-TTS\n音楽：Lyria 3.5（本編）／Minimax Music\n編集：コードで描くモーショングラフィックス\n\n第二部・第9話は現在制作中です。お楽しみに！\n\n▼シリーズ再生リスト\nSeason3『Galaxy☆ポンコツヒロインちゃん』：［Season3再生リストのURL］\n\n▼チャンネル登録で、新作の更新をお知らせします\nhttps://www.youtube.com/@Superheroin-chan?sub_confirmation=1\n\n▼淡路☆アクアのX（毎日更新）\nhttps://x.com/AwajiAqua\n\n▼リンク集・コラボのご依頼\nhttps://lit.link/awajiaqua\n\n制作：淡路☆アクア／PONKOTSU＿WORKS\n\n#AIアニメ #メイキング #ポンコツヒロインちゃん #Flova #生成AI\n```\n\n**タグ**\n```\nポンコツヒロインちゃん,Galaxyポンコツヒロインちゃん,メイキング,AIアニメ,AIアニメの作り方,AI動画の作り方,生成AI,AI動画,Flova,Seedance,Depth Map,絵コンテ,NG集,オリジナルアニメ,SFアニメ,making of,AI anime,AI animation",
+      "tags": [
+        "歴史",
+        "アニメ",
+        "スーパーヒーロー"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/bUqh-f-O67g/mqdefault.jpg",
+      "durationSec": 273,
+      "views": 2235,
+      "likes": 25,
+      "comments": 5,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "charanime"
       ]
     },
     {
@@ -2435,6 +3837,28 @@ window.SNAPSHOT = {
       "lang": "ja",
       "cats": [
         "chatgpt"
+      ]
+    },
+    {
+      "id": "lIOTx9ARiAk",
+      "url": "https://www.youtube.com/watch?v=lIOTx9ARiAk",
+      "title": "iPhoneの新機能Siri AIって結局何ができるの？Siri AIの便利な機能3選！",
+      "channel": "すぐる@iPhone・ガジェット",
+      "channelId": "UCYjykEbcPv_zUlIYK2FeJog",
+      "publishedAt": "2026-11-18T15:48:53Z",
+      "description": "",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/lIOTx9ARiAk/mqdefault.jpg",
+      "durationSec": 119,
+      "views": 2081,
+      "likes": 71,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new"
       ]
     },
     {
@@ -2462,25 +3886,88 @@ window.SNAPSHOT = {
       "cats": []
     },
     {
-      "id": "qj4djk-kgdo",
-      "url": "https://www.youtube.com/watch?v=qj4djk-kgdo",
-      "title": "AI動画の作り方｜スマホの写真と一言でできた、Google Flowの新機能",
-      "channel": "りゅう【SNS × ai活用】",
-      "channelId": "UC9DCLuohbX47Z7xO7Xp9jYw",
-      "publishedAt": "2026-11-12T09:16:51Z",
-      "description": "AI動画の作り方が難しそうで止まっている人は、スマホの写真から始めてみて。\n\nGoogle Flowの新機能は、写真を入れて一言送ってできました。やり方が分からなければ聞けて、イメージが湧かなければ相談できる、ChatGPTのように話せる動画生成AIでした。\n難しい指示を覚えなくても、まずは手元の写真で1本作ってみましょう。\n\n【このチャンネルについて】\nAI×SNSで成果を出す方法を発信。\n動画生成AI・AIツール活用術など最新AI情報を毎週更新中。\n\n▼最新情報はプロフィールリンクをチェック\n\n#AI動画 #動画生成AI #GoogleFlow",
-      "tags": [],
+      "id": "uEQqOviipx4",
+      "url": "https://www.youtube.com/watch?v=uEQqOviipx4",
+      "title": "【#AIニュース No.516】Geminiの新機能！Google Walletを連携して支出を分析できるように！Grokのチャット内で画像と動画の作成ができるように！",
+      "channel": "AI整体師",
+      "channelId": "UCVAkt5l6kD4igMdVoEGTGIg",
+      "publishedAt": "2026-11-16T00:27:39Z",
+      "description": "AI整体師YouTubeチャンネルへのアンケートのご協力お願いします！！🙇‍♂️\nhttps://ai-seitai-viewer-lab.ryukouokumura.chatgpt.site\n\n\n【11/16 僕が気になったAIニューストピック2個】\n①Geminiの新機能：Google Walletを連携してパーソナルファイナンスの洞察を得る\nhttps://x.com/joshwoodward/status/2121755282326102417?a=ezOoLtzO38ROTa1dONo&s=20\n②画像と動画の作成がGrokで利用可能になりました。\nhttps://x.com/imagine/status/2121672946968318285?a=ZRFGL01zf8bbf1mB4aE&s=20\n\n\n◆動画タイムライン\n00:00 オープニング\n00:24 ①Geminiの新機能：Google Walletを連携してパーソナルファイナンスの洞察を得る\n01:10 ②画像と動画の作成がGrokで利用可能になりました\n01:36 まとめ\n\n\n------------------------------------\n◆生成AIの研修・セミナー、AI顧問の依頼はこちらから！👇\nhttps://ai-seitai-dx-media.vercel.app\n\n◆整体院向けGASで開発した「予約管理アプリ」を配布してます！👇\nhttps://note.com/redcord/n/n01666893b41b\n\n◆Google Keepにワンクリックでメモを保存できるChrome拡張機能👇\nhttps://note.com/redcord/n/nd1e3fb5c79c8\n\n◆GitHubリポジトリ管理を楽にするWEBアプリ\n『DevBoard（デヴボード）』👇\nhttps://devboard.app\n\n◆個人開発したブックマークアプリ\n『ClipTuck〜自分だけの本棚〜』※体験版👇\nhttps://ryukou-okumura.github.io/ClipTuck-trial/\n\n◆noteでもAIニュースやTipsをまとめています！\nhttps://note.com/redcord\n\n◆noteメンバーシップでは、ぶっちゃけ日記を書いてます！\nhttps://note.com/redcord/membership\n\n◆Xアカウントはこちら！\nhttps://x.com/redcord_okumura\n\n◆僕の整体院のHPはこちら！\nhttps://physical-balance-lab.com\n\n◆整体院の公式Instagram！\nhttps://www.instagram.com/pbl.okumura\n------------------------------------",
+      "tags": [
+        "整体",
+        "治療院",
+        "経営",
+        "経営者",
+        "AI",
+        "生成AI",
+        "AIニュース",
+        "AIとやってみた",
+        "整体院",
+        "整体師"
+      ],
       "audioLang": "ja",
       "defaultLang": "ja",
-      "thumbnail": "https://i.ytimg.com/vi/qj4djk-kgdo/mqdefault.jpg",
-      "durationSec": 41,
-      "views": 1861,
-      "likes": 33,
-      "comments": 9,
+      "thumbnail": "https://i.ytimg.com/vi/uEQqOviipx4/mqdefault.jpg",
+      "durationSec": 135,
+      "views": 1989,
+      "likes": 30,
+      "comments": 0,
       "live": "none",
       "lang": "ja",
       "cats": [
-        "new"
+        "new",
+        "gemini",
+        "grok"
+      ]
+    },
+    {
+      "id": "qvMA06MIigc",
+      "url": "https://www.youtube.com/watch?v=qvMA06MIigc",
+      "title": "【ChatGPT集客】会社やお店をChatGPTに登録できる新機能「Business Hub」｜専用AIのBusiness Agentと広告まで全解説",
+      "channel": "AI market",
+      "channelId": "UCswNRnSQstgW_ePcJWx4zXQ",
+      "publishedAt": "2026-11-12T14:59:21Z",
+      "description": "ChatGPT に、会社やお店の窓口を置ける新機能「Businesses in ChatGPT」（ベータ版）が登場しました。11月10日に OpenAI が発表し、会社の情報を登録・管理できる「Business Hub」、ChatGPT の中でどう話題にされているかの分析、お客さんの質問に答える会社専用の AI「Business Agent」がそろっています。\nこの動画では、OpenAI の公式の記事・紹介動画・Business Agent のルール（ポリシー）を原文で確かめながら、登録のしかた、分かる数字、Agent の中身、広告とのつながり、日本の会社への影響を整理しました。\n\n▼ この動画でわかること\n・何が発表された？（ベータ版・毎週12億人・3つの中身）\n・会社の登録のしかた（確認・情報の更新・商品フィード・Shopify）\n・分かる数字（言及の数・クリック数・発見のテーマ・プライバシー）\n・Business Agent とは？（会社専用の AI・はっきり印が付く・今は米国だけ）\n・守るルール（なりすまし禁止・ない商品や口コミを作らない・急かさない・個人情報を聞かない）\n・広告とのつながり（Agent をスポンサーして ChatGPT の広告の行き先に）\n・日本の会社と私たちへの影響（登録できる地域・今からできること・見分け方）\n\n#ChatGPT #OpenAI #BusinessHub #BusinessAgent #集客 #LLMO #生成AI #AIニュース",
+      "tags": [
+        "AIMARKET",
+        "AI",
+        "AIニュース"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/qvMA06MIigc/mqdefault.jpg",
+      "durationSec": 169,
+      "views": 1989,
+      "likes": 24,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "chatgpt"
+      ]
+    },
+    {
+      "id": "r8BpgjaKvQc",
+      "url": "https://www.youtube.com/watch?v=r8BpgjaKvQc",
+      "title": "【Muse新機能】スペースの使い方｜現役教員がAIで作る「先生の時短アプリ」3選",
+      "channel": "ゴリ先生【AI×教員のミカタ】",
+      "channelId": "UCqNJd0lBOzaT15PtuZRy8gw",
+      "publishedAt": "2026-11-17T11:00:09Z",
+      "description": "🎁【無料】残業を減らしたい先生へ。AI活用6大特典を配布中！\n現役教員が実際に使う時短術をまとめて受け取れます👇\nhttps://lin.ee/TRnGmRu\n初めてご登録される先生は、「ゴリラ」と一言送ってください。\n\n📱 この動画の特典「定時退勤チャレンジボード（Web版）」は、\n　 合言葉「退勤ゴリラ」でお渡しします。\n　 Meta Museを使っていない先生でも、スマホを開くだけで今日から使えます。\n　 今週の定時退勤の回数、先週との残業時間の比較が見られます。\n\n━━━━━━━━━━━━━━━\n\n「あれ、明日って5時間だったっけ」\n「朝の会のネタ、今日は何話そう」\n「気づいたら、今日も外が真っ暗」\n\n先生の頭の中にある\"あれ\"を、ぜんぶ一箇所にまとめられるとしたらどうでしょうか。\n\n今回紹介するのは、Meta（メタ）のAI「Muse（ミューズ）」の新機能「スペース」です。\nひとことで言うと、先生の頭の中のメモを、自分専用のアプリに変えてくれる機能です。\n\n普通のチャットは、せっかく作った表も会話を続けるとどんどん流れて消えていきます。\nスペースなら、サイドバーに置いてワンタップで開ける。ずっと手元に残ります。\n\nこの動画では、実際に3つのボードを作るところを、そのままお見せします。\n\n▼ この動画で作るもの\n①明日の授業準備ボード\n　行事予定表と時間割の画像を送って、話しかけるだけ。\n　明日の時間割と持ち物がチェックリストで出て、\n　「いつもと違う日です」と赤字で教えてくれます。\n　毎日3時半に、向こうから出てくるように設定もできます。\n\n②定時退勤チャレンジボード\n　退勤ボタンを押すだけで記録。今週の定時退勤の回数と残業時間が見えます。\n　Googleカレンダーと連携すれば、会議や出張の日は目標時間が自動で変わります。\n　目標の30分前に「あと30分」と声をかけてくれる設定も。\n\n③朝の会の1分クイズ\n　3年生で習う漢字の読み方クイズを、毎日1問自動で入れ替え。\n　「もう少し難しくして」と話しかけるだけで作り直してくれます。\n\n▼ 目次\n0:00 先生の「あれ」を、ぜんぶ一箇所に\n1:01 【実演①】明日の授業準備ボードを作る\n3:04 毎日3時半に、向こうから出てくるようにする\n4:36 【実演②】定時退勤チャレンジボードを作る\n5:37 会議の日は目標時間が変わる｜Googleカレンダー連携\n7:38 【実演③】朝の会の1分クイズを作る\n9:41 そもそも「スペース」とは？できること5つ\n10:40 学校の仕事で向いているもの・向いていないもの\n11:37 始め方は3ステップ\n12:22 まとめ\n\n▼ 学校の仕事で向いているもの\n・明日の授業準備や持ち物の連絡など、毎日繰り返す準備\n・退勤時間や行事の準備など、記録して変化を見たいもの\n・クイズやルーレットなど、朝の会や授業で使うちょっとした道具\n\n▼ 向いていないもの\n・一度きりの質問 → 普通のチャットの方が早いです\n・学級通信や指導案のような長い文章 → 文書ファイルの方が向いています\n・学年で一緒に書き込む作業 → 共有機能はまだないので、今は自分専用です\n\n▼ 使う前に、ここだけ確認\n① 子どもの名前や成績などの個人情報は、絶対に渡さないでください\n　 時間割や行事予定表のように、個人情報が入っていないものだけを使いましょう。\n② 学校の仕事でAIを使っていいかは、自治体や学校のルールによって違います\n　 使う前に一度確認しておくと安心です。\n③ 自動で更新されるからこそ、初めのうちは自分の目で確かめてください\n　 予定や記録が合っているか、クイズの答えや例文も子どもに出す前に確認を。\n④ 子どもに直接アプリを使わせるものではありません\n　 先生が自分のスマホで見て、朝の会のネタとして使う形がおすすめです。\n\n▼ noteも始めました\nYouTubeでは話しきれなかったことや、\n教員としてAIを使う中で考えていること・思いを書いています。\nhttps://note.com/gori_sensei_ai\n\n▼ あわせて見たい動画\n・教科書を入れるだけで授業が完成\n　https://youtu.be/3CpejOPuDQM\n・所見文もお便りも！AIに\"指示\"を自動で選ばせる神ワザ\n　https://youtu.be/GTFdzSw6sYc\n\n━━━━━━━━━━━━━━━\n\nこのチャンネルでは、現役の小学校教員であるゴリ先生が、\n「教員 × AI」をテーマに、日々の校務や授業で実際に使っている活用法を\n教員目線でかみ砕いてお届けしています。\n定期的に勉強会も開催しています。\n\nよろしければチャンネル登録・高評価をお願いします。\nご質問もコメントでお待ちしています。",
+      "tags": [],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/r8BpgjaKvQc/mqdefault.jpg",
+      "durationSec": 778,
+      "views": 1942,
+      "likes": 22,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "muse"
       ]
     },
     {
@@ -2524,13 +4011,35 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/KhZQ0IrNHPM/mqdefault.jpg",
       "durationSec": 985,
-      "views": 1859,
+      "views": 1882,
       "likes": 16,
       "comments": 2,
       "live": "none",
       "lang": "ja",
       "cats": [
         "gemini"
+      ]
+    },
+    {
+      "id": "qj4djk-kgdo",
+      "url": "https://www.youtube.com/watch?v=qj4djk-kgdo",
+      "title": "AI動画の作り方｜スマホの写真と一言でできた、Google Flowの新機能",
+      "channel": "りゅう【SNS × ai活用】",
+      "channelId": "UC9DCLuohbX47Z7xO7Xp9jYw",
+      "publishedAt": "2026-11-12T09:16:51Z",
+      "description": "AI動画の作り方が難しそうで止まっている人は、スマホの写真から始めてみて。\n\nGoogle Flowの新機能は、写真を入れて一言送ってできました。やり方が分からなければ聞けて、イメージが湧かなければ相談できる、ChatGPTのように話せる動画生成AIでした。\n難しい指示を覚えなくても、まずは手元の写真で1本作ってみましょう。\n\n【このチャンネルについて】\nAI×SNSで成果を出す方法を発信。\n動画生成AI・AIツール活用術など最新AI情報を毎週更新中。\n\n▼最新情報はプロフィールリンクをチェック\n\n#AI動画 #動画生成AI #GoogleFlow",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/qj4djk-kgdo/mqdefault.jpg",
+      "durationSec": 41,
+      "views": 1861,
+      "likes": 33,
+      "comments": 9,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new"
       ]
     },
     {
@@ -2556,6 +4065,31 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "Lynsf0sDO-U",
+      "url": "https://www.youtube.com/watch?v=Lynsf0sDO-U",
+      "title": "Metaからリリースされた「Muse」がやばい。 #meta  #muse  #aiエージェント",
+      "channel": "2時間22分",
+      "channelId": "UCK_N8AR5w9CwAOMa6w5E-xQ",
+      "publishedAt": "2026-11-16T10:45:51Z",
+      "description": "僕の書籍はこちら⇒https://x.gd/5NtfT",
+      "tags": [
+        "吉谷卓朗"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/Lynsf0sDO-U/mqdefault.jpg",
+      "durationSec": 100,
+      "views": 1818,
+      "likes": null,
+      "comments": null,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "muse"
+      ]
+    },
+    {
       "id": "mo97lPUJPEg",
       "url": "https://www.youtube.com/watch?v=mo97lPUJPEg",
       "title": "【AIマスター講座 #9】画像生成AIの使い方｜2027年賀状で作る・直す・文字入れを比較",
@@ -2578,6 +4112,100 @@ window.SNAPSHOT = {
       "live": "none",
       "lang": "ja",
       "cats": []
+    },
+    {
+      "id": "UC2NcAtcQfs",
+      "url": "https://www.youtube.com/watch?v=UC2NcAtcQfs",
+      "title": "Claude Fable 5.2、1つの指示で2分のアニメ。動画生成AIじゃない？",
+      "channel": "カジュアルAI",
+      "channelId": "UClude8J9r1n354ANhQBlQmQ",
+      "publishedAt": "2026-11-15T07:00:40Z",
+      "description": "Claude Fable 5.2 が、1つの指示から2分のアニメ「The Fable of Clawd」を作りました。動画生成 AI ではなく、Claude がコードを書いて、無料の 3D ソフト Blender を動かしています。\n\nコードは約12,500行。GPU を89台借りて仕上げ、約4.5時間・GPU 代は約21ドル。GPU を借りる設定と、前の作品のコードが先にあった点には注意です。\n\n■出典\nRiley Brown（X・2026-11-14）https://x.com/rileybrown/status/2121642720045261185\n作り方の説明（本人のページ）https://claude.ai/artifact/BkA6dzdGMx796WymCFpRyZ\n\nVOICEVOX:青山龍星\nVOICEVOX:白上虎太郎\n\n#AIニュース #生成AI #カジュアルAI",
+      "tags": [
+        "AIニュース",
+        "生成AI",
+        "カジュアルAI",
+        "Claude Fable 5.2",
+        "Claude",
+        "Anthropic",
+        "Blender",
+        "3Dアニメ",
+        "RunPod",
+        "ショート"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/UC2NcAtcQfs/mqdefault.jpg",
+      "durationSec": 52,
+      "views": 1734,
+      "likes": 27,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "claude",
+        "charanime"
+      ]
+    },
+    {
+      "id": "UeGhBIE-P4A",
+      "url": "https://www.youtube.com/watch?v=UeGhBIE-P4A",
+      "title": "Meta Museの仕組みとは？性能が一番じゃないのに評判がいい理由を図解で解説",
+      "channel": "AI速報ラジオ",
+      "channelId": "UC3tZn62rdPISyU-npH9yDyg",
+      "publishedAt": "2026-11-15T01:00:12Z",
+      "description": "Meta Museの仕組み(Muse 仕組み)を、図で解説します。点数では首位じゃないのに、なぜ評判がいいのかが分かり、MuseとほかのAIの使い分けを自分で決められます。\nMuse 仕組みの中身は、自分専用のクラウドPC・作業の部屋と見張りの部屋・覚えたことを残すファイルの3つ。見終わると、今夜Museに「私について覚えていることを見せて」と頼んで記憶の中身を見られ、任せる前の注意(担当者のアクセス・学習の初期設定・共有機能)も分かります。点数と数字は2026-11-14時点です。\n元記事(Meta公式発表、2026-09-08): https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/\n\n■ 利用クレジット\n配布立ち絵制作：pasuteka\nVOICEVOX：春日部つむぎ\nVOICEVOX：ずんだもん\n\n■ チャプター\n0:00 Muse 仕組み、点数で負けているのに評判がいい理由を結論から\n0:36 Museの点数は何位？総合の順位と人の投票(Artificial Analysis・Text Arena)\n2:15 Muse 仕組み：自分専用のクラウドPC・作業の部屋と見張り役Sentinel・記憶ファイル\n4:34 Museはなぜ評判がいい？承認の設計・覚えて自分から知らせる・無料の入り口\n7:27 Museに任せる前に知っておくこと(担当者のアクセス・学習・共有機能)\n8:38 今夜の1つ、Museの記憶を見て作業の記録を確かめる\n\n■ 今夜の1つ\nMuseに「私について覚えていることを見せて」と頼む → 中身を読んで、違う所は「それは忘れて」と言う。アバターをタップして、作業の記録も1回見る。\n設定の細かい場所(学習オフ・確認の強さ・Gmailの連携)は、設定ガイドの回で解説しています。\n\n■ 今回のポイント\n・点数: Artificial Analysisの総合の点数(2026-11-14)では、Muse Wonder Fullは50点でGemini 4 Argonと同点、上に8モデルある。一方、人が答えを見比べるText Arenaでは2位(2026-10-13時点、1位はGemini 4 Argon)。Meta自身は個人や仕事の用事で最先端と言っている\n・仕組み: 利用者ごとに専用のクラウドPC(Muse Secure VM)があり、アプリを閉じても予定や出来事に応じて動く。中は作業の部屋(Muse本体・ブラウザ・ファイル)と見張りの部屋(Sentinel・パスワード)の2つ。許可を出せるのはSentinelだけで、Museは本物のパスワードを見ない\n・記憶: 覚えたことはMEMORY.mdなどのファイルに残り、自分で読める・直せる。「忘れて」で消せる\n・評判の理由: 承認の設計(確認は承認カード、危なくない操作は止めない)、覚えていて自分から知らせる、無料でいつものアプリから入れる。土台はモデルの質、とMetaは言っている\n・続けて使われているか: Sensor Tower推計(米国)では、入れて7日後も使っている人が30%、ChatGPT・Claude・Grokの平均は19%。Metaの米国広告費のうちMuseの割合は9月23%→10月39%(これも推計)。入れた人の数より、残っている割合が本当の評判に近い\n・注意: Metaの担当者のアクセスは今は運用のルールで制限している段階(技術で塞ぐMuse Confidential VMは年内予定)。学習は既定でオン。10月に共有の機能を止めた(報道)\n\n■ 関連動画\n・Meta Museとは: https://www.youtube.com/watch?v=-j5jlSzZHmI\n・Meta Museの使い方10選: https://www.youtube.com/watch?v=gLZfoXTPy_w\n\n■ 参考にした一次情報・出典(2026-11-14時点)\n・Meta公式発表 Introducing Muse(2026-09-08。専用のVM・Sentinel・閉じても続く・覚えている): https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/\n・How We Designed Muse(2026-09-08。自分から知らせる・学校の締め切りの実話・承認の考え方): https://muse.ai/blog/how-we-designed-muse\n・Security and Safety for AI Agents: Our Approach with Muse(2026-09-08。VMの中の2つの区画・Sentinel・本物のトークンを見ない): https://muse.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse\n・Metaヘルプ(MEMORY.mdを見られる・「忘れて」): https://www.meta.com/help/superintelligence/1047255454427887/\n・Artificial Analysis リーダーボード(2026-11-14取得。Muse Wonder Full 50、上に8モデル): https://artificialanalysis.ai/leaderboards/models\n・Artificial Analysis Intelligence Index v5(2026-10-27): https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5\n・Text Arena 2位(Arena公式投稿のまとめ。2026-10-13時点): https://digg.com/ai/fbedlkpt\n・Meta 2026年第3四半期 決算説明会 書き起こし(2026-10-21。米国とカナダで1,000万人超が設定・約25%が毎日使う): https://s21.q4cdn.com/399680738/files/content_files/META-Q3-2026-Earnings-Call-Transcript.pdf\n・9to5Mac(2026-10-20。Sensor Tower推計: 7日後の継続率30%・Metaの米国広告費の39%がMuse。いずれも推計): https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/\n・Meta Research(2026-11-06。Muse Wonderで鍛えた専用版): https://research.meta.ai/blog/specialized-models-for-muse-and-metaai\n・Meta、Museの日本での提供開始(2026-10-23): https://about.fb.com/ja/news/2026/10/muse-personal-ai-agent-launches-in-japan/\n・共有機能の問題の報道(9to5Mac・Ars Technica、2026-10-20)\n継続率・広告費の数字はSensor Towerの推計で、調査会社によって数字が大きくずれます。「一番ではない」は、Artificial Analysisの総合指数で首位でない、という意味です(人が見比べる投票では上位です)。Alexandr Wang氏の発言は、インタビューを伝えた二次報道によります。公式ページの画像は出典つきで引用しています。\n\n#Muse #MetaMuse #Muse仕組み #MuseWonder #MetaAI #AIエージェント #生成AI #AIニュース #最新情報 #AI速報ラジオ\n\nこのチャンネルの作り方に興味がある人へ：台本から予約公開までの全12段を note にまとめています\n→ https://note.com/ai_jidouka_log/n/n50a68359fcfe",
+      "tags": [
+        "AIエージェント",
+        "AIニュース",
+        "AI速報ラジオ",
+        "MetaAI",
+        "MetaMuse",
+        "Muse",
+        "MuseWonder",
+        "Muse仕組み",
+        "最新情報",
+        "生成AI"
+      ],
+      "audioLang": "en-US",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/UeGhBIE-P4A/mqdefault.jpg",
+      "durationSec": 598,
+      "views": 1721,
+      "likes": 20,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse"
+      ]
+    },
+    {
+      "id": "QfLqj9AbXe4",
+      "url": "https://www.youtube.com/watch?v=QfLqj9AbXe4",
+      "title": "【ChatGPT新機能】dotが支払いまでしてくれる「ChatGPT Wallet」｜Visa・Mastercard・Amexと組んだ安全なしくみと使える人",
+      "channel": "AI market",
+      "channelId": "UCswNRnSQstgW_ePcJWx4zXQ",
+      "publishedAt": "2026-11-16T21:00:07Z",
+      "description": "今回は、1つのニュースを深く掘る回です。\nChatGPT の dot が、あなたの承認をもらってから、代わりに買い物の支払いまで済ませる「ChatGPT Wallet」が発表されました。OpenAI の公式記事・ChatGPT の X・公式動画をもとに、買い物の流れ、カード番号を AI に渡さないしくみ、カード会社やお店の側の準備、日本で使えるかまでまとめました。\n※このチャンネルでは使えないため（アメリカの Pro のみ）、実際には試していません。\n\n━ タイムライン ━\n0:00 オープニング\n1:01 何が発表された？\n2:53 dotのおさらい\n4:24 買い物の流れ\n6:05 カード番号を渡さないしくみ\n7:48 カード会社との組み方\n9:36 お店の側の準備\n11:41 私たちの毎日はどう変わる？\n14:35 注意点\n15:11 まとめ\n\n━ 今回のポイント ━\n▶ 何が発表された？\n・日本時間 11/14（土）1:44、ChatGPT の公式 X が「ChatGPT Wallet」を発表。同じ日に OpenAI の公式記事\n・American Express・Mastercard・Visa と一緒に作った\n・投稿は88万回以上表示・いいね5,000超・ブックマーク1,000超（11/16 時点）\n\n▶ 買い物の流れ\n・カードを登録するのは最初の1回だけ\n・買う前に、商品・合計・使うカードを確認 → Face ID や指紋で承認\n・承認ごとに、何を買ってよいと許したかの記録が残る\n\n▶ カード番号を渡さないしくみ\n・承認のあと、カード会社のネットワークが「トークン」（本物の代わりの番号・セキュリティコード・有効期限）を出す\n・本物のカード番号は、お店にもエージェントにも渡らない\n・カードのポイントなどの特典と、対象のトラブルでの保護はこれまでどおり\n\n▶ お店の側の準備（Commerce Partner Playbook）\n・正しい商品の情報を届ける／エージェントがサイトに入れるようにする（Web Bot Auth）\n・不正対策・決済の会社と相談（Forter・Riskified・Sardine・Signifyd／Adyen・Checkout.com・Stripe）\n・プラグインや WebMCP でやり取りの道を増やす\n\n▶ 私たちの毎日はどう変わる？（たとえば・第7章）\n・贈り物（公式動画の例）：予算を伝える → dot が提案 → 商品・合計・カードを確認 → 顔・指紋で承認\n・やめられること：タブをたくさん開く／カード番号を毎回打ち込む／支払いの入力欄を埋める\n・残ること：一回ごとの承認／商品・合計・カードの確認／買えたかを見届ける（断られることもある）\n・仕事と家の一日（たとえば）：朝 コピー用紙・インク／昼 チームの道具を比べて購入／夜 家の日用品をまた注文（どれも毎回承認）\n・会社でまとめて使う形は、記事には書かれていない。金額の上限などで任せるのは「見込み」で、まだ使えない\n・日本のお店なら（考え方）：正しい商品の情報（値段・在庫）を出す／エージェントをうっかり締め出さない\n\n▶ 使える人\n・アメリカに住む18歳以上の ChatGPT Pro・アメリカで発行された対象のカード\n・日本での提供の時期は未発表\n\n▶ 注意点\n・始まったばかりで、お店によっては支払いが断られたり取り消されたりすることがある（公式）\n・Wallet 以外の AI ツールにカード番号をそのまま渡さない\n・ヘルプの「ウォレット残高」（ギフトカードなどの残高）とは別のもの\n\n▶ 出典\n・OpenAI「Introducing ChatGPT Wallet」（2026年11月13日）\n・ChatGPT の X（2026年11月14日 日本時間）\n・一部は海外の報道をもとにしています（動画内で「報道」と断っています）\n\n#ChatGPT #ChatGPTWallet #OpenAI #AIエージェント #AIニュース",
+      "tags": [
+        "AIMARKET",
+        "AI",
+        "AIニュース"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/QfLqj9AbXe4/mqdefault.jpg",
+      "durationSec": 956,
+      "views": 1559,
+      "likes": 18,
+      "comments": 4,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "chatgpt"
+      ]
     },
     {
       "id": "ZpM-1VBZp-M",
@@ -2619,6 +4247,77 @@ window.SNAPSHOT = {
       "live": "none",
       "lang": "ja",
       "cats": []
+    },
+    {
+      "id": "uwYJ8OPHJZA",
+      "url": "https://www.youtube.com/watch?v=uwYJ8OPHJZA",
+      "title": "【日本語AI解放】Apple Watch Series 12の神機能と正直いらなかった新機能｜30代パパのリアル活用術",
+      "channel": "おうすけ / パパガジェット",
+      "channelId": "UCNyDRnVmDAkUEwpikM1j1bQ",
+      "publishedAt": "2026-11-14T12:00:09Z",
+      "description": "Apple Watch Series 12を2ヶ月間、仕事から子育てまで毎日欠かさず使い倒して分かったリアルな本音レビューをお届けします！\n\n左腕でAIを使うことを目標にSeries 12を購入し、最近ついに日本語でも開放された「SiriのAI機能」を試したところ、2歳児の育児中のとっさの調べ物（服選びや食事の判断）がスマホを取り出さずに一瞬で終わるようになり、毎日の生活が劇的に変わりました！さらに、2時間の会議も余裕で録音できるバッテリー性能と、iPhone標準の文字起こし＋Gemini（一時チャット機能）を組み合わせた仕事の時短術もご紹介します。\n\n一方で、2ヶ月間毎日つけて生活したからこそ見えてきた「子育て中のパパには正直向いていないと感じたヘルスケアの新機能（『準備度』や常時表示の注意点）」についても包み隠さずお話しします。真っ暗な寝室で画面を完全に消す「シアターモード」の便利な設定手順や、夜泣き対応で結局寝る時は時計を外すようになったリアルな理由、さらに身長178cmの私が失敗しかけた「ベルトのサイズ選び（S/M・M/L）」まで徹底解説します！\n\n▼ご紹介したアイテム\nApple Watch Series 12（GPSモデル）\n46mmライトゴールドアルミニウムケースとサンドスポーツバンド - M/L\nAmazon商品サイト：http://msm.to/IG7LVqE\n\n※リンクにはプロモーションが含まれています。\nAmazonのアソシエイトとして、おうすけ / パパガジェットは適格販売により収入を得ています。\n\n▼目次（チャプター）\n00:00 - Apple Watch 12の結論\n00:59 - Siri AI解放が子育てで神すぎる\n02:41 - AI議事録が不要になる仕事術\n05:16 - 新文字盤「Siriモジュラー」\n06:01 - 5秒に1回の心拍数計測\n07:07 - 準備度の素直な感想とシアターモード\n09:58 - ベルトサイズ選びの注意点\n10:33 - まとめ：どんな人におすすめ？\n\n▼この動画のポイント\n・【◎ 最高だった点】ついに日本語対応した手首のSiri AIで、片手が塞がる育児の疑問を即解決＆iPhoneとの出力連携\n・【◎ 最高だった点】終日使っても残量50%以上！2時間の長時間録音とiPhone標準文字起こし×手持ちAIでの要約術\n・【△ 微妙だった点】新機能「準備度」に必要な7日間の睡眠装着と、暗い寝室で光る常時表示・夜泣きあやし時の物理的な邪魔さ\n・【注意点】身長178cmでもM/Lサイズは一番手前の穴！失敗しないバンドサイズの選び方\n\nこのチャンネルでは、日々電気製品を使う仕事をしている私が、パパならではの一次情報も交えて、少しでも自由時間を増やすガジェットを本音でレビューしています。\nぜひチャンネル登録と高評価で動画を保存しておいてください！\n\n#AppleWatchSeries12 #AppleWatch #SiriAI #スマートウォッチ #ガジェットレビュー #子育てパパ #時短術",
+      "tags": [
+        "Apple Watch Series 12",
+        "Apple Watch 12",
+        "アップルウォッチ12",
+        "Apple Watch レビュー",
+        "Apple Watch 長期レビュー",
+        "Siri AI",
+        "Apple Intelligence 日本語",
+        "Apple Watch Siri",
+        "Apple Watch 準備度",
+        "シアターモード",
+        "AI議事録",
+        "AIボイスレコーダー",
+        "Gemini 要約",
+        "Apple Watch バッテリー持ち",
+        "Apple Watch 心拍数",
+        "Apple Watch サイズ選び",
+        "子育て ガジェット",
+        "パパ ガジェット",
+        "時短術",
+        "おうすけ"
+      ],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/uwYJ8OPHJZA/mqdefault.jpg",
+      "durationSec": 706,
+      "views": 1521,
+      "likes": 8,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new"
+      ]
+    },
+    {
+      "id": "VVmoOqpbUaA",
+      "url": "https://www.youtube.com/watch?v=VVmoOqpbUaA",
+      "title": "【Muse】動画5本実演！AIドラマ・アニメ・商品PRを制作｜日本語セリフの直し方も紹介",
+      "channel": "ラビビット | AI活用メディア",
+      "channelId": "UC50XnGvH12A3NvxkDoGp8lQ",
+      "publishedAt": "2026-11-04T11:56:10Z",
+      "description": "MetaのAI「Muse」の動画生成で、実写風ドラマ・アニメ・インスタのリール・録画の切り抜き・架空の商品のPR動画、の5本を作ってみました。\n作品ごとに8つの役割（脚本・撮影・キャラの絵・声・リール・編集・広告・YouTube）の目線で採点し、足りない所はMuseに直させています。\n\n▼この動画でわかること\n・Museの動画生成でできること（1本約10秒・音声つき・つなぐ編集も可能）\n・日本語のセリフが崩れる例と、声を入れ直す直し方（Museの日本語／英語／ElevenLabsで入れ直し の比較）\n・キャラをそろえるコツ、作り直しの頼み方\n・まだいまいちな所（作品はあくまでデモで、仕上げには人の手が必要です）\n\n▼チャプター\n0:00 オープニング\n0:33 使った道具と、ルール\n1:36 Museの動画生成って？\n2:36 実演1 実写ドラマ\n5:29 実演1 日本語セリフの比較\n7:00 実演1 完成\n8:04 実演2 ラビちゃんの短編\n9:50 実演3 予告リール\n11:41 実演4 録画の切り抜き\n13:31 実演5 商品のPR動画\n15:18 まとめ\n\n▼注意\n・登場する人物・商品「こもれびランプ」はすべて架空で、映像はAIで生成したものです。\n・採点はプロの目線を簡単にしたAIによる目安です。使えるかどうかは、最後は人の目で判断してください。\n・Museのリール調査の数字は、ラビビットでは確かめていません。動画のモデル名は公式に書かれていないため断定していません。\n・収録：2026年11月4日、Web版・無料プラン。投稿・送信・支払いはすべて直前で止めています。\n・使ったツール：Muse（動画生成）、ElevenLabs（実写ドラマの声の入れ直し）、ナレーションはラビちゃんのいつもの声。\n\n▼関連動画\nMetaの無料AI「Muse」で活用事例8つを実演：https://youtu.be/j5bCB0g0enQ\n\n■ note｜詳しい解説・レビュー\nhttps://note.com/ravivit_ai\n\n#Muse #AI動画 #動画生成",
+      "tags": [
+        "ラビビット",
+        "Ravivit",
+        "AI活用",
+        "生成AI"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/VVmoOqpbUaA/mqdefault.jpg",
+      "durationSec": 1015,
+      "views": 1488,
+      "likes": 21,
+      "comments": 4,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "muse",
+        "charanime"
+      ]
     },
     {
       "id": "Eg8E2Xt51zk",
@@ -2722,6 +4421,36 @@ window.SNAPSHOT = {
       "lang": "ja",
       "cats": [
         "seedance"
+      ]
+    },
+    {
+      "id": "Ocfu0wGpWsM",
+      "url": "https://www.youtube.com/watch?v=Ocfu0wGpWsM",
+      "title": "【Claude Code】Fable 5.2が来た！すぐ使える新機能8つ",
+      "channel": "ひろあきch",
+      "channelId": "UCo8Pfq1NNor9n71Wrw9pBXA",
+      "publishedAt": "2026-11-15T05:02:32Z",
+      "description": "Claude Code の最新アップデートを約1分で。Claude Fable 5.2 の登場と、すぐ使える新機能8つをまとめました（2026年11月15日時点）。\n\n▼Fable 5.2 の詳しい解説は note で\n公式発表まとめと Opus 5.5 との使い分け\nhttps://note.com/major_elk2890/n/nb11457156c3c\nFable 5.2 と Opus 5.5 に同じ仕事をさせた比較\nhttps://note.com/major_elk2890/n/n029f3a2a8c75\nバージョンアップしたら、まずやる環境の点検\nhttps://note.com/major_elk2890/n/n062aeb658b00\n\n▼この動画の8つ\n01 Fable 5.2 が出た（出力が 5.1 比で最大30%速い・/model claude-fable-5-2）\n02 Pro でも Fable を試せる（11/16 まで・週の上限の50%まで）\n03 クラウド環境を Claude がセットアップ\n04 /storage でディスク掃除\n05 /usage で使いすぎを直す\n06 ultrathink が復活\n07 /auto-mode-setup\n08 そのほかの改善\n\n▼公式の changelog（全部の変更はこちら）\nhttps://code.claude.com/docs/en/changelog\n\n▼X\nhttps://x.com/YoshiKura535130\n\n▼クレジット\nナレーション: 合成音声\n※本動画は非公式の解説です。Anthropic 公式の動画ではありません。\n\n#ClaudeCode #Anthropic #AI #Shorts",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Claude Code",
+        "Claude Fable 5.2",
+        "Fable 5.2",
+        "Opus 5.5"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/Ocfu0wGpWsM/mqdefault.jpg",
+      "durationSec": 77,
+      "views": 1330,
+      "likes": 5,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "claude"
       ]
     },
     {
@@ -3512,35 +5241,6 @@ window.SNAPSHOT = {
       "cats": []
     },
     {
-      "id": "gq9rXe4-qck",
-      "url": "https://www.youtube.com/watch?v=gq9rXe4-qck",
-      "title": "ChatGPT 献立の決め方｜レシピ検索4回より、余り物3つを並べて聞く",
-      "channel": "AIに叱られたい",
-      "channelId": "UCafoAv3hhx-DJlD-lR1t3Ew",
-      "publishedAt": "2026-11-16T02:00:02Z",
-      "description": "冷蔵庫の余り物で、材料ごとにレシピ検索をくり返していませんか？\nChatGPT に余り物と条件を並べて1回で聞くと、今夜の1品と手順まで絞れます。\nやること：\n・ChatGPT の入力欄に、余り物・買い足してよい数・かけられる時間をまとめて書いて送る\n・人数を変えたい時は、続けて「2人分に直して」と足す\n\n▼コピーしてそのまま使える1行\n余り物は（材料3つ）。買い足しは1つまで、20分で作れる今夜の1品と手順を3つで教えて。\n\n・卵などの数や分量、食べられない物は自分で確かめる\n\n#ChatGPT #献立 #AIの使い方\n声：AivisSpeech: まお\n\n絵は画像生成 AI、声は AivisSpeech で作っています。\n内容は公開の日に各サービスの公式ヘルプで確かめています（確かめた日：2026-11-16）。",
-      "tags": [
-        "AI 使い方",
-        "ChatGPT",
-        "ChatGPT 使い方",
-        "ChatGPT 献立",
-        "初心者（検索の言葉「ChatGPT 献立」を頭に＝動画の上の見出しと同じ言葉・2026-11-16）",
-        "献立 AI"
-      ],
-      "audioLang": "ja",
-      "defaultLang": "ja",
-      "thumbnail": "https://i.ytimg.com/vi/gq9rXe4-qck/mqdefault.jpg",
-      "durationSec": 32,
-      "views": 1063,
-      "likes": 8,
-      "comments": 0,
-      "live": "none",
-      "lang": "ja",
-      "cats": [
-        "chatgpt"
-      ]
-    },
-    {
       "id": "BoI0jHUROG4",
       "url": "https://www.youtube.com/watch?v=BoI0jHUROG4",
       "title": "ChatGPTが化ける質問術3選 #生成ai #ai副業 #chatgpt",
@@ -3618,6 +5318,35 @@ window.SNAPSHOT = {
       "views": 1060,
       "likes": 5,
       "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "chatgpt"
+      ]
+    },
+    {
+      "id": "gq9rXe4-qck",
+      "url": "https://www.youtube.com/watch?v=gq9rXe4-qck",
+      "title": "ChatGPT 献立の決め方｜レシピ検索4回より、余り物3つを並べて聞く",
+      "channel": "AIに叱られたい",
+      "channelId": "UCafoAv3hhx-DJlD-lR1t3Ew",
+      "publishedAt": "2026-11-16T02:00:02Z",
+      "description": "冷蔵庫の余り物で、材料ごとにレシピ検索をくり返していませんか？\nChatGPT に余り物と条件を並べて1回で聞くと、今夜の1品と手順まで絞れます。\nやること：\n・ChatGPT の入力欄に、余り物・買い足してよい数・かけられる時間をまとめて書いて送る\n・人数を変えたい時は、続けて「2人分に直して」と足す\n\n▼コピーしてそのまま使える1行\n余り物は（材料3つ）。買い足しは1つまで、20分で作れる今夜の1品と手順を3つで教えて。\n\n・卵などの数や分量、食べられない物は自分で確かめる\n\n#ChatGPT #献立 #AIの使い方\n声：AivisSpeech: まお\n\n絵は画像生成 AI、声は AivisSpeech で作っています。\n内容は公開の日に各サービスの公式ヘルプで確かめています（確かめた日：2026-11-16）。",
+      "tags": [
+        "AI 使い方",
+        "ChatGPT",
+        "ChatGPT 使い方",
+        "ChatGPT 献立",
+        "初心者（検索の言葉「ChatGPT 献立」を頭に＝動画の上の見出しと同じ言葉・2026-11-16）",
+        "献立 AI"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/gq9rXe4-qck/mqdefault.jpg",
+      "durationSec": 32,
+      "views": 1059,
+      "likes": 8,
+      "comments": 0,
       "live": "none",
       "lang": "ja",
       "cats": [
@@ -3763,6 +5492,93 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "DT-lzddNK40",
+      "url": "https://www.youtube.com/watch?v=DT-lzddNK40",
+      "title": "GPT-6の新機能2つ、async処理と動的設定変更を開発者が実測 #Shorts",
+      "channel": "やたらとAIに詳しいメスガキch",
+      "channelId": "UCg4AN-k3Iwb1EuMBjJt23Og",
+      "publishedAt": "2026-11-14T23:00:00Z",
+      "description": "GPT-6のResponses API、地味に進化してるわよ？\nasync: trueで非同期ツール呼び出し、configuration_updateで動的設定変更が追加されたって話。\nQiitaで実測データが公開されてるから、API開発者は確認しておきなさいよ\n\n---\n\n【紹介した記事・ソース】\n賢くなりたいなら読みなさいよね！\n- GPT-6の新機能2つを実測した：async tool calling と configuration_update（Qiita LLMタグ）\n  https://qiita.com/FlatkeyAI/items/7e59e342ec63b15d47e3\n\n---\n\n毎日AIニュース届けてあげてるんだから、\n置いていかれたくないならフォロー・高評価しなさいよね♡\n\n---\n\n【クレジット】\n音声: COEIROINK:リリンちゃん\n立ち絵: ぱるとねる\n\n#AI #AIニュース #メスガキAIニュース #GPT-6 #OpenAI #Responses API #非同期処理 #Shorts\n\n#Shorts",
+      "tags": [
+        "AI",
+        "AIエージェント",
+        "AIニュース",
+        "GPT-6",
+        "OpenAI",
+        "Responses API",
+        "Shorts",
+        "configuration_update",
+        "テクノロジー",
+        "人工知能",
+        "非同期処理"
+      ],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/DT-lzddNK40/mqdefault.jpg",
+      "durationSec": 46,
+      "views": 1019,
+      "likes": 8,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "chatgpt"
+      ]
+    },
+    {
+      "id": "yXoNAvoa9NM",
+      "url": "https://www.youtube.com/watch?v=yXoNAvoa9NM",
+      "title": "AIに1回たのんだら252回動いた。Claude Codeの新機能「Code Mode」を試した #shorts",
+      "channel": "トリマンのAI研究所",
+      "channelId": "UCJ2ZP-3Hzk6pJdl-8pRzroQ",
+      "publishedAt": "2026-11-14T04:59:49Z",
+      "description": "#shorts #AI #ClaudeCode\nClaude Code の新しい実験機能「Code Mode」を、本物の端末で実際に試しました。AIが段取りをプログラムに書いて、道具をまとめて動かす機能です。\n\n▼やったこと\n・練習用のメモ帳（レシピと旅のメモ36ファイル、リンク244本、こわれたリンク12本）を用意。正解は先にプログラムで数えておく\n・同じ一文「このフォルダの Markdown ファイルを全部読んで、存在しないファイルを指しているリンクを一覧にしてください。」を、ふつうで3回、Code Mode で3回（Claude Code 2.1.325、Sonnet 5.5、毎回新しい会話、手直しなし）\n・終わった回は全部のせています\n\n▼結果\n・正解：6回とも12本すべて見つけた\n・AIが道具を頼んだ回数：ふつう2〜3回／Code Mode は毎回1回（その中で読み取り36回＋確認216〜217回が動いた）\n・AIが読んだ量：ふつう13万〜19万トークン／Code Mode 約4.7万トークン（平均で約3分の1）\n・かかった時間：ふつう17〜20秒／Code Mode 169・27・169秒\n・Code Mode が遅かった理由：ファイルがあるかを1本ずつ順番に216回確かめていた（AIが考えた時間はどの回も約5秒）\n\n▼注意\n・1つのお題・6回、Windows の1台だけの結果です。「必ずこうなる」とは言えません\n・画面は、本物の Claude Code を動かした出力です（再現ではありません）\n・Code Mode は実験中の機能で、変わったりなくなったりすることがあります（公式ドキュメント）\n・使える条件（公式ドキュメントより）：Claude Code 2.1.323 以降、端末の対話モードだけ。デスクトップアプリ・VS Code・クラウドでは使えません。環境変数 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 を付けて起動\n\nあなたなら、AIに何を一気にやらせますか？一言でも大歓迎です。\n見てくれてありがとうございます。次も話題の機能を本当に試します。\n\nVOICEVOX:青山龍星　VOICEVOX:冥鳴ひまり\nBGM：Kevin MacLeod「Carefree」(CC BY 4.0) https://incompetech.com / https://creativecommons.org/licenses/by/4.0/\n効果音：効果音ラボ\nフォント：源暎フォント（SIL OFL）\n#CodeMode #Claude #AI活用 #生成AI #トリマンのAI研究所",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/yXoNAvoa9NM/mqdefault.jpg",
+      "durationSec": 39,
+      "views": 1011,
+      "likes": 3,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "claude"
+      ]
+    },
+    {
+      "id": "gkn31yHYBLw",
+      "url": "https://www.youtube.com/watch?v=gkn31yHYBLw",
+      "title": "【1分生成AIニュース 】Anthropicが「Whiteboards」「Sheets」「Data」の3大新機能を一挙発表#1分aiニュース #生成ai #生成ai",
+      "channel": "文系のAIコーディング-言葉でつくる",
+      "channelId": "UCO6tb_mafmEiYm1BWLqOazw",
+      "publishedAt": "2026-11-13T22:00:36Z",
+      "description": "ClaudeがただのチャットAIから最強の「仕事場」に進化しました！🚀✨\nAnthropicが「Whiteboards」「Sheets」「Data」の3大新機能を一挙発表！\n\n✅ Whiteboards：AIとチームで共同ブレスト\n✅ Sheets：指示ひとつで数式付き表計算を作成\n✅ Data：指標データから解説動画まで自動生成\n\n別アプリへの面倒なコピペはもう不要！Claudeひとつで仕事が完結する時代が来ました🔥\n\n詳細：https://claude.com/ja/resources/articles/sheets-whiteboards-data\n\n#Claude #Anthropic #生成AI #業務効率化 #仕事術 #最新AI",
+      "tags": [
+        "#生成AI",
+        "1分AIニュース",
+        "最新情報",
+        "生成AIニュース",
+        "ai情報"
+      ],
+      "audioLang": "",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/gkn31yHYBLw/mqdefault.jpg",
+      "durationSec": 51,
+      "views": 1006,
+      "likes": 5,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "claude"
+      ]
+    },
+    {
       "id": "6_gKk-ApbZw",
       "url": "https://www.youtube.com/watch?v=6_gKk-ApbZw",
       "title": "Claude Fable 5.2登場！重い仕事を丸ごと任せる使い方",
@@ -3859,7 +5675,8 @@ window.SNAPSHOT = {
       "live": "none",
       "lang": "ja",
       "cats": [
-        "seedance"
+        "seedance",
+        "charanime"
       ]
     },
     {
@@ -3881,6 +5698,37 @@ window.SNAPSHOT = {
       "live": "none",
       "lang": "ja",
       "cats": []
+    },
+    {
+      "id": "wI88JCCU0lQ",
+      "url": "https://www.youtube.com/watch?v=wI88JCCU0lQ",
+      "title": "Googleマップ新機能｜AIが旅程づくりと予約探し",
+      "channel": "星餓りな",
+      "channelId": "UCDIg0hL5OV6xB5V8GtV-g9A",
+      "publishedAt": "2026-11-16T23:28:20Z",
+      "description": "GoogleがGoogleマップの対話AI「Ask Maps」に、旅程づくりと予約の空き枠探しを加えました（米国時間11月16日発表）。\nりなの見方：旅の下調べから道案内までマップ1つで済めば、出発前の調べものが減りそうです。ただ、日本での提供はまだ発表されていないので、今は続報待ちです。\n\n▼ポイント\n・Ask Mapsに頼むと、日ごとの旅程ができ、立ち寄り先に番号つきのピンが付く。家族や友人と共有でき、パソコンならGoogleドキュメントに書き出せる\n・出かけるときは渋滞や営業中かどうかなど最新の情報を見られ、途中で予定も直せる\n・美容・ペットケア・車・住宅修理の予約の空き枠を探し、お店に電話もかける（まず米国から）\n・旅程づくりと保存リストの検索は、Ask Mapsが使える200以上の国と地域で使える。Ask Mapsはこの日、欧州30か国への拡大も始まった\n・日本での提供や日本語対応、料金は発表されていない\n\n▼出典\nGoogle公式ブログ（2026年11月16日）\nhttps://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/\nTechCrunch（2026年11月16日）\nhttps://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/\nThe Verge（2026年11月16日）\nhttps://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning\n※ショート動画では、概要欄のURLはタップできません\n\n▼星餓りなについて\n毎日1本、AI・テックのニュースを1分で解説しています。\n\n#Googleマップ #AIニュース #星餓りな",
+      "tags": [
+        "AIニュース",
+        "Ask Maps",
+        "Gemini",
+        "Google Maps",
+        "Googleマップ",
+        "アスクマップス",
+        "グーグルマップ",
+        "星餓りな"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/wI88JCCU0lQ/mqdefault.jpg",
+      "durationSec": 55,
+      "views": 929,
+      "likes": 3,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new"
+      ]
     },
     {
       "id": "O_H99BFrHKM",
@@ -3905,6 +5753,73 @@ window.SNAPSHOT = {
       ]
     },
     {
+      "id": "rvcg4BQUwuI",
+      "url": "https://www.youtube.com/watch?v=rvcg4BQUwuI",
+      "title": "ChatGPTの新機能「Intelligent UI」で麻雀のサイコロを作ってみた。",
+      "channel": "社長のためのAI大学",
+      "channelId": "UCFnkNGYmjOpf9YPigkulR-A",
+      "publishedAt": "2026-11-16T05:31:04Z",
+      "description": "こんにちは、博士(工学)のきたたく（北村拓也）です。\n家族で麻雀をしようとしたら、サイコロがない。そこでChatGPTに、チャットの中で振れるサイコロを作ってもらいました。ついでに点数の計算もお任せ。\n\n水の量や気温を変えて遊べる惑星シミュレーターと、麻雀サイコロ。ChatGPTで作ったミニアプリが実際に動くところを、60秒で紹介します。\n\nあなたなら、どんなミニアプリを作りますか？\n\n#ChatGPT #生成AI #Shorts\n\n\n▼SNS\nX：https://x.com/KitatakuJP\nInstagram：https://www.instagram.com/kitatakuai/\nThreads：https://www.threads.net/@kitatakuai\nブログ：https://rebron.net/blog/contentlist/\n\nお仕事のご連絡はこちらから\nrebron.info@gmail.com",
+      "tags": [
+        "生成AI",
+        "不労所得",
+        "コンテンツビジネス"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/rvcg4BQUwuI/mqdefault.jpg",
+      "durationSec": 61,
+      "views": 891,
+      "likes": 3,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "chatgpt"
+      ]
+    },
+    {
+      "id": "6JA6kRaFQgU",
+      "url": "https://www.youtube.com/watch?v=6JA6kRaFQgU",
+      "title": "Google Antigravity新機能、AIチームが13年来の数学の予想を証明 #Shorts",
+      "channel": "KEN TECH TIMES",
+      "channelId": "UCABc6WdcKrhz-bYmPxYyv9w",
+      "publishedAt": "2026-11-16T04:23:44Z",
+      "description": "Google Researchは、開発ツール「Antigravity」の新機能「/teamwork」で、複数のGemini 4を役割分担させたAIチームが数学や化学、システム開発で成果を上げたと公表しました。2013年から未解決だった情報理論の予想の証明などを挙げ、外部の研究者や開発者にも機能を開放します。詳しくは記事で👇\nhttps://kentechtimes.com/articles/2026-11-16-google-antigravity-teamwork-research/\n#Google #Gemini #Antigravity #AIエージェント #生成AI #テックニュース #KENTECHTIMES",
+      "tags": [
+        "KEN TECH TIMES",
+        "AIニュース",
+        "テックニュース",
+        "海外ニュース",
+        "ChatGPT",
+        "OpenAI",
+        "Claude",
+        "Anthropic",
+        "Gemini",
+        "Google AI",
+        "Apple",
+        "iPhone",
+        "PlayStation",
+        "PS5",
+        "Nintendo",
+        "Switch 2",
+        "Steam"
+      ],
+      "audioLang": "en-US",
+      "defaultLang": "en-US",
+      "thumbnail": "https://i.ytimg.com/vi/6JA6kRaFQgU/mqdefault.jpg",
+      "durationSec": 35,
+      "views": 864,
+      "likes": 2,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new"
+      ]
+    },
+    {
       "id": "RSzjCcfsBKo",
       "url": "https://www.youtube.com/watch?v=RSzjCcfsBKo",
       "title": "資料が一言でサイトに｜Gemini Notebook の使い方3つ #shorts",
@@ -3923,6 +5838,80 @@ window.SNAPSHOT = {
       "live": "none",
       "lang": "ja",
       "cats": [
+        "gemini"
+      ]
+    },
+    {
+      "id": "3wPvznk4cdw",
+      "url": "https://www.youtube.com/watch?v=3wPvznk4cdw",
+      "title": "【週刊ニュース】Claudeの新機能で何が変わる？Excel・スプレッドシート操作に対応したAIの進化を解説【Anthropic・Google Gemini】",
+      "channel": "うさぎハッカーのAIラボ by CodeRabbit",
+      "channelId": "UCBQrRB-Mtth5mziqog3JU2A",
+      "publishedAt": "2026-11-16T09:00:40Z",
+      "description": "CodeRabbitによるGPT-6 Cyberのベンチマーク記事はこちら↓\nhttps://www.coderabbit.ai/ja/blog/gpt-6-cyber-security-evaluation\n\n今回の動画は、OpenAIの「GPT-6 Cyber」やClaudeの新機能、Google Antigravityの「/swarm」など、最新AIニュースについてお話ししました\n是非最後までご覧ください！\n\n🐇自己紹介動画🐇\n→https://youtu.be/lWsPrGNXF8Y\n\n＝＝＝＝＝＝＝\nAI時代の開発を加速させる！うさぎのアツシです！\nこのチャンネルでは、エンジニア歴20年以上・グローバルでの開発者コミュニティ運営経験を持つうさぎのアツシが、AIコードレビューを中心に、開発効率を最大化するための実践的なノウハウや最新のAI・ITトレンドをわかりやすく解説していきます！\nAIによってコードの“量”が増え続ける時代において、レビュー負荷や品質管理に悩むエンジニアに向けて、実務でそのまま使える形で再現性高くお届けします。\n\n↓今のうちに、チャンネル登録する↓\nhttps://www.youtube.com/@rabbit_hacker\n\n＝＝＝＝＝＝＝\n【他SNSも配信中👀】\n\nX\n→https://x.com/coderabbitaija\n\nHP\n→https://coderabbit.link/youtubeja\n\nDiscordコミュニティ\n→https://discord.gg/coderabbit\n\n＝＝＝＝＝＝＝\n■目次■\n＝＝＝＝＝＝＝\n00:00 ハイライト\n00:11 本日のテーマ\n00:33 AIモデル・プロダクト\n06:35 AIコーディング・開発ツール\n08:22 AIエージェント・自律実行\n13:48 AIセキュリティ・脆弱性発見\n17:22 まとめ\n17:55 アフタートーク\n＝＝＝＝＝＝＝\n\nCodeRabbitは、AIを活用したソフトウェア開発ライフサイクル「AI SDLC」全体を支援するプラットフォームです。AIが生成する大量のコードをチームが理解し、優先順位を判断し、品質と安全性を確かめながらリリースできるよう、4つの軸で開発を支えます。\n\n- Review：変更の品質を確かめる\n  コードベースやチームのルールを踏まえて、プルリクエストを自動レビュー。バグやテストの不足を検出し、修正案の提示やコーディングエージェントとの連携を通じて、修正と検証を支援します。\n- Triage：取り組む順序を決める\n  プルリクエストの価値・リスク・レビュー工数を評価し、優先順位付けや担当者の割り振りを支援。重要な変更に人の判断を集中させます。\n- Explain：変更を理解する\n  大規模な変更の意図や影響範囲を、要約や図解で整理。確認しやすい順序で案内し、開発者が変更内容を理解して判断できるよう支援します。\n- Secure：安全性を継続的に守る\n  コードベースを継続的に監視・スキャンし、脆弱性の発見から悪用可能性の検証、修正案の作成までを支援します。\n\nSlackで利用できるCodeRabbit Agentも、計画の具体化や障害調査、修正PRの作成を支援します。AIによる開発の速度を生かしながら、チームの手戻りと確認負荷を減らし、開発速度と品質の両立を後押しします。\n◆中津川篤司のプロフィール\n\nエンジニア歴約20年。ドットコムバブル・スマホ・IoT・AIといった技術変遷を現場で経験。\n\nインターネット黎明期には海底ケーブルプロジェクトに関わり、世界各地で活動。\nその後もOSS・DevRel領域において先駆的に取り組み、日本におけるDevRel文化の普及に貢献。\n\nオープンソース紹介メディアを20年以上継続し、開発者コミュニティの立ち上げや、国内外のカンファレンス運営も多数実施。\n\n現在は、AIコードレビューサービス「CodeRabbit」に関わりながら、開発者の生産性向上とコミュニティ形成を支援している。\n\n\n【実績】\n・エンジニア歴約20年\n・OSS紹介メディアを20年以上継続運営\n・DevRel文化を日本に普及\n・国内外のカンファレンスを多数企画・運営\n・年間約50本の登壇実績\n・海外コミュニティ（インド）立ち上げ・運営\n\n-------------------------------------------\n楽曲提供:Audiostock https://audiostock.jp/\n-------------------------------------------\n\n#エンジニア #業務効率化  #AIニュース #Claude #AIエージェント",
+      "tags": [
+        "Coderabbit",
+        "CodeRabbit",
+        "コードラビット",
+        "うさぎはっかー",
+        "うさぎハッカー",
+        "AIラボ",
+        "ailabo",
+        "エンジニア",
+        "シニアエンジニア",
+        "AI",
+        "コーディング",
+        "バイブコーディング",
+        "SE",
+        "プログラマー",
+        "セキュリティ",
+        "セキュア",
+        "システム",
+        "運用",
+        "技術",
+        "コードレビュー",
+        "プルリクエスト",
+        "コーディング学習",
+        "github",
+        "git",
+        "CodeX",
+        "テックリード",
+        "エンジニアリングマネージャー",
+        "フルスタックエンジニア",
+        "AIエンジニア",
+        "生成AI",
+        "AIニュース",
+        "最新AI",
+        "OpenAI",
+        "Daybreak",
+        "AIセキュリティ",
+        "Claude",
+        "Anthropic",
+        "Claude Fable 5.2",
+        "Claude Sheets",
+        "Google",
+        "Gemini",
+        "Google Antigravity",
+        "サブエージェント",
+        "GitHub",
+        "Meta",
+        "Apple",
+        "Linux",
+        "Firefox",
+        "AIツール"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/3wPvznk4cdw/mqdefault.jpg",
+      "durationSec": 1137,
+      "views": 817,
+      "likes": 7,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "new",
+        "claude",
         "gemini"
       ]
     },
@@ -4291,7 +6280,8 @@ window.SNAPSHOT = {
       "live": "none",
       "lang": "ja",
       "cats": [
-        "seedance"
+        "seedance",
+        "charanime"
       ]
     },
     {
@@ -4476,7 +6466,8 @@ window.SNAPSHOT = {
       "live": "none",
       "lang": "ja",
       "cats": [
-        "seedance"
+        "seedance",
+        "charanime"
       ]
     },
     {
@@ -4585,12 +6576,49 @@ window.SNAPSHOT = {
       "defaultLang": "ja",
       "thumbnail": "https://i.ytimg.com/vi/JuwHq7Oqceo/mqdefault.jpg",
       "durationSec": 437,
-      "views": 273,
+      "views": 274,
       "likes": 4,
       "comments": 0,
       "live": "none",
       "lang": "ja",
-      "cats": []
+      "cats": [
+        "muse"
+      ]
+    },
+    {
+      "id": "QSh6XfmHh78",
+      "url": "https://www.youtube.com/watch?v=QSh6XfmHh78",
+      "title": "【要点だけ】Grok Botの使い方が全部わかる",
+      "channel": "AIでラクする研究室",
+      "channelId": "UC4vpZkUVboxUOEaG65iGahw",
+      "publishedAt": "2026-11-14T03:12:31Z",
+      "description": "この動画を見終わると、Grokボットで、最初のボットを作り、仕事を頼むところまで、できるようになります。手順は、プランの確認、アプリの導入、サインイン、最初の頼み方の四つ。最初の画面から、順に見せます。\n\n▶ 本編（全部の手順つき）はこちら\nhttps://youtu.be/h-6WEGOkxSk\n\n━━━━━━━━━━━━━━━━\n▼ AI活用・AIでSNSを効率化したい方へ（公式LINE）\n無料特典＆最新情報を配布中。AIでSNSを効率化したい方は、下記の公式LINEを覗いてみてください👇\nhttps://line.me/ti/g2/1iymoQhSOvW7V5X6vq9zXmOzUrfbloWHBZJffQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default\n━━━━━━━━━━━━━━━━\n\n#shorts #AI活用 #AIでラクする研究室",
+      "tags": [
+        "AIでラクする研究室",
+        "Grok",
+        "Grok Bot",
+        "Grok Bot スキル",
+        "Grok Bot ルーティン",
+        "Grok Bot 使い方",
+        "Grok Bot 入門",
+        "Grok Bot 始め方",
+        "Grok Bot 承認カード",
+        "shorts",
+        "グロックボット",
+        "グロックボット 使い方"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/QSh6XfmHh78/mqdefault.jpg",
+      "durationSec": 65,
+      "views": 244,
+      "likes": 0,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "grok"
+      ]
     },
     {
       "id": "FkGMQ_jmz08",
@@ -4635,6 +6663,51 @@ window.SNAPSHOT = {
         "claude",
         "chatgpt",
         "gemini"
+      ]
+    },
+    {
+      "id": "2XrWswXaIt8",
+      "url": "https://www.youtube.com/watch?v=2XrWswXaIt8",
+      "title": "【私のGrok Bot活用】話すだけで窓際のAI部長3体が日報係に｜ムダだった1体は解雇",
+      "channel": "AIアイデアファクトリー【AIツール解説ch】",
+      "channelId": "UCCWoZ2fhlri1LhPvehF7YoQ",
+      "publishedAt": "2026-11-15T10:46:55Z",
+      "description": "▼X（旧Twitter）\nhttps://x.com/ai_idea_labo\n\n24時間動いてくれるAIエージェント「Grok Bot」で、私は「AIアイデアファクトリー」という架空の会社をつくり、部長ボットやタスク担当のボットに仕事を回してもらっています。\n今回は、その運用のリアルな現状を紹介しつつ、メインボット「レム」と音声で対話しながら、ボットの組織と報告の仕組みを見直しました。\n\n▼この動画で分かること\n・私のGrok Botの使い方（作る・調べる・運用する）\n・Grok Bot → Claude Code → ChatGPT Codex で企画を作って事実確認する流れ\n・ボットの組織「AIアイデアファクトリー」の体制（メインボット・部長・各ボット）\n・音声対話で「調整部長は必要か？」をメインボットに相談 → 廃止に決定\n・日報（毎晩21時）と週報（土曜12時）の仕組みを対話で設計\n・週報で見る数字（再生数・表示回数・CTR・反応率）\n・部長同士の横連携と、部署を増やすべきかの相談\n\nうまくいっている所だけでなく、まだ整理できていない所もそのままお見せしています。\n※5:30ごろ、事実確認で不正確な点が見つかったときの戻し先を「Codex」と言っていますが、正しくは「Claude Code」です。失礼しました。\n※画面に映る設定やボットの構成は収録時点のものです。個人情報を扱うボットは画面に映していません。\n\n▼チャプター\n0:00 Grok Botの運用を見直す\n2:25 私の使い方 作る・調べる・運用\n4:40 調べたものから企画を作る流れ\n6:28 いまの体制 AIアイデアファクトリー\n8:28 Grok Botの画面\n10:13 レムと対話① 調整部長は必要？\n14:40 対話①を終えて\n17:38 仕組み化 日報と週報\n19:02 レムと対話② 日報・週報を設計\n25:58 部長同士の横連携\n27:15 部署を増やすべき？\n30:14 まとめ\n\nこの動画が役に立った、面白かったと思っていただけたらグッドボタンを、役に立たなかったらバッドボタンで、忖度のない評価をいただけると励みになります。\nAIツールの最新情報や、個人でも使える活用事例・検証動画を投稿していますので、よろしければチャンネル登録をお願いします。\nGrok Botをどう使っているか、ボット同士をどう回しているかも、ぜひコメント欄で教えてください。\n\n#GrokBot #AIエージェント #AI活用",
+      "tags": [
+        "Grok Bot",
+        "GrokBot",
+        "Grok",
+        "グロック",
+        "グロックボット",
+        "xAI",
+        "AIエージェント",
+        "AIボット",
+        "AI組織",
+        "AIで会社運営",
+        "AI自動化",
+        "音声対話",
+        "日報",
+        "週報",
+        "Claude Code",
+        "ChatGPT Codex",
+        "Codex",
+        "マルチエージェント",
+        "AI活用",
+        "AIツール",
+        "使い方",
+        "AIアイデアファクトリー"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/2XrWswXaIt8/mqdefault.jpg",
+      "durationSec": 1912,
+      "views": 234,
+      "likes": 5,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "grok"
       ]
     },
     {
@@ -4755,6 +6828,28 @@ window.SNAPSHOT = {
       "lang": "ja",
       "cats": [
         "seedance"
+      ]
+    },
+    {
+      "id": "EykqVZ5r_5g",
+      "url": "https://www.youtube.com/watch?v=EykqVZ5r_5g",
+      "title": "【Grok Bot】スマホに置くAIの部下が神すぎた！向こうから気づいて動く5つの仕事を徹底解説",
+      "channel": "ソラのAIマーケ教室",
+      "channelId": "UCJLpESF9bY9EyM7bK-04N5g",
+      "publishedAt": "2026-11-14T10:00:09Z",
+      "description": "🎁【無料】AI活用の特典動画6本をプレゼント中！LINEオープンチャット「ソラのAI学習部屋」はこちら\nhttps://line-tokuten-ai.vercel.app/?v=no042\n\nパソコンを閉じても、裏でずっと仕事を進めてくれるAIがあったらいいのにな、と思ったことはありませんか？\n\n今まで、Claude Codeにそういう任せ方をしようと思ったら、家にMac miniを置いておくか、VPSを借りて自分で組むしかありませんでした。私も組んでいたんですけど、エラーで止まるし、返事は遅いし、ずっとヒヤヒヤしていました。\n\n今日は、アプリを入れてログインするだけで使えるGrok Botについて、皆さんでも使えそうな5つの使い方と、正直イマイチやったところまでお話しします。\n\n▼今日の内容\n・今までは、Mac miniかVPSしかなかった\n・自分で組んだ仕組みは、もろかった\n・Grok Botは、それが全部アプリ1つに入ってる\n・Claude Codeと、何が違うのか（違いは4つ）\n・始め方と、Typelessを組み合わせるコツ\n・リサーチが、ほんまに強い\n・仕事1：出費の見張り番\n・仕事2：freeeの明細から、無駄な引き落としを洗い出す\n・仕事3：詐欺メールと払い忘れの見張り\n・仕事4：月末の請求書づくり\n・仕事5：予約ミスの見張り\n・Claude CodeやCodexを動かす指示役にもなる\n・いくらかかるのか\n・正直、ここは神じゃなかった\n・もう1つの懸念：Grok Botも弱くされるかもしれない\n・結局、どう使い分ける？\n\n▼このチャンネルについて\n「ソラのAIマーケ教室」は、マーケの現場からAIをいちばんやさしくお届けするチャンネルです。\n\n私は普段、マーケティングの仕事をしています。AIについては、いままさに勉強中です。.AI（ドットエーアイ）というAIのコミュニティに入っていて、そこで学んだことを仕事でも使い始めています。\n\n「AIって聞くだけでちょっと身構えちゃう」という方に、私が実際にやってみて詰まったところまで含めてお話ししていくので、よかったらチャンネル登録して一緒に勉強していきましょう！\n\n#GrokBot #Grok #ClaudeCode #AIエージェント #AIマーケティング",
+      "tags": [],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/EykqVZ5r_5g/mqdefault.jpg",
+      "durationSec": 1394,
+      "views": 179,
+      "likes": 3,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "grok"
       ]
     },
     {
@@ -4890,6 +6985,138 @@ window.SNAPSHOT = {
       "lang": "ja",
       "cats": [
         "seedance"
+      ]
+    },
+    {
+      "id": "h-6WEGOkxSk",
+      "url": "https://www.youtube.com/watch?v=h-6WEGOkxSk",
+      "title": "【決定版】Grok Botの使い方が全部わかる｜パソコンを閉じてもAIが仕事を進めてくれる始め方",
+      "channel": "AIでラクする研究室",
+      "channelId": "UC4vpZkUVboxUOEaG65iGahw",
+      "publishedAt": "2026-11-13T10:00:34Z",
+      "description": "Grok Botの使い方を、最初の1体を作るところから順に解説します。パソコンを閉じてもクラウドでAIが仕事を進めてくれる始め方を、プランの確認・アプリの導入・サインイン・最初の頼み方まで、画面のどこを押すかに沿って紹介します。\n\n━━━━━━━━━━━━━━━━\n▼ AI活用・AIでSNSを効率化したい方へ（公式LINE）\n無料特典＆最新情報を配布中。AIでSNSを効率化したい方は、下記の公式LINEを覗いてみてください👇\nhttps://line.me/ti/g2/1iymoQhSOvW7V5X6vq9zXmOzUrfbloWHBZJffQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default\n━━━━━━━━━━━━━━━━\n\n■ この動画でわかること\n・Grok Botを使えるプランと、アプリの入れ方・サインインの手順（2026年11月時点の公式表示にもとづく）\n・仕事の頼み方の型と、承認カードの3つのボタンの意味\n・ブラウザ操作やアプリ連携のつなぎ方と、つまずきやすい点\n・スキル・ルーティン・記憶を使って、仕事を型にして自動で回す流れ\n・スマホからの依頼、使用量の確認場所、安全のための設定\n・今日から始める次の3つのステップ\n\n■ こんな人におすすめ\n・Grok Botの使い方を、最初の画面から順に知りたい人\n・AIに仕事を頼みたいけれど、画面の前で待つのがつらい初心者の方\n・パソコンを閉じても作業を進めてくれるAIの仕組みを知りたい人\n\n■ 注意事項\n・料金・機能・画面表示は2026年11月時点の公式情報にもとづいており、今後変更される場合があります。最新情報は公式サイトでご確認ください。\n・動画内のボタン名は英語表示のドキュメントの表記を読み上げています。日本語表示では異なる場合があります。\n・ご利用はご自身の判断と責任でお願いします。\n\n#GrokBot #Grok使い方 #AI活用\n\n▼ あわせて見たい動画\n・【衝撃】Grok Botで仕事の頼み方が激変する理由TOP5｜スマホから一言送るだけでAIが動き出す\nhttps://www.youtube.com/watch?v=rb-DNzz2Sac\n・【決定版】Claude Codeが対応する領域が全部わかるTOP7\nhttps://www.youtube.com/watch?v=yaBtUS8wV9c\n・【神連携】Claude×DaVinci Resolve設定術\nhttps://www.youtube.com/watch?v=ND9puTJqEvw\n▼ チャンネル登録（新しい動画の通知が届きます）\nhttps://www.youtube.com/channel/UC4vpZkUVboxUOEaG65iGahw?sub_confirmation=1\n\n■ 目次\n0:00 今日の結論\n0:23 あるある\n2:59 頼み方\n5:08 ブラウザと連携\n6:53 スキルと定期実行\n9:34 応用\n10:52 注意点\n12:17 次にやること",
+      "tags": [
+        "AI 仕事 自動化",
+        "AI 初心者",
+        "AI 自動化",
+        "AIでラクする研究室",
+        "Grok",
+        "Grok Bot",
+        "Grok Bot スキル",
+        "Grok Bot ルーティン",
+        "Grok Bot 使い方",
+        "Grok Bot 入門",
+        "Grok Bot 始め方",
+        "Grok Bot 承認カード",
+        "グロックボット",
+        "グロックボット 使い方"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/h-6WEGOkxSk/mqdefault.jpg",
+      "durationSec": 791,
+      "views": 73,
+      "likes": 0,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "grok"
+      ]
+    },
+    {
+      "id": "eRP10t88oKI",
+      "url": "https://www.youtube.com/watch?v=eRP10t88oKI",
+      "title": "AIエージェントとは？Muse・dots・Grok Botを3つ使って比較｜違い・料金・選び方【初心者向け】",
+      "channel": "arisan / AI活用・開発・デザイン",
+      "channelId": "UCJ3L35lyR_KLSXr9_hO8bgQ",
+      "publishedAt": "2026-11-17T16:52:04Z",
+      "description": "AIエージェントとは何か。Muse・dots・Grok Botは何が違って、結局どれを使えばいいのか。\n3つとも使っている私が、チャットAIとの違いから、それぞれの「作られた考え方」「いい所」「料金」と、実際の使い方を画面つきでまとめました。\n\n先に結論です。\n・自分用の画面を作りたい、まず無料で試したい → Muse\n・Xで発信していて、仕事を分けて任せたい → Grok Bot\n・dotsは、正直、まだ使いこなせていません（理由も話します）\n\nこんな人に見てほしい動画です。\n・AIエージェントって何？から知りたい\n・Muse / dots / Grok Bot の違いを、ざっくり知りたい\n・いくらかかるのか、先に知りたい\n・実際に使っている人の画面が見たい\n\n▼タイムライン\n00:00 結論｜3つ使っている私の答え\n00:31 そもそもAIエージェントとは？\n01:05 Muse｜Metaの「相棒」 いい所・料金・私の使い方\n03:21 Grok Bot｜xAIの「チームメイト」 Xの投稿が読める・料金・私の使い方\n05:59 dots｜OpenAIの「秘書」 料金と正直な話\n08:05 料金を横に並べる\n08:20 タイプ別のおすすめ\n\n▼料金のメモ（2026年11月時点。変わることがあります。申し込む前にご自身の画面で確認してください）\n・Muse: 基本無料／Power 月20ドル／Maximum 月100ドル\n・Grok Bot: Xのサブスクリプションの Premium 月5,280円から（Plus 月1,280円では使えません）\n・dots: ChatGPT の Pro（月100ドルから）／Business Premium（Plus 月20ドルでは使えません）\n\n▼公式ページ\n・Muse（Meta）: https://muse.ai\n・Grok Bot（xAI）: https://docs.x.ai/grok-bot\n・ChatGPT（OpenAI）: https://chatgpt.com\n\n▼「ほかの人の使い方」で参考にした記事\n・Museのスペースで献立アプリ: https://note.com/kantokuai/n/nf2e2ec115e31\n・Museのスペース活用例: https://note.com/makari_5108010/n/n5f3680f0a118\n・Muse Spacesで予定管理と英単語ゲーム: https://note.com/kazu_t/n/nbf8e882ac64a\n・Grok Botに毎朝の投稿下書きを任せる: https://note.com/marikkadayo/n/na8f35d30d204\n・Grok Botを使ってみた: https://nichicoma.co.jp/blog/grok-bot-experience\n・dotsの活用事例: https://weel.co.jp/media/innovator/use-cases-for-dots\n\n▼注意\n・動画の内容は2026年11月時点のものです。画面・機能・料金は変わることがあります\n・「相棒・チームメイト・秘書」は、公式の説明をもとにした私のまとめです\n・ほかの人の使い方は、個人の報告を要約したものです。同じ結果になるとは限りません\n・各サービスの名前・ロゴ・アイコン・キャラクターは、提供元の商標・著作物です。この動画は非公式の紹介で、提供元から提供・推奨を受けたものではありません\n・この動画の制作の一部にAIを使っています\n\n▼音声\nVOICEVOX:雨晴はう\n\n▼X\nhttps://x.com/a_r_isan\n\n#AIエージェント #Muse #dots #GrokBot #AIエージェント比較 #ChatGPT #Grok #AI活用",
+      "tags": [
+        "AIエージェント",
+        "AIエージェントとは",
+        "AIエージェント 比較",
+        "Muse",
+        "dots",
+        "Grok Bot",
+        "GrokBot",
+        "AI秘書",
+        "違い",
+        "料金",
+        "使い方",
+        "ChatGPT",
+        "Grok",
+        "Meta",
+        "xAI",
+        "OpenAI"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/eRP10t88oKI/mqdefault.jpg",
+      "durationSec": 536,
+      "views": 50,
+      "likes": 3,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "grok",
+        "muse"
+      ]
+    },
+    {
+      "id": "WfZhd_7Wk-k",
+      "url": "https://www.youtube.com/watch?v=WfZhd_7Wk-k",
+      "title": "Grok Botの使い方に迷ったら、頼み事の受付役に絞って作業は別のAIへ回す",
+      "channel": "AI氣道",
+      "channelId": "UCEzawhU9T9apnRMLJBd3e4Q",
+      "publishedAt": "2026-11-18T08:00:07Z",
+      "description": "Grok Botの使い方に迷ったら、頼み事の受付役に絞って作業は別のAIへ回す\n\n詳しくはブログ:\nhttps://ai-kidou.jp/video-report-grok-bot-uketsuke-yaku/\n\n▼ 関連リンク\n⭐ ひろくんのAIリンクまとめ（メルマガ・コミュニティは全部ここから）：https://bunshin-ai.com/links/\n🎁 Aiport無料登録（CC-Booster無料版を受け取る）：https://info.ooen-booster.com/p/gxEYX1ypp1iu\n📝 note（@tanaboo0502）：https://note.com/tanaboo0502\nAI氣道（最新情報）：https://ai-kidou.jp/\nClaude Code・AIエージェント実践会（LINE／参加コード：1111）：https://line.me/ti/g2/zqEpKeNzMeqxz35USQgdWXZIpMr01SjVWIjkgg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default\nGPTs研究会（Facebookグループ）：https://www.facebook.com/groups/gptslabo\n分身AI.com：https://bunshin-ai.com/\nひろくん（X / Twitter）：https://x.com/passion_tanaka",
+      "tags": [
+        "AI",
+        "AI氣道",
+        "Grok Bot",
+        "Shorts"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/WfZhd_7Wk-k/mqdefault.jpg",
+      "durationSec": 43,
+      "views": 43,
+      "likes": 0,
+      "comments": 0,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "grok"
+      ]
+    },
+    {
+      "id": "EZIj4QCKA70",
+      "url": "https://www.youtube.com/watch?v=EZIj4QCKA70",
+      "title": "Grok Botの買い物機能の使い方｜備品探しから比較・購入前確認まで",
+      "channel": "仕事に活かすAI実務検証室",
+      "channelId": "UCNfL-ASgClOocus5JOHbH1w",
+      "publishedAt": "2026-11-13T07:52:29Z",
+      "description": "Grok Botの買い物機能で、架空の美容室の収納ワゴンを探し、条件を足し、同じ項目の表で比べ、購入ボタンの手前まで確かめた流れを、アプリの実際の画面で見ていきます。\n\n■ すぐ試せる依頼文（プロンプト）\n動画の中で、検証用のBotに送った文面です（品物と数字は入れ替えて使えます）。\n1. 最初の依頼\n美容室で小物収納に使うワゴンを探してください。白色、キャスター付き、三段で、一台です。幅45cm以下、奥行き35cm以下、高さ85cm以下。税込み、送料込みで8,000円以内。東京都内への配送で、11月14日までの到着を希望します。候補は三つまで。商品ページのリンクと、条件に合う理由を示してください。購入や注文確定はしないでください。\n2. 色とサイズ・寸法の根拠を確かめる\n各候補について、選択している色とサイズを明記してください。幅、奥行き、高さは、商品ページに書かれた数値で比較してください。\n3. 条件を足す（維持する条件も書く）\n移動後に固定したいので、キャスターにストッパーが付いたものを優先してください。最初の寸法、予算、到着希望日は維持してください。候補が変わる場合は、その理由も教えてください。\n4. 同じ項目の表にする\n商品名、販売者、選択した色とサイズ、寸法、ストッパーの有無、商品代、送料、支払総額、到着予定日、返品条件を、同じ項目の表にしてください。金額や納期には、確認したページのリンクを付けてください。\n5. 送料・付属品・組み立てを確かめる\nこの候補について、一台購入時の送料と、税込みの支払総額を確認してください。写真に写っているフックや仕切りが付属するか、組み立てが必要かも確認してください。\n6. 購入前の確認（注文確定・決済・カート追加はしない）\nこの候補について、購入前に内容を確認したいです。商品、色、サイズ、数量、送料や税を含む総額、到着予定を整理してください。注文確定や決済、カートへの追加はせず、購入前の確認で止めてください。\n\n■ 動画の内容\n・今までとの違い（検索タブの往復 → 会話の中の商品カード）\n・最初の依頼（置く場所・総額・必要な日を一緒に伝える）\n・商品カードと商品ページ（「今すぐ購入」のボタンは押していません）\n・条件の追加（ストッパー）と、候補が替わる理由\n・同じ項目の比較表（商品名・販売者・色・サイズ・寸法・ストッパー・商品代・送料・支払総額・到着予定日・返品条件）\n・比較の結論（この条件で選ぶ一台）\n・送料・付属品・返品条件の確認\n・購入前の確認と、最後に人が見る項目\n\n■ チャプター\n0:00 冒頭\n0:50 今回の設定\n1:31 最初の依頼\n3:14 商品カードと商品ページ\n4:28 条件の追加\n5:35 同じ項目で比較\n7:08 送料・付属品・返品条件\n8:06 購入前の確認\n9:58 まとめ\n\n■ 公式の情報（要約は当研究所によるもの）\n・Link をつないでいる場合の支払いの承認（Pay／別の方法で払う／拒否）: https://docs.x.ai/grok-bot/vault\n\n■ 試した条件\n・2026年11月8日・Grok Bot アプリ・検証用に新しく作ったBot\n・店は架空の想定例です。商品ページは実在の通販サイト（Amazon・楽天市場・Yahoo!ショッピング）で、商品・価格・到着日は検証時点の表示です\n・購入・決済・カートへの追加はしていません\n\n■ この動画の音声について\nナレーションと当研究所アシスタントの声はAI音声です。当研究所アシスタントは架空のキャラクターです。BGMと効果音は当研究所の自作です。人物のイメージ映像は Pexels の無料ストック映像です。\n\nGrok Bot・Amazon・楽天・Yahoo! は各社の商標です。当チャンネルは各社と提携していません。\n\n運営・監修: EduShift（AI実務検証室）\n\n#GrokBot #AI実務検証室",
+      "tags": [
+        "Grok Bot",
+        "買い物機能",
+        "備品",
+        "AI活用",
+        "AI実務検証室"
+      ],
+      "audioLang": "ja",
+      "defaultLang": "ja",
+      "thumbnail": "https://i.ytimg.com/vi/EZIj4QCKA70/mqdefault.jpg",
+      "durationSec": 667,
+      "views": 15,
+      "likes": 0,
+      "comments": 1,
+      "live": "none",
+      "lang": "ja",
+      "cats": [
+        "grok"
       ]
     }
   ]
