@@ -27,6 +27,7 @@
 
   // 表示設定はブラウザに記憶（失敗しても動作に影響なし）
   const PREF = 'ai-weekly-prefs';
+  const LIVE_CACHE = 'toma-live-cache'; // ブラウザで取得した最新データ
   try {
     const saved = JSON.parse(localStorage.getItem(PREF) || '{}');
     ['tab', 'sort', 'hideShorts', 'onlySummarized', 'onlyPicks'].forEach((k) => k in saved && (state[k] = saved[k]));
@@ -187,6 +188,10 @@
       state.videos = r.videos;
       state.fetchedAt = r.fetchedAt;
       state.source = 'live';
+      // 取得結果を覚えておき、次に開いたときに取り直さない（開くたびに約800ユニット使ってしまうため）
+      try {
+        localStorage.setItem(LIVE_CACHE, JSON.stringify({ fetchedAt: r.fetchedAt, videos: r.videos }));
+      } catch (_) {}
     } catch (e) {
       state.error = e.message;
     } finally {
@@ -234,7 +239,7 @@
     const parts = [];
     if (state.loading) parts.push(el('span', { class: 'spin', 'aria-hidden': 'true' }), '最新の動画を取得しています…');
     else if (state.fetchedAt) {
-      const label = state.source === 'live' ? 'たった今 YouTube から取得' : '保存済みデータ';
+      const label = { live: 'たった今 YouTube から取得', cache: 'このブラウザで前に取得したデータ' }[state.source] || '保存済みデータ';
       parts.push(`${label}（${fmtDateTime(state.fetchedAt)} 時点）`);
     }
     if (state.error) parts.push(el('span', { class: 'err', text: ' 取得エラー: ' + state.error }));
@@ -655,6 +660,15 @@
     state.fetchedAt = window.SNAPSHOT.fetchedAt;
     state.source = 'snapshot';
   }
+  // このブラウザで前に取得した結果のほうが新しければ、そちらを使う
+  try {
+    const c = JSON.parse(localStorage.getItem(LIVE_CACHE) || 'null');
+    if (c && Array.isArray(c.videos) && (!state.fetchedAt || Date.parse(c.fetchedAt) > Date.parse(state.fetchedAt))) {
+      state.videos = c.videos;
+      state.fetchedAt = c.fetchedAt;
+      state.source = 'cache';
+    }
+  } catch (_) {}
   render();
   detectOwner();
   if (!state.fetchedAt || Date.now() - Date.parse(state.fetchedAt) > STALE_MS) loadLive();
