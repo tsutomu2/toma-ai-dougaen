@@ -60,7 +60,8 @@ a { color: inherit; }
 /* ヒーロー（とーまくんのあいさつ） */
 .hero { background: var(--hero-bg); border-bottom: 1px solid var(--line); overflow: hidden; }
 .hero-inner { display: flex; align-items: flex-end; gap: 8px 28px; padding-top: 24px; }
-.hero-toma { width: 190px; height: auto; flex: none; margin-bottom: -6px; }
+/* とーまくんは右向き（ふきだしの方を向く）。足と影が切れないよう、下に少し余白を取る */
+.hero-toma { width: 190px; height: auto; flex: none; margin-bottom: 14px; transform: scaleX(-1); }
 .hero-text { flex: 1; min-width: 0; padding-bottom: 22px; }
 .hero-kicker {
   display: inline-block; margin: 0 0 6px; padding: 2px 12px; border-radius: 999px;
@@ -305,7 +306,7 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
 
 /* ハンバーガーメニュー（スマホだけ。PCではタブと絞り込みをそのまま並べる） */
 .menu-bar { display: none; }
-.hero-toma-sm { display: none; }
+.hero-toma-sm { display: none; transform: scaleX(-1); }
 .menu-panel { display: contents; }
 
 /* タブ */
