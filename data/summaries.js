@@ -1173,5 +1173,168 @@ window.SUMMARIES = {
       "作り直しを含めた動画1本あたりの費用の目安"
     ],
     "summarizedAt": "2026-11-18"
+  },
+  "Sh5522OHwZs": {
+    "topic": "feature",
+    "summary": "Google の Gemini 4 Argon と、Gemini の「タスク（Spark）」機能を、Google Workspace での仕事の使い方として対談で紹介する動画。品質を上げるのはモデルの賢さよりも、エージェントが持つ「見直す作業場」だという話をしている。",
+    "points": [
+      "Gemini 4 Argon が使える環境と、Carbon との関係",
+      "タスク機能なら並行・複数の作業もまとめて任せられる",
+      "タスクなら Flash モデルでも十分な結果が出る"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "i2A0kCSUtJo": {
+    "topic": "feature",
+    "summary": "Claude Code のプロジェクト機能に入った大きなアップデートを、実際の画面で解説する動画。Duet からプロジェクトを呼び出せるようになったことや、スレッドの並行作業のしくみを紹介している。",
+    "points": [
+      "まとめ役が自分から進捗を報告してくれるようになった",
+      "btw と fork がプロジェクトでも使える",
+      "リマインダー機能、閲覧専用リンクの共有、デスクトップアプリでのモデル選択"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "aXFZTMeY354": {
+    "topic": "feature",
+    "summary": "Google の新モデル「Gemini 4 Hydrogen」を実際に使ってみる動画。Gemini 3.8 Flash に代わる速いモデルとして、調べもの・ショート動画編集・3Dゲーム作りを試している。",
+    "points": [
+      "回答がとても速く、タスクでの動画編集もうまく動く",
+      "Claude・GPT とのベンチマーク比較と、Gemini アプリでの思考レベルの選び方",
+      "three.js の3Dシューティング・金魚すくいゲームを作るプロンプトを紹介",
+      "調べものでは公式サイトより note の情報を集めがちだった点に注意"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "sRfjKq8GASM": {
+    "topic": "feature",
+    "summary": "Claude Code で毎日使っている MCP（外部ツールとつなぐしくみ）を15個紹介する動画。MCP と API・コネクタ・スキルの違いの説明から、安全に使うための注意点まで解説している。",
+    "points": [
+      "Claude in Chrome、Exa、Google Workspace（GWS MCP）をつなぐ",
+      "Slack・Notion・Canva・Miro・n8n・Plaud・Higgsfield との連携",
+      "MCP を安全に使うための注意点3つ"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "mSCpmPVPEWI": {
+    "topic": "feature",
+    "summary": "Anthropic の Claude Code チームが、AI が書いたコードをどう確かめているかを書いた記事を解説する動画。テストやレビューのしくみを作り、作る・確かめる・直すを Claude 自身に繰り返させる方法を紹介している。",
+    "points": [
+      "別の Claude に採点させると精度が上がる",
+      "エンドトゥエンドテスト・プロパティテスト・新旧比較テストの3種",
+      "verify スキルでアプリを実際に動かし、判定ルールは Claude に書き換えさせない"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "eBfODPDhAB0": {
+    "topic": "feature",
+    "summary": "Gemini のタスク機能が無料ユーザーにも開放されたことを、実際の操作で解説する動画。チャットとの違いや、調査からドキュメント・スライド作成、短いリール動画づくりまでを試している。",
+    "points": [
+      "無料アカウントで「Task」に切り替えて、調査・ドキュメント・スライド作成をまとめて頼む",
+      "動画5本から30秒のリール動画を作る",
+      "無料版の条件・添付ファイル数・動画の時間制限と、有料版との違い",
+      "米国先行の電話での予約代行や Google Pay での購入代行も紹介"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "DuO15vzhXzo": {
+    "topic": "feature",
+    "summary": "Gemini Notebook（旧 NotebookLM）の新機能「AIエージェント」で、情報集めから PowerPoint 資料づくりまでを自動にする手順を解説する動画。手持ちの PDF やメモを読ませ、チャットで指示するだけで進められる。",
+    "points": [
+      "Web 検索で業界の最新動向を自動で調べる",
+      "手持ちのデータと調査結果からスライド構成案を作る",
+      "編集できる PowerPoint（.pptx）で資料を出力し、足りない点を自分で評価して報告する"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "aTDP4y-Q_Fg": {
+    "topic": "feature",
+    "summary": "マイアミで開かれた Adobe MAX 2026 のキーノートから、Adobe の最新ツールの新機能を現地レポートする動画。「AIで作るより、AIで仕上げる」という視点で、制作の流れがどう変わるかを紹介している。",
+    "points": [
+      "Adobe MAX 2026 で発表された新機能のまとめ",
+      "Adobe のツールが制作の進め方をどう変えるかを紹介"
+    ],
+    "cats": [
+      "new"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "H0tZfmwuhKs": {
+    "topic": "feature",
+    "summary": "無料の Gemini アプリでも使える新モデル「Gemini 4 Hydrogen」を、Claude Opus 5.5 や GPT-6.1 Sol と点数・時間・費用で比べる動画。無料と有料でどこまで使えるかと、どの仕事なら乗り換えてよいかを解説している。",
+    "points": [
+      "前の Gemini 3.8 Flash から何が変わったか",
+      "Google AI Pro・ChatGPT Plus・Claude Pro の無料・有料での違い",
+      "Gemini 4 の3つのモデル（Hydrogen・Carbon・Argon）の使い分け"
+    ],
+    "cats": [
+      "new",
+      "gemini"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "AP8cPhc-0wU": {
+    "topic": "feature",
+    "summary": "ChatGPT に会社やお店の窓口を置ける新機能「Businesses in ChatGPT」（ベータ版）を解説する動画。会社情報を登録・管理する Business Hub、会社専用の AI「Business Agent」、広告とのつながりを紹介している。",
+    "points": [
+      "会社の登録のしかた（確認・情報の更新・商品フィード・Shopify）",
+      "Business Hub でわかる数字（言及の数・クリック数など）",
+      "Business Agent の守るルールと、今は米国だけで使えること"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "9-9brS4hh8I": {
+    "topic": "feature",
+    "summary": "Meta の AI「Muse」に11月に増えた新機能10個を、iPhone で1つずつ確かめる動画。日本で今日から使える・条件つきで使える・まだ使えない、の3つに分けて紹介している。",
+    "points": [
+      "日本で使える：スペース、踊る Muse",
+      "条件つき：Chrome 拡張機能「Muse from Meta」、腕時計の Muse、Muse Ember",
+      "日本はまだ：声と表情のある Muse、電話をかける、Muse のメールアドレスなど"
+    ],
+    "cats": [
+      "new"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "yNE1sPDqGSA": {
+    "topic": "feature",
+    "summary": "ChatGPT の始め方から基本の使い方までを、スマホの画面を見せながらゼロから解説する初心者向けの動画。",
+    "points": [
+      "ChatGPT をスマホで始める手順",
+      "画面を見ながら基本の使い方を覚える"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "_jJxBCChpRA": {
+    "topic": "feature",
+    "summary": "Claude Code の hooks（決まったタイミングで通知を出したり操作を止めたりする機能）の使い方を、非エンジニア向けに解説する動画。CLAUDE.md との使い分けから、設定と動作確認までを紹介している。",
+    "points": [
+      "最初に覚える4つのイベントと、設定ファイルを置く場所",
+      "編集したファイルの自動整形、大事なファイルの編集を止める設定",
+      "返答が終わったときに音とバナーで知らせる通知、削除の前に確認を出す設定"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "JuwHq7Oqceo": {
+    "topic": "feature",
+    "summary": "Meta のパーソナル AI エージェント「Muse」に話しかけるだけで、note やアメブロの記事の下書きを作る方法を紹介する動画。",
+    "points": [
+      "「今から話す内容を素材文章にしてください」と頼んで、しゃべった内容を文章にする",
+      "誤字の修正、note 用の大見出し、サムネイル画像づくりも Muse に頼む",
+      "アメブロの記事でも同じやり方でできた"
+    ],
+    "cats": [
+      "new"
+    ],
+    "summarizedAt": "2026-11-19"
+  },
+  "gOWm9pDXmEU": {
+    "topic": "feature",
+    "summary": "Gemini 4 Hydrogen が誰に提供されるかと、日常での使い分けを初心者向けに整理する動画。無料アプリではモデルの自動選択を通じて必要に応じて使われることを説明している。",
+    "points": [
+      "無料アプリでは自動選択で使われる（直接指定・全機能無料・無制限とは別）",
+      "お知らせの書き直しや、条件をまとめた検索など、役割での使い分け",
+      "提供状況や利用枠はアカウント・プランで違うので公式案内を確認する"
+    ],
+    "summarizedAt": "2026-11-19"
   }
 };
