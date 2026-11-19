@@ -1,5 +1,4 @@
 // とーまくんのひとこと（タブごと）。Claude が要約のときに更新する。
-// おすすめ動画は data/picks.js（持ち主がボタンで選ぶ）。
 window.TOMA = {
   "updatedAt": "2026-11-19",
   "comments": {

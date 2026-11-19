@@ -14,15 +14,16 @@
    *   re   … タイトルにこれが含まれる動画をこのタブに入れる
    *   days … 対象期間（省略時は7日）。動画が少ないテーマだけ長めにする
    * 1本の動画が複数のタブに入ることもある。タブを増やすときはここに足すだけでよい。
+   * ここの並び順が、そのまま画面のタブの順になる
    */
   const DEFAULT_DAYS = 7;
   const CATEGORIES = [
     { id: 'new', label: '最新機能', q: ['AI 新機能'], re: /新機能|アップデート|新モデル|リリース|登場|搭載|発表|ついに|速報/ },
     { id: 'claude', label: 'Claude', q: ['Claude 使い方'], re: /Claude|クロード|Anthropic|アンソロピック/i },
-    { id: 'seedance', label: 'Seedance', q: ['Seedance', 'Seedance 使い方'], re: /Seedance|シーダンス|シードダンス/i, days: 30 },
     // ChatGPT タブには、同じ OpenAI の Codex の動画もまとめて入れる
     { id: 'chatgpt', label: 'ChatGPT', q: ['ChatGPT 使い方', 'Codex AI'], re: /ChatGPT|チャットGPT|OpenAI|\bGPT-?\d|Codex|コーデックス/i },
     { id: 'gemini', label: 'Gemini', q: ['Gemini 使い方'], re: /Gemini|ジェミニ|NotebookLM|\bVeo\b|Nano ?Banana/i },
+    { id: 'seedance', label: 'Seedance', q: ['Seedance', 'Seedance 使い方'], re: /Seedance|シーダンス|シードダンス/i, days: 30 },
   ];
   // タブに関係なく、AIの使い方全般を拾うための追加検索
   const EXTRA_QUERIES = ['生成AI 活用術'];

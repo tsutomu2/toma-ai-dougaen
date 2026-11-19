@@ -124,8 +124,6 @@ a { color: inherit; }
   transform: rotate(45deg);
 }
 .bubble-name { font-size: 12px; font-weight: 700; color: var(--toma-mid); }
-.bubble-pick { font-size: 14px; }
-.bubble-pick a { color: var(--accent); font-weight: 700; }
 
 /* ツールバー */
 .toolbar {
@@ -171,15 +169,6 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
   background: var(--surface); border: 1px solid var(--line); border-radius: 16px;
   overflow: hidden; display: flex; flex-direction: column; box-shadow: var(--shadow);
 }
-.card.is-pick { border: 2px solid var(--accent); box-shadow: 4px 4px 0 var(--toma-blue); }
-.pick {
-  position: absolute; left: 8px; bottom: 8px; display: inline-flex; align-items: center; gap: 4px;
-  background: var(--surface); color: var(--accent); border: 2px solid var(--accent); border-radius: 999px;
-  padding: 1px 10px 1px 2px; font-size: 12px; font-weight: 700;
-  font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
-}
-.pick img { width: 22px; height: 22px; flex: none; border-radius: 50%; background: var(--toma-blue); object-fit: cover; }
-.pick { white-space: nowrap; max-width: calc(100% - 70px); }
 
 /* 用語集 */
 .toolbar-inner[hidden], .status[hidden], .grid[hidden], .glossary[hidden] { display: none; }
@@ -230,32 +219,8 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
 }
 
 /* 「とーまくんおすすめだけ」切りかえ */
-.picks-toggle {
-  display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
-  font: inherit; font-size: 14px; font-weight: 700; color: var(--accent);
-  font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
-  background: var(--surface); border: 2px solid var(--accent); border-radius: 999px; padding: 3px 14px 3px 4px;
-}
-.picks-toggle img { width: 24px; height: 24px; border-radius: 50%; background: var(--toma-blue); }
-.picks-toggle[aria-pressed="true"] { background: var(--accent); color: #fff; box-shadow: 2px 2px 0 var(--toma-blue); }
 
 /* 持ち主モード */
-.owner-bar {
-  display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px;
-  padding-top: 8px; padding-bottom: 10px; font-size: 13px;
-}
-.owner-bar[hidden] { display: none; }
-.owner-label {
-  font-weight: 700; color: var(--ja); background: var(--ja-soft); border-radius: 999px; padding: 1px 10px;
-}
-.owner-msg { color: var(--muted); flex: 1 1 200px; }
-.pick-btn {
-  align-self: flex-start; margin-top: 4px; cursor: pointer;
-  font: inherit; font-size: 13px; font-weight: 700; color: var(--accent);
-  background: var(--surface); border: 2px dashed var(--accent); border-radius: 999px; padding: 4px 14px;
-}
-.pick-btn[aria-pressed="true"] { border-style: solid; background: var(--accent-soft); }
-.pick-btn:disabled { opacity: 0.5; }
 .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: var(--line); }
 .thumb > img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .dur, .rank {
@@ -391,7 +356,6 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
     font-size: 12px; font-weight: 600; color: var(--accent); border: 1px solid var(--accent);
     border-radius: 999px; padding: 0 7px;
   }
-  .menu-current-pick { font-size: 12px; font-weight: 700; color: var(--toma-mid); white-space: nowrap; }
   .menu-panel { display: none; }
   .menu-open .menu-panel {
     display: block; position: fixed; top: 60px; left: 8px; right: 8px; z-index: 29;
