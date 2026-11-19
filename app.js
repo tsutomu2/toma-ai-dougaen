@@ -210,7 +210,26 @@
     );
   }
 
+  // ヒーロー右側の、大きな「更新日」
+  function renderUpdated() {
+    const box = $('#updated');
+    if (!state.fetchedAt) return void (box.hidden = true);
+    const d = new Date(state.fetchedAt);
+    const wd = '日月火水木金土'[d.getDay()];
+    const time = d.toLocaleTimeString('ja-JP', { hour: 'numeric', minute: '2-digit' });
+    box.replaceChildren(
+      el('span', { class: 'updated-label', text: '最終更新' }),
+      el('span', { class: 'updated-date' }, [
+        `${d.getMonth() + 1}/${d.getDate()}`,
+        el('small', { text: `（${wd}）` }),
+      ]),
+      el('span', { class: 'updated-time', text: time + ' 時点' })
+    );
+    box.hidden = false;
+  }
+
   function renderStatus() {
+    renderUpdated();
     const box = $('#status');
     const parts = [];
     if (state.loading) parts.push(el('span', { class: 'spin', 'aria-hidden': 'true' }), '最新の動画を取得しています…');
