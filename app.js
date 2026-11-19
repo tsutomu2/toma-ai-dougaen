@@ -332,7 +332,23 @@
     ]);
   }
 
+  // スマホのメニューバーに、今のタブ名と件数を出す
+  function renderMenuCurrent() {
+    const t = tabInfo(state.tab);
+    const n = state.tab === 'glossary' ? glossary().terms.length : visibleVideos(state.tab).length;
+    const parts = [el('span', { class: 'menu-current-label', text: t.label }), el('span', { class: 'count', text: String(n) })];
+    if (state.onlyPicks && state.tab !== 'glossary') parts.push(el('span', { class: 'menu-current-pick', text: '★おすすめだけ' }));
+    $('#menu-current').replaceChildren(...parts);
+  }
+
+  function setMenu(open) {
+    $('#toolbar').classList.toggle('menu-open', open);
+    $('#menu-btn').setAttribute('aria-expanded', String(open));
+    $('#menu-btn').setAttribute('aria-label', open ? 'メニューを閉じる' : 'メニューを開く');
+  }
+
   function renderTabs() {
+    renderMenuCurrent();
     const nav = $('#tabs');
     nav.replaceChildren(
       ...TABS.map((t) =>
@@ -606,7 +622,16 @@
     state.tab = b.dataset.tab;
     state.term = null;
     savePrefs();
+    setMenu(false);
     render();
+  });
+  // ハンバーガーメニュー（スマホ）
+  const toggleMenu = () => setMenu(!$('#toolbar').classList.contains('menu-open'));
+  $('#menu-btn').addEventListener('click', toggleMenu);
+  $('#menu-current').addEventListener('click', toggleMenu);
+  document.addEventListener('keydown', (e) => e.key === 'Escape' && setMenu(false));
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('#toolbar')) setMenu(false);
   });
   document.querySelectorAll('.seg').forEach((g) =>
     g.addEventListener('click', (e) => {

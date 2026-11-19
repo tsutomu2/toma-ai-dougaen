@@ -269,6 +269,10 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
 .tag { font-weight: 600; border-radius: 999px; padding: 0 8px; font-size: 11px; color: var(--en); background: var(--en-soft); }
 .tag-new { color: var(--ja); background: var(--ja-soft); }
 
+/* ハンバーガーメニュー（スマホだけ。PCではタブと絞り込みをそのまま並べる） */
+.menu-bar { display: none; }
+.menu-panel { display: contents; }
+
 /* タブ */
 .tabs {
   display: flex; gap: 4px; overflow-x: auto; padding-top: 8px; padding-bottom: 0;
@@ -327,7 +331,38 @@ button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid 
 .footer p { margin: 0; }
 
 @media (max-width: 600px) {
-  .toolbar { position: static; }
+  .menu-bar { display: flex; align-items: center; gap: 10px; padding-top: 8px; padding-bottom: 8px; }
+  .menu-btn {
+    flex: none; width: 44px; height: 40px; display: grid; place-items: center; cursor: pointer;
+    background: var(--surface); border: 2px solid var(--accent); border-radius: 10px;
+  }
+  .menu-icon { display: grid; gap: 4px; width: 20px; }
+  .menu-icon span { display: block; height: 3px; border-radius: 2px; background: var(--accent); transition: transform .2s, opacity .2s; }
+  .menu-open .menu-icon span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .menu-open .menu-icon span:nth-child(2) { opacity: 0; }
+  .menu-open .menu-icon span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+  .menu-current {
+    flex: 1; min-width: 0; display: flex; align-items: center; gap: 8px; text-align: left;
+    background: none; border: 0; padding: 4px 0; font: inherit; color: var(--text); cursor: pointer;
+  }
+  .menu-current-label { font-size: 17px; font-weight: 700; color: var(--accent); white-space: nowrap; }
+  .menu-current .count {
+    font-size: 12px; font-weight: 600; color: var(--accent); border: 1px solid var(--accent);
+    border-radius: 999px; padding: 0 7px;
+  }
+  .menu-current-pick { font-size: 12px; font-weight: 700; color: var(--toma-mid); white-space: nowrap; }
+  .menu-panel { display: none; }
+  .menu-open .menu-panel {
+    display: block; max-height: calc(100vh - 60px); max-height: calc(100dvh - 60px); overflow-y: auto;
+    border-top: 1px solid var(--line);
+  }
+  .menu-open .tabs { flex-direction: column; gap: 0; overflow: visible; padding-top: 4px; }
+  .menu-open .tab {
+    display: flex; justify-content: space-between; align-items: center; text-align: left;
+    border-bottom: 0; border-left: 4px solid transparent; padding: 12px 14px; font-size: 16px;
+  }
+  .menu-open .tab[aria-selected="true"] { border-left-color: var(--accent); background: var(--accent-soft); }
+  .menu-open .tab[data-tab="glossary"] { margin-left: 0; }
   .grid { grid-template-columns: 1fr; }
   .hero-inner { gap: 4px 12px; padding-top: 16px; }
   .hero-toma { width: 104px; align-self: flex-end; }

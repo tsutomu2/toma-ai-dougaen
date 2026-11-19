@@ -28,7 +28,15 @@
     </div>
   </header>
 
-  <div class="toolbar">
+  <div class="toolbar" id="toolbar">
+    <!-- スマホでは、タブと絞り込みをハンバーガーメニューにしまう -->
+    <div class="wrap menu-bar">
+      <button type="button" id="menu-btn" class="menu-btn" aria-expanded="false" aria-controls="menu-panel" aria-label="メニューを開く">
+        <span class="menu-icon" aria-hidden="true"><span></span><span></span><span></span></span>
+      </button>
+      <button type="button" id="menu-current" class="menu-current" aria-controls="menu-panel"></button>
+    </div>
+    <div class="menu-panel" id="menu-panel">
     <nav class="wrap tabs" id="tabs" role="tablist" aria-label="AIの種類"></nav>
     <div class="wrap toolbar-inner">
       <button type="button" id="onlyPicks" class="picks-toggle" aria-pressed="false">
@@ -42,6 +50,7 @@
       <label class="check"><input type="checkbox" id="onlySummarized"> 要約済みのみ</label>
       <input type="search" id="query" class="search" placeholder="タイトル・チャンネルで探す" aria-label="タイトル・チャンネルで探す">
       <button type="button" id="refresh" class="refresh">最新を取得</button>
+    </div>
     </div>
     <div class="wrap owner-bar" id="owner-bar" hidden>
       <span class="owner-label">持ち主モード</span>
