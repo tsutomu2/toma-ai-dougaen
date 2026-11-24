@@ -2018,5 +2018,935 @@ window.SUMMARIES = {
       "定期実行は使用量・上限を確認し、ログインやパスワードの入力は渡しきらない"
     ],
     "summarizedAt": "2026-11-20"
+  },
+  "5UKQ1hC1OkU": {
+    "topic": "feature",
+    "summary": "Googleの新モデル「Gemini Neon」を実際に試し、Claude CodeやCodex（Sol・Astra）と比べながら、課金するならどのAIがおすすめかを体験ベースで解説する動画。会社での Gemini 活用にも触れている。",
+    "points": [
+      "Gemini Neon の何がすごいかと試した結果",
+      "Claude Code・Codex Sol/Astra との実力比較",
+      "結局どのAIを使えばいいかの結論"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "Mbk95mFTNnU": {
+    "topic": "feature",
+    "summary": "Meta の AI エージェント「Muse」の活用事例を5つ紹介する動画。AIに詳しい人が実際にどう Muse を使っているかを解説している。",
+    "points": [
+      "Muse の具体的な活用事例5選",
+      "業務効率化・自動化への使い方"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "T_w2jECbR1E": {
+    "topic": "feature",
+    "summary": "Microsoft 365 Copilot の隠れた便利機能5つを、Excel・PowerPoint・Word での使い方とあわせて解説する動画。",
+    "points": [
+      "インタラクティブスライドの作成",
+      "ファイル比較機能とスキル機能",
+      "作成機能・スライド更新機能"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "39uNIHqmoEY": {
+    "topic": "feature",
+    "summary": "ChatGPT の新モデル「GPT-6.2 Astra」のファーストインプレッション。ChatGPT に Higgsfield MCP（プラグイン）をつなぎ、企業紹介動画・アニメ・MV・モーショングラフィックス・サムネまでどこまで作れるか試している。",
+    "points": [
+      "ChatGPT に Higgsfield プラグインをつないで動画を作る",
+      "アニメ・POV・MV・サムネなど用途別に試す",
+      "新モデル Astra 6.2 の出来を確認"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "I7S78xWCyEk": {
+    "topic": "feature",
+    "summary": "AI に詳しい人が実際に使っている AI エージェント環境（Claude Code など）を紹介し、エージェントの使い方を解説する動画。",
+    "points": [
+      "プロが使うエージェント環境の紹介",
+      "Claude Code などを使った業務自動化"
+    ],
+    "cats": [
+      "claude"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "tpLbNU7xhSQ": {
+    "topic": "feature",
+    "summary": "Claude の新しい「アーティファクト3.0」を解説する動画。ホワイトボード・シート・グラフ・スライドなどの機能と、Canva 連携や共有・公開までの流れを紹介している。",
+    "points": [
+      "ホワイトボードで考え、文書にまとめる",
+      "シートでデータ・グラフを扱い、スライドやデザインを作る",
+      "Canva とつなぐ・共有して公開する"
+    ],
+    "cats": [
+      "claude",
+      "new"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "mBOrtOI-ftw": {
+    "topic": "feature",
+    "summary": "無料で使える Google の「Gemini タスク」と Meta の「Muse」に、温泉の比較表づくりとメールからの予定整理という同じ雑務を頼んで比べる動画。初期設定の注意点も解説。",
+    "points": [
+      "同じ作業を Gemini タスクと Muse で比較",
+      "きれいな表で見落としやすい所のチェック",
+      "Gmail を任せるならどちらか・無料で自動で回すコツ"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "zID8gIkSJfw": {
+    "topic": "feature",
+    "summary": "Topview AI で「Topview T1」と「Seedance 2.5」を使い、生成した動画の仕上がりを比較する動画（PR）。Seedance 2.5（720p）を同じ設定で使ったときの秒あたりの料金も他社と比べている。",
+    "points": [
+      "Topview T1 と Seedance 2.5 の仕上がり比較",
+      "Seedance 2.5 の秒単価を4社で比較（Topview は約19円／秒）"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "-vlfdARcxqs": {
+    "topic": "feature",
+    "summary": "Meta の AI エージェント「Muse」の基本の使い方・料金・最初に見直したい設定を1本で解説する動画。Instagram の投稿・分析、買い物、アプリ作成などを実演している。",
+    "points": [
+      "Muse・Muse Spark・Muse Wonder の違いと料金プラン",
+      "勝手に動かないための仕組みと設定",
+      "Instagram 運用・買い物・アプリ作成の実演"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "Rh0zMMkAt94": {
+    "topic": "feature",
+    "summary": "OpenAI の新モデル「GPT-6.2 Astra」に実際にゲームや3D映像を作らせ、旧モデルや Claude・Gemini と比べて性能を検証する動画。GPT Image 2.6 や GPT Live など最近の ChatGPT の新機能もまとめている。",
+    "points": [
+      "GPT-6 Astra との性能・制作時間・使用量の比較",
+      "GIFアニメや漫画も作れる「GPT Image 2.6」",
+      "より自然に会話できる「GPT Live」"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "J37I90e0JdE": {
+    "topic": "feature",
+    "summary": "Meta の「Muse」に夜通し Gmail 整理を任せたら Google アカウントがロックされた実例を時系列で解説する動画。ロック解除（再審査請求）の手順と、AI に Gmail を任せる前の対策5つを紹介している。",
+    "points": [
+      "Gmail 連携からロックまでに何が起きたか",
+      "再審査請求でロックを解除する手順",
+      "AI に Gmail を任せる前の対策5つ"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "SGmKSJegfLU": {
+    "topic": "feature",
+    "summary": "11月20日に全員に開放された「Muse Mail」の使いどころを解説する動画。Muse を代理人として立て、公開アドレス・メール処理用・バックアップの3つの使い方を紹介している。",
+    "points": [
+      "自分のアドレスを出さずに公開窓口にする",
+      "大量のメールを Muse に捌かせる",
+      "Muse Mail に向かない使い方（大量送信など）"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "uJv1JlfE2Ww": {
+    "topic": "feature",
+    "summary": "視聴者のコメントから集めた Muse の使い方20個を紹介する動画。Muse Mail、運動をゲームにする、家族の毎日、資格試験の勉強、眠っている端末の活用、仕事の任せ方などを取り上げている。",
+    "points": [
+      "寝かしつけの物語・歩数で進むRPGなど暮らしの使い方",
+      "資格試験のドリルづくり",
+      "Muse を動かすきっかけを暮らしの中に決めるコツ"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "vgQMRwgYJJs": {
+    "topic": "feature",
+    "summary": "自律的に動く AI「ChatGPT Dots」が Plus ユーザーにも試験的に展開されたことと、ChatGPT スマホアプリの新デザインを紹介する動画。",
+    "points": [
+      "Dots とは何か・Plus 版のモデルや利用上限",
+      "スマホアプリの新デザインで便利になる点",
+      "自分の ChatGPT で使えるか確認する方法"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "0gKoFLN-sT4": {
+    "topic": "other",
+    "summary": "AI と TradingView を使った FX 取引の分析方法を紹介する動画（投資系）。",
+    "points": [],
+    "summarizedAt": "2026-11-24"
+  },
+  "WJP6Npn32lE": {
+    "topic": "feature",
+    "summary": "Copilot エージェントビルダーの新機能「スキル」について、使い方からルーティン業務での活用法までを解説する動画。",
+    "points": [
+      "Copilot の「スキル」とは何か",
+      "ルーティン業務への活用法"
+    ],
+    "cats": [
+      "new"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "PwVqoKaDABk": {
+    "topic": "feature",
+    "summary": "ChatGPT の新モデル「GPT-6.2」に、Claude（Fable 5.2）や Gemini と同じ3D映像のお題を作らせて比べ、本当の出来と安さの理由を確かめる動画。",
+    "points": [
+      "同じお題で6つのAIの3D映像を比較",
+      "単価と費用（20分の1）の違いと理由"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "nSWkiEUeo9E": {
+    "topic": "feature",
+    "summary": "Google の新モデル「Gemini 4 Neon」（月2,900円の Pro で利用可）が Opus 5.5 や最上位の Carbon の代わりになるかを、戦艦大和・3Dなど5つのお題で比較する動画。アプリの初期設定が Low になっている点も解説。",
+    "points": [
+      "5つのお題で Neon・Opus 5.5・Carbon を実物比較",
+      "アプリの初期設定「Low」の注意点"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "jz5QiTOyTCw": {
+    "topic": "feature",
+    "summary": "Gemini から続けて出てきた新モデル・新機能のリリース9つをまとめて解説する動画。Gemini 4 の3モデルの位置づけや Neon の実力などを紹介している。",
+    "points": [
+      "Gemini 4 の3モデル（Hydrogen・Neon など）の位置づけ",
+      "Neon のベンチマークと価格",
+      "Stitch Loop などその他のリリース"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "IYHILRqhRB0": {
+    "topic": "feature",
+    "summary": "開発アプリ Orca の新機能「Orca Bots」を紹介する動画。契約済みの Claude Code や Codex を中身に選び、サブスクを増やさずに Grok Bot や Muse のような常駐ボットを自分のPCやサーバーで動かせる。",
+    "points": [
+      "Slack・GitHub・Linear・スマホから仕事を頼む",
+      "決めた時間やメール・CIの失敗を合図に動かす",
+      "ボットの作り方とフォルダの中身（SOUL.md・MEMORY.md）、既定の権限に注意"
+    ],
+    "cats": [
+      "new"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "wQKoOn4-SzU": {
+    "topic": "feature",
+    "summary": "Meta の「Muse」の活用法4つ＋αを解説する動画。",
+    "points": [
+      "Muse の活用法4選",
+      "追加の活用アイデア"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "BjNGEgO7Alg": {
+    "topic": "other",
+    "summary": "今週のAIニュース17件（Anthropic 上場、AI社員の費用、Copilot・GPT-6.2・Gemini Notebook の動向など）をまとめたニュース動画。",
+    "points": [],
+    "summarizedAt": "2026-11-24"
+  },
+  "AnfeWmsGkxI": {
+    "topic": "feature",
+    "summary": "Muse が使うほど返事がずれる原因は、毎回読み込む「記憶」のたまりすぎだとして、メモリーを測る・健康診断する・整理する・上限を決める方法を iPhone で実演する動画。",
+    "points": [
+      "Muse のメモリーの量を測って健康診断する",
+      "何も消さずに記憶を整理（9,283字→4,196字）",
+      "上限を決めて毎晩チェックする"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "7FBUYXG5PCM": {
+    "topic": "feature",
+    "summary": "Claude Code を支える AWS の Project Rainier を解説し、AWS と Claude Code を連携させる方法や使い方を紹介する動画（AWS 提供）。",
+    "points": [
+      "Project Rainier とは",
+      "AWS と Claude Code の連携方法"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "nn6SdezK4yw": {
+    "topic": "feature",
+    "summary": "無料版でも使えるようになった Mac 版 Gemini デスクトップアプリを、ブラウザ版との違い、プライバシー・推奨設定から、スキルやスケジュール機能の使い方まで解説する動画。",
+    "points": [
+      "「Geminiへのカスタム指示」の設定",
+      "タスク機能で PC のファイルと Gmail を行き来させる",
+      "Gmail の送信履歴から文体を抽出してスキル化・スケジュール登録"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "eoITWleQTDU": {
+    "topic": "feature",
+    "summary": "2026年11月の Pixel Drop で追加された Pixel スマホの新機能を紹介する動画。",
+    "points": [
+      "Pixelまるごと検索",
+      "AI音声入力の対応拡大",
+      "電車乗車の自動検知・自動車内モードなど"
+    ],
+    "cats": [
+      "new"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "kcuPWuWVMmw": {
+    "topic": "feature",
+    "summary": "Gemini Notebook に Google 公式の API が登場し、AI エージェントアプリ「Antigravity」からノートブックを作ったり資料をソースとして入れたりできるようになったことを、セットアップ手順とともに解説する動画。",
+    "points": [
+      "公式APIでできること・まだできないこと",
+      "Antigravity と Notebook をつなぐしくみ",
+      "Google Cloud の設定から1手ずつセットアップ"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "nt5W1Opnk40": {
+    "topic": "other",
+    "summary": "堀江貴文さんが AI と仕事について語った過去の配信の切り抜き。",
+    "points": [],
+    "summarizedAt": "2026-11-24"
+  },
+  "y0k_6kCVzkY": {
+    "topic": "feature",
+    "summary": "Meta の「Muse」に題材を1つ渡し、Google Colab の GPU を Colab CLI で借りて、解説者の絵・ナレーション音声・口パク動画・スライドと字幕までそろった約1分半のアバター解説動画を全自動で作らせる方法を紹介する動画。",
+    "points": [
+      "Z-Image-Turbo で絵、Irodori-TTS で声、InfiniteTalk で口パク",
+      "最初の準備・承認カード・Google ログイン",
+      "「このサイトで常に許可」と、きれいに作らせるプロンプトのコツ3つ"
+    ],
+    "cats": [
+      "muse",
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "wy1-BzAgk6M": {
+    "topic": "feature",
+    "summary": "Claude Code や Codex で AI 秘書を自作していた人が、Meta の「Muse」に切り替えた理由を、ChatGPT・Claude Code・Codex との違い、始め方、無料枠と有料プランとあわせて解説する動画。",
+    "points": [
+      "アプリを閉じても動く Muse の仕組み",
+      "カレンダー・メール・Notion をつないだ使い方",
+      "データの学習や買い物の承認で確認したい設定"
+    ],
+    "cats": [
+      "muse"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "R-lgiJle0dQ": {
+    "topic": "feature",
+    "summary": "Meta の AI 秘書「Muse」に無料でどこまで任せられるかを、会社員（営業）の1日に沿って6つの使い方で試す動画。",
+    "points": [
+      "決まった時刻に仕事関係のニュースを届ける「朝刊」",
+      "店ごとの実質価格を表にして値段を見張る",
+      "会社名だけで商談準備、経費精算の分解"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "QCfFiDVTCNk": {
+    "topic": "feature",
+    "summary": "Claude Code と動画生成AI「Renoise」（Renoise MCP）を使って AI アニメ制作に100時間挑戦し、そのノウハウを共有する動画。",
+    "points": [
+      "Claude Code に Renoise MCP をつないでアニメを作る",
+      "100時間の制作で得たノウハウ"
+    ],
+    "cats": [
+      "claude",
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "vofuYsPWvmA": {
+    "topic": "feature",
+    "summary": "AI初心者向けに、Claude Code の登録から初期設定、仕事の自動化方法までを解説する入門動画。",
+    "points": [
+      "Claude Code の登録と初期設定",
+      "仕事を自動化する基本の使い方"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "I271CChPqdc": {
+    "topic": "feature",
+    "summary": "Seedance 2.5 × Higgsfield で、AI 動画の「作り物感」を消して実写と並べても負けない4K映像を作る方法を解説する動画。",
+    "points": [
+      "AIバレを見つける6層チェックリスト",
+      "企画・脚本・原型画像・動画化・音・編集の6ステップ",
+      "チェックの自動化とブラインドテスト"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "B_GmUtrVfWU": {
+    "topic": "feature",
+    "summary": "Codex と Claude Code を使って、担当チャンネルの編集を1クリックで再現する無料 AI 動画編集ツールを作った過程を紹介する動画。",
+    "points": [
+      "Codex / Claude Code で動画編集ツールを自作",
+      "担当チャンネルの編集スタイルを再現"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "ZKeOBOTUjaw": {
+    "topic": "feature",
+    "summary": "ChatGPT の新しい画像生成で、ひと言で画像が「動く」ようになった機能を紹介し、お店の告知から仕事の手順書まで使い方を見せる動画。",
+    "points": [
+      "ひと言で動く画像を作る",
+      "お店の告知画像に使う",
+      "業務手順・操作方法をわかりやすく伝える手順書づくり"
+    ],
+    "cats": [
+      "chatgpt",
+      "new"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "c4jqad45tVM": {
+    "topic": "feature",
+    "summary": "Muse の新機能「Spaces（スペース）」で、プログラミング不要・無料プランのまま仕事専用の管理アプリを作る手順を解説する動画。Gmail・Googleカレンダー・Googleタスクと連携する。",
+    "points": [
+      "チャットのプロンプトだけでアプリを生成・定期更新・タブ固定",
+      "打ち合わせ準備ボード・案件ボード・顧客請求管理ボード",
+      "業界ニュース朝刊アプリ・週報の下書きアプリ"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "ABHLbmT9iGo": {
+    "topic": "feature",
+    "summary": "頼むだけで自分専用のアプリが作れる Muse の「スペース」で、Xで話題のスペース10個を iPhone で実際に作ってみる動画。頼んだ言葉もすべて見せている。",
+    "points": [
+      "時間と天気で様子が変わるお部屋",
+      "締め切りを逃さないポイ活ボード・Muse Mail を読むメールアプリ",
+      "歩いた分だけ進むRPG"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "yYL1jjK7270": {
+    "topic": "feature",
+    "summary": "Seedance 2.5 で作った AI 動画を480pと4Kで比べ、どれくらい変わるかを確かめる動画。使い方と料金プランにも触れている。",
+    "points": [
+      "Seedance 2.5 の使い方",
+      "480p と 4K の見た目の違い",
+      "料金プラン"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "7YWGxG73xWo": {
+    "topic": "feature",
+    "summary": "上位プラン限定だった自律型 AI エージェント「ChatGPT Dots」が一部の Plus 加入者にテスト提供されたことを解説する動画。専用クラウドPCで24時間動き、4,000以上のアプリと連携する機能を紹介している。",
+    "points": [
+      "Dots が Plus・Business Standard に拡大",
+      "専用クラウドPCで24時間稼働",
+      "GPT-6 Astra などを搭載し多くのアプリと連携"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "bFLC6Cr2zIE": {
+    "topic": "feature",
+    "summary": "ChatGPT・Claude・Gemini のどれに課金すべきかを、AI を1000時間使った経験から比較して結論を出す動画。",
+    "points": [
+      "3つのAIの得意分野の比較",
+      "目的別のおすすめの選び方"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "xxAAe2bkHno": {
+    "topic": "other",
+    "summary": "今週のAIツール・ニュース（GPT-6.2 Astra / Sol、Gemini 4 Neon、Kling Image 4.0、Anthropic 上場など）のまとめ。",
+    "points": [],
+    "summarizedAt": "2026-11-24"
+  },
+  "6j-zXb4rjvg": {
+    "topic": "feature",
+    "summary": "AI エージェント・Bot を使ったことがない人向けに、dots・Grok Bot・Muse・Claude Code の担当分けを紹介し、Bot に DomoAI MCP をつないで会話だけで画像と動画を作るところまで実演する動画（タイアップ）。",
+    "points": [
+      "AIとの関わり方の3つの違い",
+      "Bot に DomoAI MCP をつなぐ方法",
+      "会話だけで画像と動画を作る"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "mcCypN-dJQY": {
+    "topic": "feature",
+    "summary": "Meta の新AI「Muse」をチームの一員として仕事に使っている例と、使ううえで知っておきたい注意点を紹介する動画。",
+    "points": [
+      "Muse と一緒に働く使い方",
+      "知らないとまずい注意点"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "CMzd6OPU1DU": {
+    "topic": "feature",
+    "summary": "無料で使える AI 秘書「Meta Muse」に仕事の手間を任せる方法を、最初にやるべき安全設定から使いどころまで解説する動画。",
+    "points": [
+      "最初にやる安全設定",
+      "仕事での使いどころ"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "-6hjIKCv2N4": {
+    "topic": "feature",
+    "summary": "Higgsfield の新機能「ショートドラマ」で、台本1つから3Dアニメのショートドラマを作る動画（Higgsfield 提供）。サイトで作る方法と、Claude に Higgsfield MCP をつないでチャットで作る方法を比べている。",
+    "points": [
+      "台本から3Dアニメのドラマを作る",
+      "Higgsfield サイトと Claude + Higgsfield MCP の2通りで作る",
+      "かかった時間とクレジットの比較"
+    ],
+    "cats": [
+      "charanime",
+      "claude"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "uLKJvtq68yM": {
+    "topic": "feature",
+    "summary": "Plus プランにも試験提供が始まった ChatGPT の「dots」について、確認を何度も求めて止まるといった問題点、11月の改善、Grok Bot・Muse・Claude Duet との比較を、実際に仕事で使った記録をもとに解説する動画。",
+    "points": [
+      "dots のどこが問題か（確認で作業が止まる）",
+      "11月の改善で良くなったか",
+      "Grok Bot・Muse・Claude Duet との値段・条件・使い分け"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "YPl2PX0Xok0": {
+    "topic": "feature",
+    "summary": "Meta Muse にワークフローを任せ、プロンプトだけで実写風・アニメーションの AI 動画を作る方法を実演する動画。短い生成クリップを組み合わせ、ナレーションや字幕もつけて仕上げる。",
+    "points": [
+      "プロンプトだけで実写風・アニメ動画を作る",
+      "短いクリップを組み合わせてナレーション・字幕をつける",
+      "AI エージェントにワークフローを任せて自動生成"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "66Az0YidrtI": {
+    "topic": "feature",
+    "summary": "Meta の Muse を長く賢く使い続けるための運用法として、記憶（Memory）の肥大化を防ぐコツと、スペースの鮮度を保つ「3層設計」を Before/After の実例つきで解説する動画。",
+    "points": [
+      "Memory の肥大化を防ぐ急所",
+      "スペースの数字を古くしない3層設計"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "XipeybnD1Q8": {
+    "topic": "feature",
+    "summary": "Muse の新機能「スペース」で、話すだけで自分専用の管理画面を作る方法を、実際に3つ作って紹介する動画。",
+    "points": [
+      "スペースの使い方",
+      "話すだけで管理画面を作る実例3つ"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "8GAW6LutzKw": {
+    "topic": "feature",
+    "summary": "Gemini の新機能「タスク」（11月17日から日本でも利用可）の使い方を、Meta の Muse と同じお願い5つで比べる動画。台本・毎朝のニュース・1か月の予定・買い物まで試している。",
+    "points": [
+      "チャットとタスクの違い（頼んだ仕事を最後までやる）",
+      "台本づくりは Gemini と Muse で得意が違う",
+      "買い物では Amazon より721円安く見つけた"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "8tk_J2JBC_k": {
+    "topic": "feature",
+    "summary": "Gemini の有料版（月2,900円）で元を取るための使い方を紹介する動画。",
+    "points": [
+      "Gemini 有料版の活用法"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "cahAyiI_bZE": {
+    "topic": "feature",
+    "summary": "無料の AI 秘書「Muse」の使い方を、話しかけるだけでのアプリ作成から安全な設定まで解説する動画。仕事で使える4つのアプリの作り方を紹介している。",
+    "points": [
+      "話しかけるだけで仕事用アプリを作る",
+      "安全な設定（個人情報・社外秘は入れない）"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "Y_Yx5aStLa4": {
+    "topic": "feature",
+    "summary": "Gemini と Gemini Notebook をつなげて作る「AI チーム（AI社員）」を、仕事でどう使うかの活用事例6つで紹介する動画。自分専用の AI チームで社内会議のように相談できる。",
+    "points": [
+      "Gemini と Gemini Notebook をつないで AI チームを作る",
+      "仕事での活用事例6選"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "hxzuadu0lGg": {
+    "topic": "feature",
+    "summary": "手作業のファイル整理をやめて、AI に PC のファイル整理を任せる「年末PC大掃除」のやり方を紹介する動画。",
+    "points": [
+      "AI にファイル整理を任せる方法"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "5vhBfblNx5U": {
+    "topic": "other",
+    "summary": "AI ニュースや AI 活用について話すライブ配信。",
+    "points": [],
+    "summarizedAt": "2026-11-24"
+  },
+  "bt_Bc8v3328": {
+    "topic": "feature",
+    "summary": "仕事と暮らしの10の場面で、みんなが実際に AI を何に使っているかを調査データで見ながら、ChatGPT・Gemini・Claude に同じお願いをした画面で頼み方を見せる動画。",
+    "points": [
+      "朝のニュースと予定・メールと文書・調べもの",
+      "英語と翻訳・献立と家事など10場面の頼み方",
+      "3つのAIに同じお願いをして答えを比較"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "pO8qZOrxbSE": {
+    "topic": "feature",
+    "summary": "Meta の無料 AI 秘書「Muse」に12個の仕事を実際に頼み、無料でどこまで動くか、日本で動く機能・動かない機能を確かめる動画。",
+    "points": [
+      "使う前に見る設定3つ",
+      "調べ物の表・スライド・案内ページ・絵・15秒の動画づくり",
+      "毎朝8時に仕事を任せる（止め方まで）"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "rbQW5RXzlJ4": {
+    "topic": "feature",
+    "summary": "話題の AI エージェント「Grok Bot」の始め方、最初にやるべき設定、副業に活かせる活用法を解説する動画。頼んだ仕事を調べて確かめ、表にまとめたファイルまで作り、PC を閉じていても動く。",
+    "points": [
+      "Grok Bot の料金と始め方・最初の設定",
+      "名前と担当を決めた Bot を何体も作れる",
+      "副業での活用法"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "xnmwK2S47Ho": {
+    "topic": "feature",
+    "summary": "手のひらサイズの AI 端末「Meta Muse Charm（ミューズ・チャーム）」の価格・機能・使い方をリサーチした動画。スマホを出さずに、その場で Muse に話しかけて用事を預けられる点を紹介している。",
+    "points": [
+      "Muse Charm の価格と機能",
+      "スマホより「頼むまでのひと手間」が減る使い方"
+    ],
+    "cats": [
+      "muse",
+      "new"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "BJj0xt8d6us": {
+    "topic": "feature",
+    "summary": "Claude を「AI社員」として働かせるための指示の出し方と、避けたい使い方5つを紹介する動画。最初にあるものを渡すことで Claude の出力が変わると解説している。",
+    "points": [
+      "Claude に最初に渡すべき情報",
+      "NG な使い方5選"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "l8cLEJh9Ltg": {
+    "topic": "feature",
+    "summary": "ChatGPT・Gemini・Claude に同じお願いを声で話しかけ、返事の速さ・割り込んだときの反応・英会話の練習相手としての直し方を比べる動画。12月11日に ChatGPT の声の会話が「Live」1つにまとまる変更や、PC で Gemini Live を使う場所もまとめている。",
+    "points": [
+      "音声入力と音声会話の違い",
+      "PC では Gemini Live を Chrome から使う",
+      "12月11日の ChatGPT 音声の変更と録音の扱い"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "jL0y0dRzrq4": {
+    "topic": "feature",
+    "summary": "Anthropic が11月10日にリリースした「Claude Fable 5.2」の使い方と活用事例10選を紹介する動画。Claude Code と組み合わせて、ゲーム・アプリ・Webサイト・動画・スライド資料などを作れる。",
+    "points": [
+      "Fable 5.2 で向上したコーディング・推論・画像認識",
+      "Claude Code と組み合わせてアプリやゲームを作る",
+      "スライド資料の生成やコンピューター操作"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "oo-4TibyV4o": {
+    "topic": "feature",
+    "summary": "AI エージェントに動画編集ソフト Filmora 16 を操作させて、AI アニメを1本に仕上げる様子を見せる動画（Wondershare 提供）。素材さがし・色・画角・字幕の4工程を進めている。",
+    "points": [
+      "AI エージェントが Filmora 16 を操作して編集",
+      "AIメディア解析で素材を探す",
+      "色・画角・字幕を仕上げる"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "m-1k7kZ2T2A": {
+    "topic": "feature",
+    "summary": "Claude の新モデル Fable 5.2 に Higgsfield MCP をつなぎ、1つのチャットだけでスクロールすると動くお店のページを作る手順を紹介する動画（Higgsfield 提供）。コードは書かず、写真と動画は Higgsfield、公開は Higgsfield の Supercomputer で行う。",
+    "points": [
+      "Claude に Higgsfield MCP をつなぐ（Customize → Connectors → Add）",
+      "見本のサイトを見せて頼むだけでページを作る",
+      "つまずいた所と料金"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "L4u2lbb_uBc": {
+    "topic": "feature",
+    "summary": "ChatGPT・Gemini・Claude に同じ動画のお願いをしたところ、本物の映像のような動画を作れたのは Gemini だけだったことを示し、Gemini で言葉・写真から動画を作る方法や頼み方の「6つの型」を解説する動画。",
+    "points": [
+      "Gemini で言葉から・写真から動画を作る",
+      "思った動画に近づける6つの型と直し方",
+      "台本と絵コンテは ChatGPT、動画は Gemini と Seedance 2.5 という分け方"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "cNWrWqKu5uo": {
+    "topic": "feature",
+    "summary": "日本でもサブスクなしで使えるようになった Gemini の「タスク」の使い方と、普通のチャットとの違いを無料アカウントで検証する動画。",
+    "points": [
+      "単発の依頼はチャット、くり返す作業はタスクに登録",
+      "無料でも毎週の登録と今すぐ実行ができる",
+      "タスクで作った資料は出典URLつきの Google スライドで残る"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "G3CVFNMI7IE": {
+    "topic": "feature",
+    "summary": "無料の AI エージェント「Muse」の使い方を、初級・中級・上級の10個に分けて実際の画面で解説する動画。始め方の3ステップと安全の設定3つも確認している。",
+    "points": [
+      "始め方3ステップと安全の設定3つ",
+      "初級：調べて比べる・予定など",
+      "中級・上級の使い方"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "gm_MmjZUOM0": {
+    "topic": "feature",
+    "summary": "Claude Code に Adobe をつないで、商品写真・告知バナー・ショート用動画を作る手順を解説する動画。今使える Adobe for Claude と Illustrator のベータ版、今後の Photoshop・Premiere 連携を紹介している。",
+    "points": [
+      "Claude Code と Adobe をつなぐ3つの道",
+      "商品写真・バナー・ショート動画を作る",
+      "プラグインの入れ方とつなぎ方"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "N14NpAASQhM": {
+    "topic": "feature",
+    "summary": "声で相談できる「Claude Meetings」を使いながらライブ配信し、Notion を使って複数の AI に仕事の背景（記憶）を引き継ぐ方法を紹介する朝ライブ。",
+    "points": [
+      "Claude と声で会話する",
+      "Notion に AI の記憶を登録して複数 AI をチームにする",
+      "複数の AI を Notion につなぐ設定手順"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "lza8kCSE4Uw": {
+    "topic": "feature",
+    "summary": "Web 会議に Claude が参加してサポートする新機能「Claude Meetings」の使い方を解説する動画。Google Meet に Claude を呼ぶと議事録を自動で書き、会議中の一言で Notion のタスクや Google カレンダーの予定を登録できる。",
+    "points": [
+      "Google Meet に Claude を呼んで議事録を自動作成",
+      "話した内容をホワイトボードにまとめて画面共有",
+      "Notion の議事録・タスクのデータベースとつなぐ設定"
+    ],
+    "cats": [
+      "claude",
+      "new"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "cQXho6F-k8U": {
+    "topic": "feature",
+    "summary": "Claude の「Whiteboards」で図解を作り、あとから直す使い方を解説する動画。図形やテキストをボードに書き込め、画像として書き出したり文書に変えたりもできる。",
+    "points": [
+      "日本語で図の下書きを作り、文字や色を自分で直す",
+      "Claude に頼んで一部を直す・画像を書き出す",
+      "雑な計画を予定表にする・ボードを文書に変える"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "iLZoSD3a3m0": {
+    "topic": "other",
+    "summary": "AI の使い方についての雑談ライブ。",
+    "points": [],
+    "summarizedAt": "2026-11-24"
+  },
+  "0P_85PSdC6Y": {
+    "topic": "feature",
+    "summary": "Google Workspace を会社で契約していると追加なしで使える AI ツール（Gemini アプリ、Gmail などの Gemini、Gemini Notebook、Vids、Pics、Workspace Studio）を、開き方と Business 3プランごとの上限で整理する動画。",
+    "points": [
+      "Workspace の AI ツールの全体像",
+      "プラン別の早見表（Standard と Plus は AI が同じ）",
+      "会社で広げる順番と社内ルール"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "AlSXyIM_-XU": {
+    "topic": "feature",
+    "summary": "Meta の「Muse」の使い方を実画面で見せ、1週間前のことも日付つきで覚えている記憶の強さを検証する動画。発信の準備を1時間から約10分にしたスペースの活用4つと、アメリカで始まった電話の代行も紹介している。",
+    "points": [
+      "スペース：インスタ鬼コーチ・保存のカタログ化",
+      "スペース：今日の段取り・ダイエットコーチ",
+      "Muse の記憶を10問テストで検証"
+    ],
+    "cats": [
+      "muse"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "zxlsg-jc_xw": {
+    "topic": "other",
+    "summary": "生成AIの使い方講座（説明が少なく内容不明）。",
+    "points": [],
+    "summarizedAt": "2026-11-24"
+  },
+  "mgm-IOv_L_8": {
+    "topic": "feature",
+    "summary": "超初心者向けに Claude Code の始め方と使い方を解説し、YouTube ショートの動画作成・編集まで見せる動画。",
+    "points": [
+      "Claude Code の始め方",
+      "ショート動画の作成・編集に使う"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "bv6ZIxARCxI": {
+    "topic": "feature",
+    "summary": "Gemini のスマホアプリ版の使い方を、インストール・ログインから質問の仕方、Gemini Live での会話・カメラ共有、画像生成、ノートブック、スキルまで実際の操作画面で解説する入門動画。",
+    "points": [
+      "アプリのインストールと質問の仕方",
+      "Gemini Live での会話とカメラ共有",
+      "画像生成・ノートブック・スキルの活用"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "kJag6SSm9eQ": {
+    "topic": "feature",
+    "summary": "Google の「Gemini Notebook（旧 NotebookLM）」の使い方を Android の実機画面で紹介する動画。長い文章を読ませて答えさせ、答えの元の文を確かめられる。",
+    "points": [
+      "資料（ソース）を入れて質問する",
+      "答えの元の文を確かめる",
+      "クイズと音声解説を作る"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "dmITRZTCY3c": {
+    "topic": "feature",
+    "summary": "Gemini の最新モデルを比較して、強みと賢い使い方をわかりやすく解説する動画。",
+    "points": [
+      "最新モデルの比較",
+      "Gemini の強みと使い方"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "gI3k3CMkcJ4": {
+    "topic": "feature",
+    "summary": "Alibaba の新しい最上位モデル「Qwen4 Max」を、Claude Fable 5.2・Gemini 4 Carbon と同じ13課題で比べ、使い方と料金を解説する動画。日本から使う方法（OpenRouter・QwenCloud）も紹介している。",
+    "points": [
+      "間取り図1枚から歩ける3Dの家を作る",
+      "ゲームの作り込みでは Fable 5.2 が優勢",
+      "出力単価より1題あたりの値段で見る理由"
+    ],
+    "cats": [
+      "new"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "8G2oXab8v60": {
+    "topic": "feature",
+    "summary": "Meta の「Muse」に、下調べ・企画・台本・サムネイル・短い動画・投稿準備という動画1本分の仕事を無料プランのまま1回で頼み、映像クリエイターの目で採点する動画。",
+    "points": [
+      "始め方と最初の設定3つ（学習・つなぐアプリ・送る前の確認）",
+      "動画づくり6つを丸投げした結果",
+      "Muse に任せるところと自分でやるところ"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "65r3Ymwvh7o": {
+    "topic": "feature",
+    "summary": "ChatGPT の新しい AI「GPT-6.2」に、Gemini 4 Neon と同じ問題を出して答えの速さと正確さを比べ、Astra と Sol の使い分けを解説する動画。",
+    "points": [
+      "Gemini 4 Neon との同じ問題での比較",
+      "YouTube 動画のまとめもできた",
+      "Astra と Sol の使い分け"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "Ah863lvq8v8": {
+    "topic": "feature",
+    "summary": "Google Gemini の使い方の要点と、避けたほうがいい NG ワードを説明する動画。",
+    "points": [
+      "Gemini の使い方の要点",
+      "NG ワード"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "6tj9ovTDOhM": {
+    "topic": "feature",
+    "summary": "Seedance 2.5 の 4K で、どこにでもある石けんを高級ブランド風の15秒 CM にする動画（Higgsfield 提供）。480p の下書きで当たりを選んでから 4K を1回だけ生成し、クレジットを抑えている。",
+    "points": [
+      "Seedance 2.5 Draft（480p）で4本試して当たりを選ぶ",
+      "4K は1回だけ生成（合計600クレジット）",
+      "4K 版は今はアメリカで使えない点に注意"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "m3vR2p_n28k": {
+    "topic": "feature",
+    "summary": "Suno で曲を、Seedance 2.5 で映像を作り、3分24秒のミュージックビデオを完成させる流れを7つの手順で解説する動画。クレジットを抑えるコツや失敗と対策も紹介している。",
+    "points": [
+      "Suno の歌詞とスタイルの書き方（[ ]で指示、ジャンル→楽器→声）",
+      "キャラ・乗り物・場所を先に固める",
+      "曲の秒数ごとに場面を決めるタイムライン表と Higgsfield の設定"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "fYZYLbFIlbA": {
+    "topic": "other",
+    "summary": "配信者の雑談配信の一部。",
+    "points": [],
+    "summarizedAt": "2026-11-24"
+  },
+  "HGc2ZXB4-Rg": {
+    "topic": "feature",
+    "summary": "1枚の画像に既存の曲を歌わせる「リップシンク（口合わせ）」を、MiniMax H3 Max・Seedance 2.5・Kling 4.0 で同じ曲・同じ15秒で比べる動画。アニメキャラと実写風の人物の2人で試している。",
+    "points": [
+      "アニメキャラと実写風で3ツールを比較",
+      "MiniMax H3 Max Lip Sync の使い方",
+      "料金：MiniMax 0.75ドル、Seedance 2.5 は30クレジット、Kling 4.0 は150クレジット"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "GYLgFyl0zTs": {
+    "topic": "feature",
+    "summary": "ChatGPT を始める初心者向けに、ログインなしでの使い方や頼み方、言い直し方など、最初に知っておきたいことを公式ヘルプをもとに解説する動画。",
+    "points": [
+      "何をしてほしいか・だれ向けか・どんな形かを書く",
+      "違ったら同じチャットで言い直す",
+      "本物のアプリを使い、大事なことは確かめる"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "U4-RoNNn4LA": {
+    "topic": "feature",
+    "summary": "AI アシスタント「Grok Bot」に毎日の確認作業を任せたら一日がどう変わったかを、医師が実際の使い方で紹介する動画。「見る」と「下書き」は任せ、「決める」は自分でやる使い分け。",
+    "points": [
+      "朝・昼・夕方・夜の任せ方",
+      "OK と言うまで送信・公開しない",
+      "うまくいかないことも紹介"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "Aoc8MosZGhE": {
+    "topic": "feature",
+    "summary": "Claude Code で同じ頼み方でも結果に差がつく理由を、フォルダの読み方と CLAUDE.md の落とし穴から解説し、今日からできるフォルダの整え方3ステップを紹介する初心者向け動画。",
+    "points": [
+      "CLAUDE.md の3つの落とし穴（秘密は書かない）",
+      "フォルダを分ける・5行だけ書く",
+      "見せたくない物はフォルダの外へ"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "pfKnEqlrh2Q": {
+    "topic": "feature",
+    "summary": "Grok Bot に最初に覚えてもらう3つのことを、そのまま使える例文つきで紹介する動画。毎回同じ説明をしなくてよくなる。",
+    "points": [
+      "質問してもらって自己紹介する",
+      "個人情報は記憶ではなく専用の保管場所へ",
+      "送信・公開は自分の OK のあとにする"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "BBeG-Vdrjo8": {
+    "topic": "feature",
+    "summary": "ChatGPT の AI エージェント「dots」が月20ドルの Plus の一部でテスト開始されたことを、OpenAI の発表をもとに解説する動画。dots とは何か、Business Standard への展開、使える国とプランまでまとめている。",
+    "points": [
+      "dots とは何か・これまでの流れ",
+      "Plus でのテストと Business Standard への展開",
+      "地域とプランの差・注意点"
+    ],
+    "summarizedAt": "2026-11-24"
+  },
+  "3D1QRW4a7bA": {
+    "topic": "feature",
+    "summary": "OpenAI が11月18日に公開した「GPT-6.2 Astra」と上位モデル「GPT-6.2 Sol」を、概要・使い方・活用事例の三章で解説する動画。使用量を抑えながらコーディング・資料作成・Webサイトや3D制作の質が上がったとされる。",
+    "points": [
+      "GPT-6.2 Astra・Sol の概要と違い",
+      "ChatGPT / Codex での使い方",
+      "活用事例（Webサイト・3Dコンテンツなど）"
+    ],
+    "summarizedAt": "2026-11-24"
   }
 };
