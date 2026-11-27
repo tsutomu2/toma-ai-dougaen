@@ -3349,5 +3349,232 @@ window.SUMMARIES = {
       "個人情報は入れない。「データコントロール」でモデル改善への利用をオフにできる"
     ],
     "summarizedAt": "2026-11-26"
+  },
+  "bjVPE2NTt5A": {
+    "topic": "feature",
+    "summary": "Anthropic の新しいパーソナルAIエージェント「Claude Duet」を使い始め、初期設定から使い心地までを最速で試すハンズオン動画。Muse・Grok Bot・Dots との設計の違いも比べている。",
+    "points": [
+      "セットアップとオンボーディングの流れを実際の画面で紹介",
+      "メール返信や日程調整を任せた結果を確認",
+      "Claude Code との連携や、チームプランの管理者設定も解説"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "DbEKPA_XHw4": {
+    "topic": "feature",
+    "summary": "Meta の AI エージェント「Muse」を16日間使い、Muse のマシンに Claude Code を入れて24時間動く AI チームを作った記録。Muse 特集全3回の1本目。",
+    "points": [
+      "Muse のマシンに Claude Code を入れて、24時間動く AI チームにする",
+      "記事の執筆からデプロイまで任せた実例",
+      "領収書の処理で失敗した話も紹介"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "0ljTGEp-WEI": {
+    "topic": "feature",
+    "summary": "Gemini の新機能「タスク」が日本でも無料で使えるようになり、iPhone で暮らしと仕事の用事を5つ頼んでみた実演動画。何段階もある用事を、調べて・まとめて・ファイルにするところまで進めてくれる。",
+    "points": [
+      "写真10枚をまとめて JPG に変換、旅行の予定表をカレンダーへ登録",
+      "ホテルの値段を毎日見張る、作業場所を調べて表にする、毎朝のニュースまとめ",
+      "使う前の準備と始め方、うまくいかなかったことや日本でまだのことも紹介"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "jAYukdSMtPw": {
+    "topic": "feature",
+    "summary": "Anthropic が新たに公開した Claude の大型機能7つを、15分でまとめて紹介する動画。説明文には機能の中身が書かれておらず、詳しくは動画内での解説。",
+    "points": [
+      "Claude の新機能7つを一気に紹介",
+      "内容をまとめた PDF が配布されている"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "ZtRB8tgdgcY": {
+    "topic": "feature",
+    "summary": "Google の開発アプリ「Google Antigravity」の使い方の基礎を、最新アップデートや全機能・活用法とあわせて解説する動画。80ページ超の資料つき。",
+    "points": [
+      "Antigravity の基本の使い方",
+      "最新アップデートと全機能の紹介",
+      "活用法の解説"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "lsKkM8AvErg": {
+    "topic": "feature",
+    "summary": "Meta の Muse で買い物ができるかを解説する動画。Amazon が Muse を止めていた理由と Meta との話し合いに加え、Walmart や Shopify のお店で Muse に支払いまで任せる方法、日本での使い方を紹介している。",
+    "points": [
+      "Walmart と Shopify のお店では、Muse に支払いまで任せられる",
+      "日本の Muse で買い物をするときと、ネットショップの設定",
+      "Amazon が Muse を止めていた理由と、Meta との話し合いの中身"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "t9OV-PuIRW0": {
+    "topic": "feature",
+    "summary": "元マイクロソフト役員の越川慎司さんが、成果を出す社員の生成AIの使い方を語る対談の前編。プロンプトの書き方やハルシネーション対策を取り上げている。",
+    "points": [
+      "プロンプトには要件を5つ以上入れ、条件分岐も書く",
+      "AI と5回ほど壁打ちして考えを深める",
+      "ハルシネーション（もっともらしい間違い）への対策"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "oGiWNyPYwAg": {
+    "topic": "feature",
+    "summary": "Claude と Notion を連携させ、AI に「ノートを一冊持たせる」ことで、話すたびに記憶が育つようにする使い方の紹介。",
+    "points": [
+      "Notion を Claude とつなぎ、AI 専用のノートを持たせる",
+      "最初に Claude だけが見る自己紹介ページを作る",
+      "Claude がノートを読んで書いて、どんどん育っていく"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "1_2jxzDE8vA": {
+    "topic": "feature",
+    "summary": "Higgsfield の新しい動画モデル「MAGI-2」で、架空のお店の冬の CM を10本作った動画。ブラウザで作る方法と、MCP でつないで Claude にまかせる方法の両方を、かかったクレジットとあわせて見せている（PR）。",
+    "points": [
+      "Claude に「10ドルで冬の CM を10本作って」と頼み、画風のちがうアニメ CM ができた",
+      "前半はブラウザの Higgsfield で作り、後半は MCP で Claude にまかせる",
+      "使ったクレジットもそのまま公開"
+    ],
+    "cats": [
+      "claude",
+      "charanime"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "zdvTRf7-3jQ": {
+    "topic": "feature",
+    "summary": "Gemini と Gemini Notebook（旧 NotebookLM）の新しい連携で、仕事に使えることを実演する動画。説明文に具体的な手順は少なく、内容は動画内での実演が中心。",
+    "points": [
+      "Gemini と Notebook の新しい連携を紹介",
+      "仕事で使える場面を実演"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "hFat7xBDpVo": {
+    "topic": "feature",
+    "summary": "Claude アプリの新機能10個を、「今日やるか・後でいいか」の判定つきで初心者向けに解説する動画。",
+    "points": [
+      "新機能10個を一つずつ紹介",
+      "それぞれ今すぐ使うべきか、後でいいかを判定",
+      "設定で確かめるポイントも紹介"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "vWVjMBnWR2o": {
+    "topic": "feature",
+    "summary": "Google が11月19日に発表した、Gemini の Mac アプリの「PC操作（Computer Use）」を、公式デモと公式情報をもとに解説する動画。何ができるか、怖くないか、日本で使えるかを取り上げている。",
+    "points": [
+      "Gemini がクリックや入力を代わりに行い、AI の作業中も自分は PC を使える",
+      "地味な作業や YouTube 制作・コンテンツ販売での使い方を考察",
+      "ChatGPT や Claude との違い、日本や Windows で使えるか、指示の出し方"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "8-eX0JSKMMU": {
+    "topic": "feature",
+    "summary": "Claude Duet を AI 秘書として使う方法を実際の画面で解説する動画。メッセージで仕事を頼むと作業を進め、人の判断が必要なところで知らせてくれる。",
+    "points": [
+      "メインチャットで方針を決め、仕事別のチャンネルに具体的な制作を任せる",
+      "Artifacts で作ったタスクボードで、作業中と承認待ちの案件を見分ける",
+      "短い指示からスライド・音声付き動画・note の下書きを作る"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "-zGfiP7G2U0": {
+    "topic": "feature",
+    "summary": "Meta の AI エージェント「Muse」で、みんなが実際に頼んでいる使い方を15個紹介する動画。",
+    "points": [
+      "Muse の使い方15選",
+      "iPhone・Android・パソコンのブラウザで無料で始められる"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "qQlinkZya8Q": {
+    "topic": "feature",
+    "summary": "パソコンを開かずに、スマホの Gemini だけで通勤中のすきま時間に仕事を進める活用術の紹介。説明文は特典の案内が中心で、具体的な手順は動画内。",
+    "points": [
+      "スマホの Gemini で仕事を完結させる使い方",
+      "通勤中などのすきま時間の活用"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "jnmStQXdaf4": {
+    "topic": "feature",
+    "summary": "Google の新しい AI モデル「Gemini 4 Neon」で、手書きの家計簿の写真1枚から、SUM や SUMIF が入った「動く表」を作った動画。モデルの違いや料金、使える場所も解説している。",
+    "points": [
+      "手書きの表の写真から、関数入りのスプレッドシートを作る",
+      "Gemini 4 の4つのモデルの違い、Google AI Pro（月2,900円）と Antigravity で使える",
+      "Claude Fable 5.2 と同じお題（3D鬼ごっこ・シューティング）で作らせて比較"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "-hpgqUeqKbU": {
+    "topic": "feature",
+    "summary": "社内の AI 推進メンバーが、生産性が上がった Claude Code などの使い方を1人1つずつ紹介する会議の動画。",
+    "points": [
+      "Claude Code の「/btw」で、作業の流れを汚さずに別の質問をはさむ",
+      "送る文章を Artifact にためて、コピペと管理を楽にする",
+      "PC を30秒ごとに撮って「どこを AI 化すべきか」を提案させる"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "1LdS-B98WmY": {
+    "topic": "other",
+    "summary": "Mac 版 Gemini アプリの Computer Use 機能（まずは米国・英語・有料プラン）と、Antigravity を他社 AI から操作するとアカウント停止になるかという話題を伝える AI ニュース。",
+    "points": [
+      "Mac 版 Gemini がアプリやファイルを代わりに操作できるように",
+      "Antigravity を他社ツールから操作するのは個人プランでは控えて、と Google Cloud 日本法人"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "j7LWGSI5KyE": {
+    "topic": "feature",
+    "summary": "Grok で何ができるかを基本から紹介するシリーズの1本目。X の公開投稿の調査や、画像・動画・ポッドキャストづくり、AI 秘書の Grok Bot を取り上げている。",
+    "points": [
+      "X の公開投稿を調べる",
+      "画像・短い動画・ポッドキャストを作る（Grok・ChatGPT・Muse で聴き比べ）",
+      "料金プランの違いと、Grok Bot に任せられること（調査係・メール係など）"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "uUr2aVJ_R60": {
+    "topic": "feature",
+    "summary": "Gemini の「スキル」の作り方と使い方を5分で解説する動画。よく使う指示を保存しておくと、名前を呼ぶか、依頼の内容に合わせて Gemini が自動で使ってくれる。",
+    "points": [
+      "繰り返す指示を「スキル」として保存して使い回す",
+      "Gemini 自身にスキルを作ってもらう方法",
+      "これまでの「Gem」は廃止されてスキルに置き換わるので、早めに移行するとよい"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "WHtdMUyftzw": {
+    "topic": "feature",
+    "summary": "NotebookLM（2026年7月に Gemini Notebook に改名）の全機能をまとめた解説動画。始め方、入れられる資料、作れる9種類、無料と有料の違いを紹介している。",
+    "points": [
+      "資料を入れて、動画やスライドなど9種類のものが作れる",
+      "仕事と趣味での使い方",
+      "無料と有料の違い、使う前の注意、今夜やる3ステップ"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "or2AUPgMqgE": {
+    "topic": "feature",
+    "summary": "Claude Code で、MCP サーバーが配る skill（手順書）を名前で呼ぶやり方を解説する応用編。毎回使い方を説明しなくてよくなる。",
+    "points": [
+      "skill を出しているサーバーなら、ツールと一緒に手順書が届く",
+      "プロンプトで / を打つと「サーバー名:skill名」で並び、名前で呼べる",
+      "入れるのは信頼できるサーバーだけにする"
+    ],
+    "summarizedAt": "2026-11-27"
+  },
+  "uZtds35CI-k": {
+    "topic": "other",
+    "summary": "タイトルは Grok 3 の解説だが、説明文は AI 副業の講座案内が中心で、Grok の機能や使い方についての記述がない。",
+    "points": [
+      "説明文は副業講座の案内"
+    ],
+    "summarizedAt": "2026-11-27"
   }
 };
